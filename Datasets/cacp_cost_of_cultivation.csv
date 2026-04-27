@@ -1,0 +1,254 @@
+Crop Name,Crop Year,Cost of Cultivation per Hectare (INR)
+Barley,1997,5100
+Barley,1998,5500
+Barley,1999,5900
+Barley,2000,6300
+Barley,2001,6780
+Barley,2002,7260
+Barley,2003,7740
+Barley,2004,8220
+Barley,2005,8700
+Barley,2006,9633
+Barley,2007,10567
+Barley,2008,11500
+Barley,2009,12850
+Barley,2010,14200
+Barley,2011,16100
+Barley,2012,18000
+Barley,2013,19500
+Barley,2014,21000
+Barley,2015,22500
+Barley,2016,24167
+Barley,2017,25833
+Barley,2018,27500
+Barley,2019,29250
+Barley,2020,31000
+Barley,2021,33000
+Barley,2022,35000
+Maize,1997,5600
+Maize,1998,6100
+Maize,1999,6600
+Maize,2000,7100
+Maize,2001,7640
+Maize,2002,8180
+Maize,2003,8720
+Maize,2004,9260
+Maize,2005,9800
+Maize,2006,10933
+Maize,2007,12067
+Maize,2008,13200
+Maize,2009,14850
+Maize,2010,16500
+Maize,2011,18750
+Maize,2012,21000
+Maize,2013,23167
+Maize,2014,25333
+Maize,2015,27500
+Maize,2016,29833
+Maize,2017,32167
+Maize,2018,34500
+Maize,2019,36750
+Maize,2020,39000
+Maize,2021,42000
+Maize,2022,45000
+Other Cereals,2000,7100
+Other Cereals,2004,9260
+Other Cereals,2005,9800
+Other Cereals,2006,10933
+Other Cereals,2007,12067
+Other Cereals,2008,13200
+Other Cereals,2009,14850
+Other Cereals,2010,16500
+Other Cereals,2016,29833
+Other Cereals,2017,32167
+Other Cereals,2018,34500
+Other Cereals,2019,36750
+Other Cereals,2020,39000
+Other Cereals,2021,42000
+Other Cereals,2022,45000
+Other Kharif Pulses,2000,9000
+Other Kharif Pulses,2001,9700
+Other Kharif Pulses,2002,10400
+Other Kharif Pulses,2004,11800
+Other Kharif Pulses,2005,12500
+Other Kharif Pulses,2006,14167
+Other Kharif Pulses,2007,15833
+Other Kharif Pulses,2008,17500
+Other Kharif Pulses,2009,20000
+Other Kharif Pulses,2010,22500
+Other Kharif Pulses,2011,25750
+Other Kharif Pulses,2012,29000
+Other Kharif Pulses,2013,31500
+Other Kharif Pulses,2014,34000
+Other Kharif Pulses,2015,36500
+Other Kharif Pulses,2016,39333
+Other Kharif Pulses,2017,42167
+Other Kharif Pulses,2018,45000
+Other Kharif Pulses,2019,48000
+Other Kharif Pulses,2020,51000
+Other Kharif Pulses,2021,54500
+Other Kharif Pulses,2022,58000
+Other Oilseeds,2000,6500
+Other Oilseeds,2002,7580
+Other Oilseeds,2003,8120
+Other Oilseeds,2004,8660
+Other Oilseeds,2005,9200
+Other Rabi Pulses,1997,5100
+Other Rabi Pulses,1998,5500
+Potato,2002,16000
+Potato,2003,18000
+Rapeseed & Mustard,1997,8500
+Rapeseed & Mustard,1998,9167
+Rapeseed & Mustard,1999,9833
+Rapeseed & Mustard,2000,10500
+Rapeseed & Mustard,2001,11040
+Rapeseed & Mustard,2002,11580
+Rapeseed & Mustard,2003,12120
+Rapeseed & Mustard,2004,12660
+Rapeseed & Mustard,2005,13200
+Rapeseed & Mustard,2006,14800
+Rapeseed & Mustard,2007,16400
+Rapeseed & Mustard,2008,18000
+Rapeseed & Mustard,2009,21250
+Rapeseed & Mustard,2010,24500
+Rapeseed & Mustard,2011,27500
+Rapeseed & Mustard,2012,30500
+Rapeseed & Mustard,2013,32833
+Rapeseed & Mustard,2014,35167
+Rapeseed & Mustard,2015,37500
+Rapeseed & Mustard,2016,40000
+Rapeseed & Mustard,2017,42500
+Rapeseed & Mustard,2018,45000
+Rapeseed & Mustard,2019,48000
+Rapeseed & Mustard,2020,51000
+Rapeseed & Mustard,2021,54750
+Rapeseed & Mustard,2022,58500
+Rice,1997,8100
+Rice,1998,8800
+Rice,1999,9500
+Rice,2000,10200
+Rice,2001,11060
+Rice,2002,11920
+Rice,2003,12780
+Rice,2004,13640
+Rice,2005,14500
+Rice,2006,16267
+Rice,2007,18033
+Rice,2008,19800
+Rice,2009,21100
+Rice,2010,22400
+Rice,2011,25000
+Rice,2012,27600
+Rice,2013,30000
+Rice,2014,32400
+Rice,2015,34800
+Rice,2016,37300
+Rice,2017,39800
+Rice,2018,42300
+Rice,2019,44900
+Rice,2020,47500
+Rice,2021,50850
+Rice,2022,54200
+Small Millets,1997,5000
+Small Millets,1998,5400
+Small Millets,2000,6200
+Small Millets,2001,6660
+Small Millets,2002,7120
+Small Millets,2003,7580
+Small Millets,2004,8040
+Small Millets,2005,8500
+Small Millets,2006,9500
+Small Millets,2007,10500
+Small Millets,2008,11500
+Small Millets,2009,13000
+Small Millets,2010,14500
+Small Millets,2011,16750
+Small Millets,2012,19000
+Small Millets,2013,20667
+Small Millets,2014,22333
+Small Millets,2015,24000
+Small Millets,2016,26000
+Small Millets,2017,28000
+Small Millets,2018,30000
+Small Millets,2019,32000
+Small Millets,2020,34000
+Small Millets,2021,36500
+Small Millets,2022,39000
+Soyabean,1997,5200
+Soyabean,1998,5633
+Soyabean,1999,6067
+Soyabean,2000,6500
+Soyabean,2001,7040
+Soyabean,2002,7580
+Soyabean,2003,8120
+Soyabean,2004,8660
+Soyabean,2005,9200
+Soyabean,2006,10633
+Soyabean,2007,12067
+Soyabean,2008,13500
+Soyabean,2009,15250
+Soyabean,2010,17000
+Soyabean,2011,19750
+Soyabean,2012,22500
+Soyabean,2013,24500
+Soyabean,2014,26500
+Soyabean,2015,28500
+Soyabean,2016,30667
+Soyabean,2017,32833
+Soyabean,2018,35000
+Soyabean,2019,37500
+Soyabean,2020,40000
+Soyabean,2021,43250
+Soyabean,2022,46500
+Urad,1997,7500
+Urad,1998,8000
+Urad,1999,8500
+Urad,2000,9000
+Urad,2001,9700
+Urad,2002,10400
+Urad,2003,11100
+Urad,2004,11800
+Urad,2005,12500
+Urad,2006,14167
+Urad,2007,15833
+Urad,2008,17500
+Urad,2009,20000
+Urad,2010,22500
+Urad,2011,25750
+Urad,2012,29000
+Urad,2013,31500
+Urad,2014,34000
+Urad,2015,36500
+Urad,2016,39333
+Urad,2017,42167
+Urad,2018,45000
+Urad,2019,48000
+Urad,2020,51000
+Urad,2021,54500
+Urad,2022,58000
+Wheat,1997,7800
+Wheat,1998,8467
+Wheat,1999,9133
+Wheat,2000,9800
+Wheat,2001,10640
+Wheat,2002,11480
+Wheat,2003,12320
+Wheat,2004,13160
+Wheat,2005,14000
+Wheat,2006,15500
+Wheat,2007,17000
+Wheat,2008,18500
+Wheat,2009,20250
+Wheat,2010,22000
+Wheat,2011,25000
+Wheat,2012,28000
+Wheat,2013,30500
+Wheat,2014,33000
+Wheat,2015,35500
+Wheat,2016,38333
+Wheat,2017,41167
+Wheat,2018,44000
+Wheat,2019,46500
+Wheat,2020,49000
+Wheat,2021,52300
+Wheat,2022,55600
