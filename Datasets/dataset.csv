@@ -1,990 +1,990 @@
-Crop Name,District Name,Crop Year,Crop Season,Cultivation Area (Hectare),Production (Tonne),Yield (Tonne per Hectare),Cost of Cultivation per Hectare (INR),Revenue per Hectare (INR),Annual Rainfall (mm),Rainfall Category,Organic Phase Code,Organic Phase Label,Rainfall Category Code
-Barley,Gangtok,1997,Rabi,500,500.0,1.0,5100,2700,3100,Normal,0,Conventional,1
-Barley,Gangtok,1998,Rabi,340,270.0,0.79,5500,2144,2890,Normal,0,Conventional,1
-Barley,Gangtok,1999,Rabi,340,500.0,1.47,5900,4118,3210,Normal,0,Conventional,1
-Barley,Gangtok,2000,Rabi,340,390.0,1.15,6300,3326,2780,Deficient,0,Conventional,2
-Barley,Gangtok,2001,Rabi,340,440.0,1.29,6780,4012,3080,Normal,0,Conventional,1
-Barley,Gangtok,2002,Rabi,440,530.0,1.2,7260,3855,2970,Normal,0,Conventional,1
-Barley,Gangtok,2003,Rabi,440,500.0,1.14,7740,3750,3740,Excess,1,Transition,0
-Barley,Gangtok,2004,Rabi,440,500.0,1.14,8220,3864,3200,Normal,1,Transition,1
-Barley,Gangtok,2005,Rabi,440,520.0,1.18,8700,4195,2750,Deficient,1,Transition,2
-Barley,Gangtok,2006,Rabi,420,450.0,1.07,9633,4071,2680,Deficient,1,Transition,2
-Barley,Gangtok,2007,Rabi,310,330.0,1.06,10567,4577,2610,Deficient,1,Transition,2
-Barley,Gangtok,2008,Rabi,210,190.0,0.9,11500,4252,3080,Normal,1,Transition,1
-Barley,Gangtok,2009,Rabi,410,370.0,0.9,12850,4512,2460,Deficient,1,Transition,2
-Barley,Gangtok,2010,Rabi,320,288.0,0.9,14200,5220,3050,Normal,1,Transition,1
-Barley,Gangtok,2011,Rabi,300,280.0,0.93,16100,5927,3230,Normal,1,Transition,1
-Barley,Gangtok,2012,Rabi,240,250.0,1.04,18000,10208,2590,Deficient,1,Transition,2
-Barley,Gangtok,2013,Rabi,230,250.0,1.09,19500,11957,3010,Normal,1,Transition,1
-Barley,Gangtok,2014,Rabi,225,241.0,1.07,21000,12318,3200,Normal,1,Transition,1
-Barley,Gangtok,2015,Rabi,225,243.0,1.08,22500,13230,2910,Normal,1,Transition,1
-Barley,Gangtok,2016,Rabi,230,250.0,1.09,24167,14402,3120,Normal,2,Organic,1
-Barley,Gangtok,2017,Rabi,225,245.0,1.09,25833,15353,3000,Normal,2,Organic,1
-Barley,Gangtok,2018,Rabi,216,248.0,1.15,27500,16533,2820,Normal,2,Organic,1
-Barley,Gangtok,2019,Rabi,214,246.0,1.15,29250,17530,3090,Normal,2,Organic,1
-Barley,Gangtok,2020,Rabi,200,230.0,1.15,31000,18400,2900,Normal,2,Organic,1
-Barley,Gangtok,2021,Rabi,1199,1209.0,1.01,33000,16486,3190,Normal,2,Organic,1
-Barley,Gangtok,2022,Rabi,52,59.0,1.13,35000,19686,2860,Normal,2,Organic,1
-Barley,Geyzing,1997,Rabi,450,623.0,1.38,5100,3738,2700,Normal,0,Conventional,1
-Barley,Geyzing,1998,Rabi,450,600.0,1.33,5500,3600,2500,Normal,0,Conventional,1
-Barley,Geyzing,1999,Rabi,450,670.0,1.49,5900,4169,2780,Normal,0,Conventional,1
-Barley,Geyzing,2000,Rabi,450,470.0,1.04,6300,3029,2420,Deficient,0,Conventional,2
-Barley,Geyzing,2001,Rabi,450,610.0,1.36,6780,4202,2680,Normal,0,Conventional,1
-Barley,Geyzing,2002,Rabi,450,670.0,1.49,7260,4764,2590,Normal,0,Conventional,1
-Barley,Geyzing,2003,Rabi,450,600.0,1.33,7740,4400,3250,Excess,1,Transition,0
-Barley,Geyzing,2004,Rabi,450,600.0,1.33,8220,4533,2790,Normal,1,Transition,1
-Barley,Geyzing,2005,Rabi,450,610.0,1.36,8700,4812,2390,Deficient,1,Transition,2
-Barley,Geyzing,2006,Rabi,390,500.0,1.28,9633,4872,2310,Deficient,1,Transition,2
-Barley,Geyzing,2007,Rabi,120,110.0,0.92,10567,3942,2260,Deficient,1,Transition,2
-Barley,Geyzing,2008,Rabi,90,100.0,1.11,11500,5222,2680,Normal,1,Transition,1
-Barley,Geyzing,2009,Rabi,110,108.0,0.98,12850,4909,2130,Deficient,1,Transition,2
-Barley,Geyzing,2010,Rabi,40,39.0,0.98,14200,5655,2650,Normal,1,Transition,1
-Barley,Geyzing,2011,Rabi,40,40.0,1.0,16100,6350,2810,Normal,1,Transition,1
-Barley,Geyzing,2012,Rabi,100,90.0,0.9,18000,8820,2250,Deficient,1,Transition,2
-Barley,Geyzing,2013,Rabi,100,90.0,0.9,19500,9900,2620,Normal,1,Transition,1
-Barley,Geyzing,2014,Rabi,20,18.0,0.9,21000,10350,2780,Normal,1,Transition,1
-Barley,Geyzing,2015,Rabi,12,11.0,0.92,22500,11229,2530,Normal,1,Transition,1
-Barley,Geyzing,2016,Rabi,13,12.0,0.92,24167,12231,2710,Normal,2,Organic,1
-Barley,Geyzing,2021,Rabi,395,372.0,0.94,33000,15398,2770,Normal,2,Organic,1
-Barley,Mangan,1997,Rabi,150,207.0,1.38,5100,3726,2280,Normal,0,Conventional,1
-Barley,Mangan,1998,Rabi,150,207.0,1.38,5500,3726,2140,Normal,0,Conventional,1
-Barley,Mangan,1999,Rabi,150,207.0,1.38,5900,3864,2350,Normal,0,Conventional,1
-Barley,Mangan,2000,Rabi,150,150.0,1.0,6300,2900,2060,Deficient,0,Conventional,2
-Barley,Mangan,2001,Rabi,140,92.0,0.66,6780,2037,2260,Normal,0,Conventional,1
-Barley,Mangan,2002,Rabi,140,100.0,0.71,7260,2286,2190,Normal,0,Conventional,1
-Barley,Mangan,2003,Rabi,140,110.0,0.79,7740,2593,2760,Normal,1,Transition,1
-Barley,Mangan,2004,Rabi,140,120.0,0.86,8220,2914,2350,Normal,1,Transition,1
-Barley,Mangan,2005,Rabi,140,140.0,1.0,8700,3550,2020,Deficient,1,Transition,2
-Barley,Mangan,2006,Rabi,140,120.0,0.86,9633,3257,1960,Deficient,1,Transition,2
-Barley,Mangan,2007,Rabi,80,80.0,1.0,10567,4300,1920,Deficient,1,Transition,2
-Barley,Mangan,2008,Rabi,50,40.0,0.8,11500,3760,2250,Normal,1,Transition,1
-Barley,Mangan,2009,Rabi,240,242.0,1.01,12850,5042,1810,Deficient,1,Transition,2
-Barley,Mangan,2010,Rabi,140,165.0,1.18,14200,6836,2230,Normal,1,Transition,1
-Barley,Mangan,2011,Rabi,140,160.0,1.14,16100,7257,2370,Normal,1,Transition,1
-Barley,Mangan,2012,Rabi,140,150.0,1.07,18000,10500,1900,Deficient,1,Transition,2
-Barley,Mangan,2013,Rabi,140,151.0,1.08,19500,11864,2210,Normal,1,Transition,1
-Barley,Mangan,2014,Rabi,140,150.0,1.07,21000,12321,2350,Normal,1,Transition,1
-Barley,Mangan,2015,Rabi,140,153.0,1.09,22500,13388,2140,Normal,1,Transition,1
-Barley,Mangan,2016,Rabi,140,154.0,1.1,24167,14575,2290,Normal,2,Organic,1
-Barley,Mangan,2017,Rabi,145,160.0,1.1,25833,15559,2200,Normal,2,Organic,1
-Barley,Mangan,2018,Rabi,140,167.0,1.19,27500,17177,2070,Deficient,2,Organic,2
-Barley,Mangan,2019,Rabi,147,175.0,1.19,29250,18155,2270,Normal,2,Organic,1
-Barley,Mangan,2020,Rabi,146,174.0,1.19,31000,19068,2130,Normal,2,Organic,1
-Barley,Mangan,2021,Rabi,236,232.0,0.98,33000,16073,2340,Normal,2,Organic,1
-Barley,Mangan,2022,Rabi,147,176.0,1.2,35000,20773,2100,Normal,2,Organic,1
-Barley,Namchi,1997,Rabi,210,180.0,0.86,5100,2314,2750,Normal,0,Conventional,1
-Barley,Namchi,1998,Rabi,190,140.0,0.74,5500,1989,2580,Normal,0,Conventional,1
-Barley,Namchi,1999,Rabi,200,300.0,1.5,5900,4200,2850,Normal,0,Conventional,1
-Barley,Namchi,2000,Rabi,200,200.0,1.0,6300,2900,2480,Normal,0,Conventional,1
-Barley,Namchi,2001,Rabi,250,190.0,0.76,6780,2356,2740,Normal,0,Conventional,1
-Barley,Namchi,2002,Rabi,200,200.0,1.0,7260,3200,2650,Normal,0,Conventional,1
-Barley,Namchi,2003,Rabi,200,300.0,1.5,7740,4950,3320,Excess,1,Transition,0
-Barley,Namchi,2004,Rabi,200,300.0,1.5,8220,5100,2850,Normal,1,Transition,1
-Barley,Namchi,2005,Rabi,200,320.0,1.6,8700,5680,2440,Normal,1,Transition,1
-Barley,Namchi,2006,Rabi,200,200.0,1.0,9633,3800,2380,Deficient,1,Transition,2
-Barley,Namchi,2007,Rabi,200,140.0,0.7,10567,3010,2320,Deficient,1,Transition,2
-Barley,Namchi,2008,Rabi,150,140.0,0.93,11500,4387,2740,Normal,1,Transition,1
-Barley,Namchi,2009,Rabi,240,200.0,0.83,12850,4167,2190,Deficient,1,Transition,2
-Barley,Namchi,2010,Rabi,140,117.0,0.84,14200,4847,2710,Normal,1,Transition,1
-Barley,Namchi,2011,Rabi,100,80.0,0.8,16100,5080,2870,Normal,1,Transition,1
-Barley,Namchi,2012,Rabi,110,100.0,0.91,18000,8909,2300,Deficient,1,Transition,2
-Barley,Namchi,2013,Rabi,110,101.0,0.92,19500,10100,2680,Normal,1,Transition,1
-Barley,Namchi,2014,Rabi,100,90.0,0.9,21000,10350,2840,Normal,1,Transition,1
-Barley,Namchi,2015,Rabi,70,65.0,0.93,22500,11375,2590,Normal,1,Transition,1
-Barley,Namchi,2016,Rabi,70,65.0,0.93,24167,12304,2770,Normal,2,Organic,1
-Barley,Namchi,2017,Rabi,50,46.0,0.92,25833,12972,2660,Normal,2,Organic,1
-Barley,Namchi,2018,Rabi,430,429.0,1.0,27500,14367,2510,Normal,2,Organic,1
-Barley,Namchi,2019,Rabi,40,40.0,1.0,29250,15250,2740,Normal,2,Organic,1
-Barley,Namchi,2021,Rabi,1310,1291.0,0.99,33000,16113,2840,Normal,2,Organic,1
-Barley,Namchi,2022,Rabi,2,2.0,1.0,35000,17350,2540,Normal,2,Organic,1
-Barley,Pakyong,2022,Rabi,89,64.0,0.72,35000,12476,2860,Normal,2,Organic,1
-Maize,Gangtok,1997,Kharif,9700,14120.0,1.46,5600,3130,3100,Normal,0,Conventional,1
-Maize,Gangtok,1998,Kharif,9690,16450.0,1.7,6100,3820,2890,Normal,0,Conventional,1
-Maize,Gangtok,1999,Kharif,9700,13473.0,1.39,6600,3125,3210,Normal,0,Conventional,1
-Maize,Gangtok,2000,Kharif,10210,15700.0,1.54,7100,3614,2780,Deficient,0,Conventional,2
-Maize,Gangtok,2001,Kharif,10210,15700.0,1.54,7640,3767,3080,Normal,0,Conventional,1
-Maize,Gangtok,2002,Kharif,8600,12040.0,1.4,8180,3710,2970,Normal,0,Conventional,1
-Maize,Gangtok,2003,Kharif,8580,12440.0,1.45,8720,4785,3740,Excess,1,Transition,0
-Maize,Gangtok,2004,Kharif,9270,13240.0,1.43,9260,4999,3200,Normal,1,Transition,1
-Maize,Gangtok,2005,Kharif,9270,14240.0,1.54,9800,5607,2750,Deficient,1,Transition,2
-Maize,Gangtok,2006,Kharif,8760,13730.0,1.57,10933,6113,2680,Deficient,1,Transition,2
-Maize,Gangtok,2007,Kharif,8650,9240.0,1.07,12067,5555,2610,Deficient,1,Transition,2
-Maize,Gangtok,2008,Kharif,8550,25300.0,2.96,13200,18346,3080,Normal,1,Transition,1
-Maize,Gangtok,2009,Kharif,8910,14920.0,1.67,14850,14066,2460,Deficient,1,Transition,2
-Maize,Gangtok,2010,Kharif,9070,15664.0,1.73,16500,15198,3050,Normal,1,Transition,1
-Maize,Gangtok,2011,Kharif,9040,15710.0,1.74,18750,17031,3230,Normal,1,Transition,1
-Maize,Gangtok,2012,Kharif,9030,15350.0,1.7,21000,19974,2590,Deficient,1,Transition,2
-Maize,Gangtok,2013,Kharif,9000,15400.0,1.71,23167,22416,3010,Normal,1,Transition,1
-Maize,Gangtok,2014,Kharif,8990,15400.0,1.71,25333,22697,3200,Normal,1,Transition,1
-Maize,Gangtok,2015,Kharif,8991,15640.0,1.74,27500,23049,2910,Normal,1,Transition,1
-Maize,Gangtok,2016,Kharif,8990,15721.0,1.75,29833,23870,3120,Normal,2,Organic,1
-Maize,Gangtok,2017,Kharif,8989,15731.0,1.75,32167,24938,3000,Normal,2,Organic,1
-Maize,Gangtok,2018,Kharif,8444,14777.0,1.75,34500,29750,2820,Normal,2,Organic,1
-Maize,Gangtok,2019,Kharif,8442,14831.0,1.76,36750,30920,3090,Normal,2,Organic,1
-Maize,Gangtok,2020,Kharif,8436,14821.0,1.76,39000,32502,2900,Normal,2,Organic,1
-Maize,Gangtok,2021,Kharif,8434,14843.0,1.76,42000,32910,3190,Normal,2,Organic,1
-Maize,Gangtok,2022,Kharif,3349,5873.0,1.75,45000,34407,2860,Normal,2,Organic,1
-Maize,Geyzing,1997,Kharif,13300,19100.0,1.44,5600,3088,2700,Normal,0,Conventional,1
-Maize,Geyzing,1998,Kharif,13300,18500.0,1.39,6100,3130,2500,Normal,0,Conventional,1
-Maize,Geyzing,1999,Kharif,13000,18200.0,1.4,6600,3150,2780,Normal,0,Conventional,1
-Maize,Geyzing,2000,Kharif,13300,19750.0,1.48,7100,3490,2420,Deficient,0,Conventional,2
-Maize,Geyzing,2001,Kharif,13470,18590.0,1.38,7640,3381,2680,Normal,0,Conventional,1
-Maize,Geyzing,2002,Kharif,13120,19170.0,1.46,8180,3872,2590,Normal,0,Conventional,1
-Maize,Geyzing,2003,Kharif,13320,22370.0,1.68,8720,5542,3250,Excess,1,Transition,0
-Maize,Geyzing,2004,Kharif,13320,23300.0,1.75,9260,6122,2790,Normal,1,Transition,1
-Maize,Geyzing,2005,Kharif,13320,24300.0,1.82,9800,6659,2390,Deficient,1,Transition,2
-Maize,Geyzing,2006,Kharif,13000,21300.0,1.64,10933,6390,2310,Deficient,1,Transition,2
-Maize,Geyzing,2007,Kharif,13000,18190.0,1.4,12067,7276,2260,Deficient,1,Transition,2
-Maize,Geyzing,2008,Kharif,12880,21710.0,1.69,13200,10450,2680,Normal,1,Transition,1
-Maize,Geyzing,2009,Kharif,13020,21990.0,1.69,14850,14187,2130,Deficient,1,Transition,2
-Maize,Geyzing,2010,Kharif,13870,23163.0,1.67,16500,14696,2650,Normal,1,Transition,1
-Maize,Geyzing,2011,Kharif,13860,23280.0,1.68,18750,16461,2810,Normal,1,Transition,1
-Maize,Geyzing,2012,Kharif,13880,23710.0,1.71,21000,20072,2250,Deficient,1,Transition,2
-Maize,Geyzing,2013,Kharif,13870,24000.0,1.73,23167,22668,2620,Normal,1,Transition,1
-Maize,Geyzing,2014,Kharif,13840,24000.0,1.73,25333,22977,2780,Normal,1,Transition,1
-Maize,Geyzing,2015,Kharif,13210,23110.0,1.75,27500,23180,2530,Normal,1,Transition,1
-Maize,Geyzing,2016,Kharif,12950,22689.0,1.75,29833,23915,2710,Normal,2,Organic,1
-Maize,Geyzing,2017,Kharif,13142,23090.0,1.76,32167,25037,2600,Normal,2,Organic,1
-Maize,Geyzing,2018,Kharif,13104,23024.0,1.76,34500,29869,2450,Normal,2,Organic,1
-Maize,Geyzing,2019,Kharif,13796,24240.0,1.76,36750,30924,2680,Normal,2,Organic,1
-Maize,Geyzing,2020,Kharif,13801,24262.0,1.76,39000,32523,2520,Normal,2,Organic,1
-Maize,Geyzing,2021,Kharif,13700,24098.0,1.76,42000,32893,2770,Normal,2,Organic,1
-Maize,Geyzing,2022,Kharif,6752,11695.0,1.73,45000,33983,2480,Normal,2,Organic,1
-Maize,Mangan,1997,Kharif,3093,4440.0,1.44,5600,3086,2280,Normal,0,Conventional,1
-Maize,Mangan,1998,Kharif,3093,2230.0,0.72,6100,1622,2140,Normal,0,Conventional,1
-Maize,Mangan,1999,Kharif,3093,4161.0,1.35,6600,3027,2350,Normal,0,Conventional,1
-Maize,Mangan,2000,Kharif,3093,4561.0,1.47,7100,3465,2060,Deficient,0,Conventional,2
-Maize,Mangan,2001,Kharif,3030,3924.0,1.3,7640,3173,2260,Normal,0,Conventional,1
-Maize,Mangan,2002,Kharif,2500,3250.0,1.3,8180,3445,2190,Normal,0,Conventional,1
-Maize,Mangan,2003,Kharif,2300,3490.0,1.52,8720,5007,2760,Normal,1,Transition,1
-Maize,Mangan,2004,Kharif,1610,2990.0,1.86,9260,6500,2350,Normal,1,Transition,1
-Maize,Mangan,2005,Kharif,1610,3200.0,1.99,9800,7255,2020,Deficient,1,Transition,2
-Maize,Mangan,2006,Kharif,1810,3000.0,1.66,10933,6464,1960,Deficient,1,Transition,2
-Maize,Mangan,2007,Kharif,2750,3760.0,1.37,12067,7110,1920,Deficient,1,Transition,2
-Maize,Mangan,2008,Kharif,2770,4430.0,1.6,13200,9916,2250,Normal,1,Transition,1
-Maize,Mangan,2009,Kharif,2920,3970.0,1.36,14850,11421,1810,Deficient,1,Transition,2
-Maize,Mangan,2010,Kharif,2900,4051.0,1.4,16500,12293,2230,Normal,1,Transition,1
-Maize,Mangan,2011,Kharif,2760,3850.0,1.39,18750,13670,2370,Normal,1,Transition,1
-Maize,Mangan,2012,Kharif,2750,4120.0,1.5,21000,17604,1900,Deficient,1,Transition,2
-Maize,Mangan,2013,Kharif,2750,4225.0,1.54,23167,20126,2210,Normal,1,Transition,1
-Maize,Mangan,2014,Kharif,2750,4290.0,1.56,25333,20670,2350,Normal,1,Transition,1
-Maize,Mangan,2015,Kharif,2754,4380.0,1.59,27500,21073,2140,Normal,1,Transition,1
-Maize,Mangan,2016,Kharif,2668,4265.0,1.6,29833,21821,2290,Normal,2,Organic,1
-Maize,Mangan,2017,Kharif,2827,4523.0,1.6,32167,22799,2200,Normal,2,Organic,1
-Maize,Mangan,2018,Kharif,2750,4400.0,1.6,34500,27200,2070,Deficient,2,Organic,2
-Maize,Mangan,2019,Kharif,2829,4529.0,1.6,36750,28176,2270,Normal,2,Organic,1
-Maize,Mangan,2020,Kharif,2828,4538.0,1.6,39000,29686,2130,Normal,2,Organic,1
-Maize,Mangan,2021,Kharif,2844,4573.0,1.61,42000,30069,2340,Normal,2,Organic,1
-Maize,Mangan,2022,Kharif,2829,4549.0,1.61,45000,31549,2100,Normal,2,Organic,1
-Maize,Namchi,1997,Kharif,13300,18050.0,1.36,5600,2918,2750,Normal,0,Conventional,1
-Maize,Namchi,1998,Kharif,13300,16620.0,1.25,6100,2812,2580,Normal,0,Conventional,1
-Maize,Namchi,1999,Kharif,13300,17000.0,1.28,6600,2876,2850,Normal,0,Conventional,1
-Maize,Namchi,2000,Kharif,13300,19600.0,1.47,7100,3463,2480,Normal,0,Conventional,1
-Maize,Namchi,2001,Kharif,13400,18800.0,1.4,7640,3437,2740,Normal,0,Conventional,1
-Maize,Namchi,2002,Kharif,12500,18750.0,1.5,8180,3975,2650,Normal,0,Conventional,1
-Maize,Namchi,2003,Kharif,12500,18750.0,1.5,8720,4950,3320,Excess,1,Transition,0
-Maize,Namchi,2004,Kharif,12500,18750.0,1.5,9260,5250,2850,Normal,1,Transition,1
-Maize,Namchi,2005,Kharif,1250,19360.0,15.49,9800,56531,2440,Normal,1,Transition,1
-Maize,Namchi,2006,Kharif,17280,26860.0,1.55,10933,6062,2380,Deficient,1,Transition,2
-Maize,Namchi,2007,Kharif,15370,27930.0,1.82,12067,9449,2320,Deficient,1,Transition,2
-Maize,Namchi,2008,Kharif,15000,14300.0,0.95,13200,5911,2740,Normal,1,Transition,1
-Maize,Namchi,2009,Kharif,14650,23810.0,1.63,14850,13652,2190,Deficient,1,Transition,2
-Maize,Namchi,2010,Kharif,14330,233145.0,16.27,16500,143173,2710,Normal,1,Transition,1
-Maize,Namchi,2011,Kharif,14290,23370.0,1.64,18750,16027,2870,Normal,1,Transition,1
-Maize,Namchi,2012,Kharif,14310,24770.0,1.73,21000,20339,2300,Deficient,1,Transition,2
-Maize,Namchi,2013,Kharif,14310,25200.0,1.76,23167,23069,2680,Normal,1,Transition,1
-Maize,Namchi,2014,Kharif,14300,25200.0,1.76,25333,23350,2840,Normal,1,Transition,1
-Maize,Namchi,2015,Kharif,14000,25180.0,1.8,27500,23831,2590,Normal,1,Transition,1
-Maize,Namchi,2016,Kharif,13890,25317.0,1.82,29833,24880,2770,Normal,2,Organic,1
-Maize,Namchi,2017,Kharif,13500,24624.0,1.82,32167,25992,2660,Normal,2,Organic,1
-Maize,Namchi,2018,Kharif,13480,24588.0,1.82,34500,31009,2510,Normal,2,Organic,1
-Maize,Namchi,2019,Kharif,13320,24308.0,1.82,36750,32119,2740,Normal,2,Organic,1
-Maize,Namchi,2020,Kharif,13325,24317.0,1.82,39000,33761,2580,Normal,2,Organic,1
-Maize,Namchi,2021,Kharif,13300,24350.0,1.83,42000,34236,2840,Normal,2,Organic,1
-Maize,Namchi,2022,Kharif,13237,24235.0,1.83,45000,35921,2540,Normal,2,Organic,1
-Maize,Pakyong,2022,Kharif,5076,9012.0,1.78,45000,34834,2860,Normal,2,Organic,1
-Maize,Soreng,2022,Kharif,6280,11682.0,1.86,45000,36497,2480,Normal,2,Organic,1
-Other Rabi Pulses,Gangtok,1997,Rabi,750,810.0,1.08,5100,2916,3100,Normal,0,Conventional,1
-Other Rabi Pulses,Gangtok,1998,Rabi,750,840.0,1.12,5500,3024,2890,Normal,0,Conventional,1
-Other Rabi Pulses,Geyzing,1997,Rabi,850,1010.0,1.19,5100,3208,2700,Normal,0,Conventional,1
-Other Rabi Pulses,Geyzing,1998,Rabi,840,1000.0,1.19,5500,3214,2500,Normal,0,Conventional,1
-Other Rabi Pulses,Mangan,1997,Rabi,60,60.0,1.0,5100,2700,2280,Normal,0,Conventional,1
-Other Rabi Pulses,Mangan,1998,Rabi,60,56.0,0.93,5500,2520,2140,Normal,0,Conventional,1
-Other Rabi Pulses,Namchi,1997,Rabi,650,770.0,1.18,5100,3198,2750,Normal,0,Conventional,1
-Other Rabi Pulses,Namchi,1998,Rabi,650,650.0,1.0,5500,2700,2580,Normal,0,Conventional,1
-Other Cereals,Gangtok,2000,Rabi,540,400.0,0.74,7100,1741,2780,Deficient,0,Conventional,2
-Other Cereals,Gangtok,2004,Rabi,560,470.0,0.84,9260,2938,3200,Normal,1,Transition,1
-Other Cereals,Gangtok,2005,Rabi,560,500.0,0.89,9800,3259,2750,Deficient,1,Transition,2
-Other Cereals,Gangtok,2006,Rabi,650,580.0,0.89,10933,3480,2680,Deficient,1,Transition,2
-Other Cereals,Gangtok,2007,Rabi,370,260.0,0.7,12067,3654,2610,Deficient,1,Transition,2
-Other Cereals,Gangtok,2008,Rabi,1700,1600.0,0.94,13200,5835,3080,Normal,1,Transition,1
-Other Cereals,Gangtok,2009,Rabi,1720,1610.0,0.94,14850,7863,2460,Deficient,1,Transition,2
-Other Cereals,Gangtok,2010,Rabi,1660,1554.0,0.94,16500,8238,3050,Normal,1,Transition,1
-Other Cereals,Gangtok,2016,Kharif,1190,1188.0,1.0,29833,13627,3120,Normal,2,Organic,1
-Other Cereals,Gangtok,2017,Kharif,1234,1232.0,1.0,32167,14227,3000,Normal,2,Organic,1
-Other Cereals,Gangtok,2018,Kharif,1220,1218.0,1.0,34500,16972,2820,Normal,2,Organic,1
-Other Cereals,Gangtok,2019,Kharif,1219,1227.0,1.01,36750,17716,3090,Normal,2,Organic,1
-Other Cereals,Gangtok,2020,Kharif,1196,1204.0,1.01,39000,18624,2900,Normal,2,Organic,1
-Other Cereals,Gangtok,2021,Kharif,1199,120.9,0.1,42000,1886,3190,Normal,2,Organic,1
-Other Cereals,Gangtok,2022,Kharif,381,387.0,1.02,45000,19929,2860,Normal,2,Organic,1
-Other Cereals,Geyzing,2000,Rabi,680,530.0,0.78,7100,1832,2420,Deficient,0,Conventional,2
-Other Cereals,Geyzing,2004,Rabi,670,550.0,0.82,9260,2873,2790,Normal,1,Transition,1
-Other Cereals,Geyzing,2005,Rabi,670,560.0,0.84,9800,3051,2390,Deficient,1,Transition,2
-Other Cereals,Geyzing,2006,Rabi,770,750.0,0.97,10933,3799,2310,Deficient,1,Transition,2
-Other Cereals,Geyzing,2007,Rabi,380,380.0,1.0,12067,5200,2260,Deficient,1,Transition,2
-Other Cereals,Geyzing,2008,Rabi,2160,2130.0,0.99,13200,6114,2680,Normal,1,Transition,1
-Other Cereals,Geyzing,2009,Rabi,1030,900.0,0.87,14850,7340,2130,Deficient,1,Transition,2
-Other Cereals,Geyzing,2010,Rabi,1150,1005.0,0.87,16500,7690,2650,Normal,1,Transition,1
-Other Cereals,Geyzing,2016,Kharif,765,711.0,0.93,29833,12686,2710,Normal,2,Organic,1
-Other Cereals,Geyzing,2017,Kharif,670,623.0,0.93,32167,13250,2600,Normal,2,Organic,1
-Other Cereals,Geyzing,2018,Kharif,266,247.0,0.93,34500,15786,2450,Normal,2,Organic,1
-Other Cereals,Geyzing,2019,Kharif,393,365.0,0.93,36750,16346,2680,Normal,2,Organic,1
-Other Cereals,Geyzing,2020,Kharif,393,370.0,0.94,39000,17417,2520,Normal,2,Organic,1
-Other Cereals,Geyzing,2021,Kharif,395,37.2,0.09,42000,1761,2770,Normal,2,Organic,1
-Other Cereals,Geyzing,2022,Kharif,210,199.0,0.95,45000,18592,2480,Normal,2,Organic,1
-Other Cereals,Mangan,2000,Rabi,190,140.0,0.74,7100,1732,2060,Deficient,0,Conventional,2
-Other Cereals,Mangan,2004,Rabi,200,120.0,0.6,9260,2100,2350,Normal,1,Transition,1
-Other Cereals,Mangan,2005,Rabi,200,140.0,0.7,9800,2555,2020,Deficient,1,Transition,2
-Other Cereals,Mangan,2006,Rabi,200,140.0,0.7,10933,2730,1960,Deficient,1,Transition,2
-Other Cereals,Mangan,2007,Rabi,60,50.0,0.83,12067,4333,1920,Deficient,1,Transition,2
-Other Cereals,Mangan,2008,Rabi,300,280.0,0.93,13200,5787,2250,Normal,1,Transition,1
-Other Cereals,Mangan,2009,Rabi,820,680.0,0.83,14850,6966,1810,Deficient,1,Transition,2
-Other Cereals,Mangan,2010,Rabi,200,166.0,0.83,16500,7304,2230,Normal,1,Transition,1
-Other Cereals,Mangan,2016,Kharif,211,205.0,0.97,29833,13262,2290,Normal,2,Organic,1
-Other Cereals,Mangan,2017,Kharif,211,205.0,0.97,32167,13845,2200,Normal,2,Organic,1
-Other Cereals,Mangan,2018,Kharif,190,185.0,0.97,34500,16553,2070,Deficient,2,Organic,2
-Other Cereals,Mangan,2019,Kharif,214,208.0,0.97,36750,17107,2270,Normal,2,Organic,1
-Other Cereals,Mangan,2020,Kharif,213,209.0,0.98,39000,18153,2130,Normal,2,Organic,1
-Other Cereals,Mangan,2021,Kharif,236,232.0,0.98,42000,18383,2340,Normal,2,Organic,1
-Other Cereals,Mangan,2022,Kharif,214,209.0,0.98,45000,19162,2100,Normal,2,Organic,1
-Other Cereals,Namchi,2000,Rabi,580,460.0,0.79,7100,1864,2480,Normal,0,Conventional,1
-Other Cereals,Namchi,2004,Rabi,580,420.0,0.72,9260,2534,2850,Normal,1,Transition,1
-Other Cereals,Namchi,2005,Rabi,580,440.0,0.76,9800,2769,2440,Normal,1,Transition,1
-Other Cereals,Namchi,2006,Rabi,420,320.0,0.76,10933,2971,2380,Deficient,1,Transition,2
-Other Cereals,Namchi,2007,Rabi,450,270.0,0.6,12067,3120,2320,Deficient,1,Transition,2
-Other Cereals,Namchi,2008,Rabi,1380,1340.0,0.97,13200,6020,2740,Normal,1,Transition,1
-Other Cereals,Namchi,2009,Rabi,1970,1880.0,0.95,14850,8016,2190,Deficient,1,Transition,2
-Other Cereals,Namchi,2010,Rabi,1380,1332.0,0.97,16500,8494,2710,Normal,1,Transition,1
-Other Cereals,Namchi,2016,Kharif,1400,1372.0,0.98,29833,13377,2770,Normal,2,Organic,1
-Other Cereals,Namchi,2017,Kharif,1320,1294.0,0.98,32167,13969,2660,Normal,2,Organic,1
-Other Cereals,Namchi,2018,Kharif,1320,1294.0,0.98,34500,16665,2510,Normal,2,Organic,1
-Other Cereals,Namchi,2019,Kharif,1310,1288.0,0.98,36750,17304,2740,Normal,2,Organic,1
-Other Cereals,Namchi,2020,Kharif,1312,1290.0,0.98,39000,18190,2580,Normal,2,Organic,1
-Other Cereals,Namchi,2021,Kharif,1310,129.1,0.1,42000,1843,2840,Normal,2,Organic,1
-Other Cereals,Namchi,2022,Kharif,762,751.0,0.99,45000,19337,2540,Normal,2,Organic,1
-Other Cereals,Pakyong,2022,Kharif,857,866.0,1.01,45000,19826,2860,Normal,2,Organic,1
-Other Cereals,Soreng,2022,Kharif,207,195.0,0.94,45000,18483,2480,Normal,2,Organic,1
-Other Kharif Pulses,Gangtok,2000,Kharif,700,590.0,0.84,9000,7923,2780,Deficient,0,Conventional,2
-Other Kharif Pulses,Gangtok,2001,Kharif,1340,1310.0,0.98,9700,9776,3080,Normal,0,Conventional,1
-Other Kharif Pulses,Gangtok,2002,Kharif,1240,1300.0,1.05,10400,12581,2970,Normal,0,Conventional,1
-Other Kharif Pulses,Gangtok,2004,Kharif,1400,160.0,0.11,11800,1371,3200,Normal,1,Transition,1
-Other Kharif Pulses,Gangtok,2005,Kharif,1400,1700.0,1.21,12500,15786,2750,Deficient,1,Transition,2
-Other Kharif Pulses,Gangtok,2006,Kharif,1450,148.0,0.1,14167,1429,2680,Deficient,1,Transition,2
-Other Kharif Pulses,Gangtok,2007,Kharif,1840,1760.0,0.96,15833,16261,2610,Deficient,1,Transition,2
-Other Kharif Pulses,Gangtok,2008,Kharif,1450,1640.0,1.13,17500,21490,3080,Normal,1,Transition,1
-Other Kharif Pulses,Gangtok,2009,Kharif,1130,1260.0,1.12,20000,28099,2460,Deficient,1,Transition,2
-Other Kharif Pulses,Gangtok,2010,Kharif,740,673.0,0.91,22500,26374,3050,Normal,1,Transition,1
-Other Kharif Pulses,Gangtok,2011,Kharif,750,680.0,0.91,25750,29920,3230,Normal,1,Transition,1
-Other Kharif Pulses,Gangtok,2012,Kharif,570,530.0,0.93,29000,39982,2590,Deficient,1,Transition,2
-Other Kharif Pulses,Gangtok,2013,Kharif,470,450.0,0.96,31500,41170,3010,Normal,1,Transition,1
-Other Kharif Pulses,Gangtok,2014,Kharif,470,450.0,0.96,34000,41649,3200,Normal,1,Transition,1
-Other Kharif Pulses,Gangtok,2015,Kharif,470,454.0,0.97,36500,44676,2910,Normal,1,Transition,1
-Other Kharif Pulses,Gangtok,2016,Kharif,480,468.0,0.98,39333,48750,3120,Normal,2,Organic,1
-Other Kharif Pulses,Gangtok,2017,Kharif,472,460.0,0.97,42167,52627,3000,Normal,2,Organic,1
-Other Kharif Pulses,Gangtok,2018,Kharif,459,448.0,0.98,45000,54658,2820,Normal,2,Organic,1
-Other Kharif Pulses,Gangtok,2019,Kharif,457,450.0,0.98,48000,56127,3090,Normal,2,Organic,1
-Other Kharif Pulses,Gangtok,2020,Kharif,457,451.0,0.99,51000,59212,2900,Normal,2,Organic,1
-Other Kharif Pulses,Gangtok,2021,Kharif,455,450.0,0.99,54500,62308,3190,Normal,2,Organic,1
-Other Kharif Pulses,Gangtok,2022,Kharif,126,131.0,1.04,58000,68619,2860,Normal,2,Organic,1
-Other Kharif Pulses,Geyzing,2000,Kharif,840,1000.0,1.19,9000,11190,2420,Deficient,0,Conventional,2
-Other Kharif Pulses,Geyzing,2001,Kharif,820,1000.0,1.22,9700,12195,2680,Normal,0,Conventional,1
-Other Kharif Pulses,Geyzing,2002,Kharif,880,1170.0,1.33,10400,15955,2590,Normal,0,Conventional,1
-Other Kharif Pulses,Geyzing,2004,Kharif,750,1010.0,1.35,11800,16160,2790,Normal,1,Transition,1
-Other Kharif Pulses,Geyzing,2005,Kharif,750,1020.0,1.36,12500,17680,2390,Deficient,1,Transition,2
-Other Kharif Pulses,Geyzing,2006,Kharif,810,1000.0,1.23,14167,17284,2310,Deficient,1,Transition,2
-Other Kharif Pulses,Geyzing,2007,Kharif,280,20.0,0.07,15833,1214,2260,Deficient,1,Transition,2
-Other Kharif Pulses,Geyzing,2008,Kharif,310,310.0,1.0,17500,19000,2680,Normal,1,Transition,1
-Other Kharif Pulses,Geyzing,2009,Kharif,460,370.0,0.8,20000,20270,2130,Deficient,1,Transition,2
-Other Kharif Pulses,Geyzing,2010,Kharif,810,6510.0,8.04,22500,233074,2650,Normal,1,Transition,1
-Other Kharif Pulses,Geyzing,2011,Kharif,900,770.0,0.86,25750,28233,2810,Normal,1,Transition,1
-Other Kharif Pulses,Geyzing,2012,Kharif,980,870.0,0.89,29000,38173,2250,Deficient,1,Transition,2
-Other Kharif Pulses,Geyzing,2013,Kharif,990,880.0,0.89,31500,38222,2620,Normal,1,Transition,1
-Other Kharif Pulses,Geyzing,2014,Kharif,970,860.0,0.89,34000,38567,2780,Normal,1,Transition,1
-Other Kharif Pulses,Geyzing,2015,Kharif,719,650.0,0.9,36500,41812,2530,Normal,1,Transition,1
-Other Kharif Pulses,Geyzing,2016,Kharif,680,618.0,0.91,39333,45441,2710,Normal,2,Organic,1
-Other Kharif Pulses,Geyzing,2017,Kharif,628,572.0,0.91,42167,49185,2600,Normal,2,Organic,1
-Other Kharif Pulses,Geyzing,2018,Kharif,309,281.0,0.91,45000,50926,2450,Normal,2,Organic,1
-Other Kharif Pulses,Geyzing,2019,Kharif,485,443.0,0.91,48000,52064,2680,Normal,2,Organic,1
-Other Kharif Pulses,Geyzing,2020,Kharif,485,447.0,0.92,51000,55299,2520,Normal,2,Organic,1
-Other Kharif Pulses,Geyzing,2021,Kharif,491,453.0,0.92,54500,58124,2770,Normal,2,Organic,1
-Other Kharif Pulses,Geyzing,2022,Kharif,242,255.0,1.05,58000,69545,2480,Normal,2,Organic,1
-Other Kharif Pulses,Mangan,2000,Kharif,60,56.0,0.93,9000,8773,2060,Deficient,0,Conventional,2
-Other Kharif Pulses,Mangan,2001,Kharif,60,55.0,0.92,9700,9167,2260,Normal,0,Conventional,1
-Other Kharif Pulses,Mangan,2002,Kharif,80,80.0,1.0,10400,12000,2190,Normal,0,Conventional,1
-Other Kharif Pulses,Mangan,2004,Kharif,60,40.0,0.67,11800,8000,2350,Normal,1,Transition,1
-Other Kharif Pulses,Mangan,2005,Kharif,60,60.0,1.0,12500,13000,2020,Deficient,1,Transition,2
-Other Kharif Pulses,Mangan,2006,Kharif,60,100.0,1.67,14167,23333,1960,Deficient,1,Transition,2
-Other Kharif Pulses,Mangan,2007,Kharif,190,140.0,0.74,15833,12526,1920,Deficient,1,Transition,2
-Other Kharif Pulses,Mangan,2008,Kharif,100,90.0,0.9,17500,17100,2250,Normal,1,Transition,1
-Other Kharif Pulses,Mangan,2009,Kharif,330,300.0,0.91,20000,22909,1810,Deficient,1,Transition,2
-Other Kharif Pulses,Mangan,2010,Kharif,170,155.0,0.91,22500,26441,2230,Normal,1,Transition,1
-Other Kharif Pulses,Mangan,2011,Kharif,160,150.0,0.94,25750,30938,2370,Normal,1,Transition,1
-Other Kharif Pulses,Mangan,2012,Kharif,240,220.0,0.92,29000,39417,1900,Deficient,1,Transition,2
-Other Kharif Pulses,Mangan,2013,Kharif,250,230.0,0.92,31500,39560,2210,Normal,1,Transition,1
-Other Kharif Pulses,Mangan,2014,Kharif,270,250.0,0.93,34000,40278,2350,Normal,1,Transition,1
-Other Kharif Pulses,Mangan,2015,Kharif,267,252.0,0.94,36500,43652,2140,Normal,1,Transition,1
-Other Kharif Pulses,Mangan,2016,Kharif,270,255.0,0.94,39333,47222,2290,Normal,2,Organic,1
-Other Kharif Pulses,Mangan,2017,Kharif,276,261.0,0.95,42167,51065,2200,Normal,2,Organic,1
-Other Kharif Pulses,Mangan,2018,Kharif,250,236.0,0.94,45000,52864,2070,Deficient,2,Organic,2
-Other Kharif Pulses,Mangan,2019,Kharif,278,264.0,0.95,48000,54129,2270,Normal,2,Organic,1
-Other Kharif Pulses,Mangan,2020,Kharif,277,266.0,0.96,51000,57617,2130,Normal,2,Organic,1
-Other Kharif Pulses,Mangan,2021,Kharif,282,272.0,0.96,54500,60766,2340,Normal,2,Organic,1
-Other Kharif Pulses,Mangan,2022,Kharif,278,272.0,0.98,58000,64576,2100,Normal,2,Organic,1
-Other Kharif Pulses,Namchi,2000,Kharif,650,770.0,1.18,9000,11135,2480,Normal,0,Conventional,1
-Other Kharif Pulses,Namchi,2001,Kharif,640,840.0,1.31,9700,13125,2740,Normal,0,Conventional,1
-Other Kharif Pulses,Namchi,2002,Kharif,700,920.0,1.31,10400,15771,2650,Normal,0,Conventional,1
-Other Kharif Pulses,Namchi,2004,Kharif,720,950.0,1.32,11800,15833,2850,Normal,1,Transition,1
-Other Kharif Pulses,Namchi,2005,Kharif,720,1000.0,1.39,12500,18056,2440,Normal,1,Transition,1
-Other Kharif Pulses,Namchi,2006,Kharif,90,130.0,1.44,14167,20222,2380,Deficient,1,Transition,2
-Other Kharif Pulses,Namchi,2007,Kharif,2300,1890.0,0.82,15833,13970,2320,Deficient,1,Transition,2
-Other Kharif Pulses,Namchi,2008,Kharif,820,930.0,1.13,17500,21549,2740,Normal,1,Transition,1
-Other Kharif Pulses,Namchi,2009,Kharif,980,1100.0,1.12,20000,28286,2190,Deficient,1,Transition,2
-Other Kharif Pulses,Namchi,2010,Kharif,1280,1280.0,1.0,22500,29000,2710,Normal,1,Transition,1
-Other Kharif Pulses,Namchi,2011,Kharif,1270,1270.0,1.0,25750,33000,2870,Normal,1,Transition,1
-Other Kharif Pulses,Namchi,2012,Kharif,1310,1300.0,0.99,29000,42672,2300,Deficient,1,Transition,2
-Other Kharif Pulses,Namchi,2013,Kharif,1310,1320.0,1.01,31500,43328,2680,Normal,1,Transition,1
-Other Kharif Pulses,Namchi,2014,Kharif,1320,1330.0,1.01,34000,43830,2840,Normal,1,Transition,1
-Other Kharif Pulses,Namchi,2015,Kharif,1310,1342.0,1.02,36500,47380,2590,Normal,1,Transition,1
-Other Kharif Pulses,Namchi,2016,Kharif,1280,1312.0,1.03,39333,51250,2770,Normal,2,Organic,1
-Other Kharif Pulses,Namchi,2017,Kharif,1280,1312.0,1.03,42167,55350,2660,Normal,2,Organic,1
-Other Kharif Pulses,Namchi,2018,Kharif,1265,1296.0,1.02,45000,57372,2510,Normal,2,Organic,1
-Other Kharif Pulses,Namchi,2019,Kharif,1230,1270.0,1.03,48000,58854,2740,Normal,2,Organic,1
-Other Kharif Pulses,Namchi,2020,Kharif,1065,1105.0,1.04,51000,62254,2580,Normal,2,Organic,1
-Other Kharif Pulses,Namchi,2021,Kharif,1202,1250.0,1.04,54500,65516,2840,Normal,2,Organic,1
-Other Kharif Pulses,Namchi,2022,Kharif,1152,1250.0,1.09,58000,71615,2540,Normal,2,Organic,1
-Other Kharif Pulses,Pakyong,2022,Kharif,340,319.0,0.94,58000,61924,2860,Normal,2,Organic,1
-Other Kharif Pulses,Soreng,2022,Kharif,277,193.0,0.7,58000,45986,2480,Normal,2,Organic,1
-Other Oilseeds,Gangtok,2000,Kharif,20,10.0,0.5,6500,3250,2780,Deficient,0,Conventional,2
-Other Oilseeds,Geyzing,2000,Kharif,20,10.0,0.5,6500,3250,2420,Deficient,0,Conventional,2
-Other Oilseeds,Geyzing,2002,Whole Year,20,10.0,0.5,7580,3600,2590,Normal,0,Conventional,1
-Other Oilseeds,Geyzing,2003,Whole Year,20,10.0,0.5,8120,4450,3250,Excess,1,Transition,0
-Other Oilseeds,Geyzing,2004,Kharif,20,10.0,0.5,8660,4550,2790,Normal,1,Transition,1
-Other Oilseeds,Geyzing,2005,Kharif,20,20.0,1.0,9200,9450,2390,Deficient,1,Transition,2
-Other Oilseeds,Namchi,2000,Kharif,40,14.0,0.35,6500,2275,2480,Normal,0,Conventional,1
-Other Oilseeds,Namchi,2002,Whole Year,40,20.0,0.5,7580,3600,2650,Normal,0,Conventional,1
-Other Oilseeds,Namchi,2003,Whole Year,40,20.0,0.5,8120,4450,3320,Excess,1,Transition,0
-Other Oilseeds,Namchi,2004,Kharif,40,20.0,0.5,8660,4550,2850,Normal,1,Transition,1
-Other Oilseeds,Namchi,2005,Kharif,40,30.0,0.75,9200,7088,2440,Normal,1,Transition,1
-Potato,Gangtok,2002,Whole Year,1680,8980.0,5.35,16000,37417,2970,Normal,0,Conventional,1
-Potato,Gangtok,2003,Whole Year,2060,9630.0,4.67,18000,37398,3740,Excess,1,Transition,0
-Potato,Geyzing,2002,Whole Year,2970,10180.0,3.43,16000,23993,2590,Normal,0,Conventional,1
-Potato,Geyzing,2003,Whole Year,3270,14120.0,4.32,18000,34544,3250,Excess,1,Transition,0
-Potato,Mangan,2002,Whole Year,330,880.0,2.67,16000,18667,2190,Normal,0,Conventional,1
-Potato,Mangan,2003,Whole Year,310,1320.0,4.26,18000,34065,2760,Normal,1,Transition,1
-Potato,Namchi,2002,Whole Year,780,6980.0,8.95,16000,62641,2650,Normal,0,Conventional,1
-Potato,Namchi,2003,Whole Year,1830,8370.0,4.57,18000,36590,3320,Excess,1,Transition,0
-Rapeseed & Mustard,Gangtok,1997,Rabi,2240,1700.0,0.76,8500,9866,3100,Normal,0,Conventional,1
-Rapeseed & Mustard,Gangtok,1998,Rabi,2240,910.0,0.41,9167,5606,2890,Normal,0,Conventional,1
-Rapeseed & Mustard,Gangtok,1999,Rabi,2280,1770.0,0.78,9833,10868,3210,Normal,0,Conventional,1
-Rapeseed & Mustard,Gangtok,2000,Rabi,2280,1770.0,0.78,10500,11645,2780,Deficient,0,Conventional,2
-Rapeseed & Mustard,Gangtok,2001,Rabi,2300,1600.0,0.7,11040,10609,3080,Normal,0,Conventional,1
-Rapeseed & Mustard,Gangtok,2002,Rabi,1300,1050.0,0.81,11580,12115,2970,Normal,0,Conventional,1
-Rapeseed & Mustard,Gangtok,2003,Rabi,1900,1030.0,0.54,12120,7318,3740,Excess,1,Transition,0
-Rapeseed & Mustard,Gangtok,2004,Rabi,190,1330.0,7.0,12660,95900,3200,Normal,1,Transition,1
-Rapeseed & Mustard,Gangtok,2005,Rabi,1900,1350.0,0.71,13200,10054,2750,Deficient,1,Transition,2
-Rapeseed & Mustard,Gangtok,2006,Rabi,1920,1390.0,0.72,14800,12416,2680,Deficient,1,Transition,2
-Rapeseed & Mustard,Gangtok,2007,Rabi,1270,900.0,0.71,16400,12756,2610,Deficient,1,Transition,2
-Rapeseed & Mustard,Gangtok,2008,Rabi,1600,1420.0,0.89,18000,16241,3080,Normal,1,Transition,1
-Rapeseed & Mustard,Gangtok,2009,Rabi,1770,1550.0,0.88,21250,16025,2460,Deficient,1,Transition,2
-Rapeseed & Mustard,Gangtok,2010,Rabi,1750,1534.0,0.88,24500,20599,3050,Normal,1,Transition,1
-Rapeseed & Mustard,Gangtok,2011,Rabi,1850,1520.0,0.82,27500,20541,3230,Normal,1,Transition,1
-Rapeseed & Mustard,Gangtok,2012,Rabi,1640,1290.0,0.79,30500,23598,2590,Deficient,1,Transition,2
-Rapeseed & Mustard,Gangtok,2013,Rabi,1650,1310.0,0.79,32833,24215,3010,Normal,1,Transition,1
-Rapeseed & Mustard,Gangtok,2014,Rabi,1450,1151.0,0.79,35167,24608,3200,Normal,1,Transition,1
-Rapeseed & Mustard,Gangtok,2015,Rabi,1490,1210.0,0.81,37500,27205,2910,Normal,1,Transition,1
-Rapeseed & Mustard,Gangtok,2016,Rabi,1510,1301.0,0.86,40000,31879,3120,Normal,2,Organic,1
-Rapeseed & Mustard,Gangtok,2017,Rabi,1510,1303.0,0.86,42500,34517,3000,Normal,2,Organic,1
-Rapeseed & Mustard,Gangtok,2018,Rabi,1489,1287.0,0.86,45000,36302,2820,Normal,2,Organic,1
-Rapeseed & Mustard,Gangtok,2019,Rabi,1487,1289.0,0.87,48000,38358,3090,Normal,2,Organic,1
-Rapeseed & Mustard,Gangtok,2020,Rabi,1473,1277.0,0.87,51000,40313,2900,Normal,2,Organic,1
-Rapeseed & Mustard,Gangtok,2021,Rabi,1475,1281.0,0.87,54750,43858,3190,Normal,2,Organic,1
-Rapeseed & Mustard,Gangtok,2022,Rabi,601,524.0,0.87,58500,47517,2860,Normal,2,Organic,1
-Rapeseed & Mustard,Geyzing,1997,Rabi,1300,1070.0,0.82,8500,10700,2700,Normal,0,Conventional,1
-Rapeseed & Mustard,Geyzing,1998,Rabi,1450,670.0,0.46,9167,6377,2500,Normal,0,Conventional,1
-Rapeseed & Mustard,Geyzing,1999,Rabi,1450,1120.0,0.77,9833,10814,2780,Normal,0,Conventional,1
-Rapeseed & Mustard,Geyzing,2000,Rabi,1450,1008.0,0.7,10500,10428,2420,Deficient,0,Conventional,2
-Rapeseed & Mustard,Geyzing,2001,Rabi,1460,1000.0,0.68,11040,10445,2680,Normal,0,Conventional,1
-Rapeseed & Mustard,Geyzing,2002,Rabi,1460,1040.0,0.71,11580,10685,2590,Normal,0,Conventional,1
-Rapeseed & Mustard,Geyzing,2003,Rabi,1580,1120.0,0.71,12120,9570,3250,Excess,1,Transition,0
-Rapeseed & Mustard,Geyzing,2004,Rabi,1580,1130.0,0.72,12660,9798,2790,Normal,1,Transition,1
-Rapeseed & Mustard,Geyzing,2005,Rabi,1580,1200.0,0.76,13200,10747,2390,Deficient,1,Transition,2
-Rapeseed & Mustard,Geyzing,2006,Rabi,1500,1140.0,0.76,14800,13034,2310,Deficient,1,Transition,2
-Rapeseed & Mustard,Geyzing,2007,Rabi,530,300.0,0.57,16400,10189,2260,Deficient,1,Transition,2
-Rapeseed & Mustard,Geyzing,2008,Rabi,1610,1310.0,0.81,18000,14890,2680,Normal,1,Transition,1
-Rapeseed & Mustard,Geyzing,2009,Rabi,1800,1270.0,0.71,21250,12912,2130,Deficient,1,Transition,2
-Rapeseed & Mustard,Geyzing,2010,Rabi,1550,1135.0,0.73,24500,17208,2650,Normal,1,Transition,1
-Rapeseed & Mustard,Geyzing,2011,Rabi,1600,1280.0,0.8,27500,20000,2810,Normal,1,Transition,1
-Rapeseed & Mustard,Geyzing,2012,Rabi,1070,870.0,0.81,30500,24393,2250,Deficient,1,Transition,2
-Rapeseed & Mustard,Geyzing,2013,Rabi,750,620.0,0.83,32833,25213,2620,Normal,1,Transition,1
-Rapeseed & Mustard,Geyzing,2014,Rabi,740,610.0,0.82,35167,25554,2780,Normal,1,Transition,1
-Rapeseed & Mustard,Geyzing,2015,Rabi,625,540.0,0.86,37500,28944,2530,Normal,1,Transition,1
-Rapeseed & Mustard,Geyzing,2016,Rabi,500,435.0,0.87,40000,32190,2710,Normal,2,Organic,1
-Rapeseed & Mustard,Geyzing,2017,Rabi,229,199.0,0.87,42500,34760,2600,Normal,2,Organic,1
-Rapeseed & Mustard,Geyzing,2018,Rabi,171,148.0,0.87,45000,36351,2450,Normal,2,Organic,1
-Rapeseed & Mustard,Geyzing,2019,Rabi,249,217.0,0.87,48000,38563,2680,Normal,2,Organic,1
-Rapeseed & Mustard,Geyzing,2020,Rabi,245,214.0,0.87,51000,40616,2520,Normal,2,Organic,1
-Rapeseed & Mustard,Geyzing,2021,Rabi,248,1004.0,4.05,54750,204444,2770,Normal,2,Organic,1
-Rapeseed & Mustard,Geyzing,2022,Rabi,76,67.0,0.88,58500,48046,2480,Normal,2,Organic,1
-Rapeseed & Mustard,Mangan,1997,Rabi,570,400.0,0.7,8500,9123,2280,Normal,0,Conventional,1
-Rapeseed & Mustard,Mangan,1998,Rabi,570,232.0,0.41,9167,5617,2140,Normal,0,Conventional,1
-Rapeseed & Mustard,Mangan,1999,Rabi,560,344.0,0.61,9833,8600,2350,Normal,0,Conventional,1
-Rapeseed & Mustard,Mangan,2000,Rabi,560,300.0,0.54,10500,8036,2060,Deficient,0,Conventional,2
-Rapeseed & Mustard,Mangan,2001,Rabi,560,221.0,0.39,11040,6018,2260,Normal,0,Conventional,1
-Rapeseed & Mustard,Mangan,2002,Rabi,560,230.0,0.41,11580,6161,2190,Normal,0,Conventional,1
-Rapeseed & Mustard,Mangan,2003,Rabi,860,840.0,0.98,12120,13186,2760,Normal,1,Transition,1
-Rapeseed & Mustard,Mangan,2004,Rabi,860,610.0,0.71,12660,9717,2350,Normal,1,Transition,1
-Rapeseed & Mustard,Mangan,2005,Rabi,860,600.0,0.7,13200,9872,2020,Deficient,1,Transition,2
-Rapeseed & Mustard,Mangan,2006,Rabi,560,390.0,0.7,14800,11944,1960,Deficient,1,Transition,2
-Rapeseed & Mustard,Mangan,2007,Rabi,220,120.0,0.55,16400,9818,1920,Deficient,1,Transition,2
-Rapeseed & Mustard,Mangan,2008,Rabi,440,390.0,0.89,18000,16220,2250,Normal,1,Transition,1
-Rapeseed & Mustard,Mangan,2009,Rabi,40,250.0,6.25,21250,114375,1810,Deficient,1,Transition,2
-Rapeseed & Mustard,Mangan,2010,Rabi,510,319.0,0.63,24500,14699,2230,Normal,1,Transition,1
-Rapeseed & Mustard,Mangan,2011,Rabi,510,350.0,0.69,27500,17157,2370,Normal,1,Transition,1
-Rapeseed & Mustard,Mangan,2012,Rabi,310,210.0,0.68,30500,20323,1900,Deficient,1,Transition,2
-Rapeseed & Mustard,Mangan,2013,Rabi,310,214.0,0.69,32833,21055,2210,Normal,1,Transition,1
-Rapeseed & Mustard,Mangan,2014,Rabi,310,213.0,0.69,35167,21300,2350,Normal,1,Transition,1
-Rapeseed & Mustard,Mangan,2015,Rabi,310,220.0,0.71,37500,23774,2140,Normal,1,Transition,1
-Rapeseed & Mustard,Mangan,2016,Rabi,311,223.0,0.72,40000,26531,2290,Normal,2,Organic,1
-Rapeseed & Mustard,Mangan,2017,Rabi,310,223.0,0.72,42500,28774,2200,Normal,2,Organic,1
-Rapeseed & Mustard,Mangan,2018,Rabi,310,225.0,0.73,45000,30484,2070,Deficient,2,Organic,2
-Rapeseed & Mustard,Mangan,2019,Rabi,313,227.0,0.73,48000,32092,2270,Normal,2,Organic,1
-Rapeseed & Mustard,Mangan,2020,Rabi,312,226.0,0.72,51000,33683,2130,Normal,2,Organic,1
-Rapeseed & Mustard,Mangan,2021,Rabi,320,232.0,0.73,54750,36612,2340,Normal,2,Organic,1
-Rapeseed & Mustard,Mangan,2022,Rabi,313,229.0,0.73,58500,39874,2100,Normal,2,Organic,1
-Rapeseed & Mustard,Namchi,1997,Rabi,1450,1100.0,0.76,8500,9862,2750,Normal,0,Conventional,1
-Rapeseed & Mustard,Namchi,1998,Rabi,1420,600.0,0.42,9167,5831,2580,Normal,0,Conventional,1
-Rapeseed & Mustard,Namchi,1999,Rabi,1470,930.0,0.63,9833,8857,2850,Normal,0,Conventional,1
-Rapeseed & Mustard,Namchi,2000,Rabi,1470,860.0,0.59,10500,8776,2480,Normal,0,Conventional,1
-Rapeseed & Mustard,Namchi,2001,Rabi,1480,970.0,0.66,11040,9995,2740,Normal,0,Conventional,1
-Rapeseed & Mustard,Namchi,2002,Rabi,1480,1040.0,0.7,11580,10541,2650,Normal,0,Conventional,1
-Rapeseed & Mustard,Namchi,2003,Rabi,1660,1210.0,0.73,12120,9840,3320,Excess,1,Transition,0
-Rapeseed & Mustard,Namchi,2004,Rabi,1660,1210.0,0.73,12660,9986,2850,Normal,1,Transition,1
-Rapeseed & Mustard,Namchi,2005,Rabi,1660,1350.0,0.81,13200,11508,2440,Normal,1,Transition,1
-Rapeseed & Mustard,Namchi,2006,Rabi,1300,1140.0,0.88,14800,15039,2380,Deficient,1,Transition,2
-Rapeseed & Mustard,Namchi,2007,Rabi,1250,960.0,0.77,16400,13824,2320,Deficient,1,Transition,2
-Rapeseed & Mustard,Namchi,2008,Rabi,1650,1330.0,0.81,18000,14751,2740,Normal,1,Transition,1
-Rapeseed & Mustard,Namchi,2009,Rabi,1830,1480.0,0.81,21250,14800,2190,Deficient,1,Transition,2
-Rapeseed & Mustard,Namchi,2010,Rabi,1450,1176.0,0.81,24500,19059,2710,Normal,1,Transition,1
-Rapeseed & Mustard,Namchi,2011,Rabi,1460,1190.0,0.82,27500,20377,2870,Normal,1,Transition,1
-Rapeseed & Mustard,Namchi,2012,Rabi,1360,1130.0,0.83,30500,24926,2300,Deficient,1,Transition,2
-Rapeseed & Mustard,Namchi,2013,Rabi,1360,1240.0,0.91,32833,27809,2680,Normal,1,Transition,1
-Rapeseed & Mustard,Namchi,2014,Rabi,1360,1238.0,0.91,35167,28219,2840,Normal,1,Transition,1
-Rapeseed & Mustard,Namchi,2015,Rabi,1233,1150.0,0.93,37500,31245,2590,Normal,1,Transition,1
-Rapeseed & Mustard,Namchi,2016,Rabi,1232,1152.0,0.94,40000,34597,2770,Normal,2,Organic,1
-Rapeseed & Mustard,Namchi,2017,Rabi,1162,1086.0,0.93,42500,37384,2660,Normal,2,Organic,1
-Rapeseed & Mustard,Namchi,2018,Rabi,1135,1059.0,0.93,45000,39188,2510,Normal,2,Organic,1
-Rapeseed & Mustard,Namchi,2019,Rabi,1084,1012.0,0.93,48000,41311,2740,Normal,2,Organic,1
-Rapeseed & Mustard,Namchi,2020,Rabi,1140,1065.0,0.93,51000,43441,2580,Normal,2,Organic,1
-Rapeseed & Mustard,Namchi,2021,Rabi,1072,1004.0,0.94,54750,47297,2840,Normal,2,Organic,1
-Rapeseed & Mustard,Namchi,2022,Rabi,735,693.0,0.94,58500,51386,2540,Normal,2,Organic,1
-Rapeseed & Mustard,Pakyong,2022,Rabi,874,768.0,0.88,58500,47890,2860,Normal,2,Organic,1
-Rapeseed & Mustard,Soreng,2022,Rabi,135,118.0,0.87,58500,47637,2480,Normal,2,Organic,1
-Rice,Gangtok,1997,Kharif,6720,9100.0,1.35,8100,5620,3100,Normal,0,Conventional,1
-Rice,Gangtok,1998,Kharif,6690,9290.0,1.39,8800,6110,2890,Normal,0,Conventional,1
-Rice,Gangtok,1999,Kharif,6720,9950.0,1.48,9500,7255,3210,Normal,0,Conventional,1
-Rice,Gangtok,2000,Kharif,6030,7870.0,1.31,10200,6656,2780,Deficient,0,Conventional,2
-Rice,Gangtok,2001,Kharif,6100,8660.0,1.42,11060,7524,3080,Normal,0,Conventional,1
-Rice,Gangtok,2002,Kharif,6350,8720.0,1.37,11920,7553,2970,Normal,0,Conventional,1
-Rice,Gangtok,2003,Kharif,6300,8720.0,1.38,12780,7613,3740,Excess,1,Transition,0
-Rice,Gangtok,2004,Kharif,630,9570.0,15.19,13640,85067,3200,Normal,1,Transition,1
-Rice,Gangtok,2005,Kharif,6300,9750.0,1.55,14500,8821,2750,Deficient,1,Transition,2
-Rice,Gangtok,2006,Kharif,5500,8500.0,1.55,16267,8964,2680,Deficient,1,Transition,2
-Rice,Gangtok,2007,Kharif,5600,9240.0,1.65,18033,10642,2610,Deficient,1,Transition,2
-Rice,Gangtok,2008,Kharif,5350,9360.0,1.75,19800,13034,3080,Normal,1,Transition,1
-Rice,Gangtok,2009,Kharif,5000,8550.0,1.71,21100,16245,2460,Deficient,1,Transition,2
-Rice,Gangtok,2010,Kharif,4950,8672.0,1.75,22400,17519,3050,Normal,1,Transition,1
-Rice,Gangtok,2011,Kharif,4940,8670.0,1.76,25000,18955,3230,Normal,1,Transition,1
-Rice,Gangtok,2012,Kharif,4910,8770.0,1.79,27600,22327,2590,Deficient,1,Transition,2
-Rice,Gangtok,2013,Kharif,4910,8840.0,1.8,30000,23585,3010,Normal,1,Transition,1
-Rice,Gangtok,2014,Kharif,4870,8790.0,1.8,32400,24547,3200,Normal,1,Transition,1
-Rice,Gangtok,2015,Kharif,4813,8751.0,1.82,34800,25637,2910,Normal,1,Transition,1
-Rice,Gangtok,2016,Kharif,4810,8797.0,1.83,37300,26885,3120,Normal,2,Organic,1
-Rice,Gangtok,2017,Kharif,4809,8866.0,1.84,39800,28576,3000,Normal,2,Organic,1
-Rice,Gangtok,2018,Kharif,4554,8413.0,1.85,42300,32329,2820,Normal,2,Organic,1
-Rice,Gangtok,2019,Kharif,4553,8450.0,1.86,44900,33685,3090,Normal,2,Organic,1
-Rice,Gangtok,2020,Kharif,4540,8426.0,1.86,47500,34669,2900,Normal,2,Organic,1
-Rice,Gangtok,2021,Kharif,4448,8262.0,1.86,50850,36035,3190,Normal,2,Organic,1
-Rice,Gangtok,2022,Kharif,2104,3890.0,1.85,54200,37717,2860,Normal,2,Organic,1
-Rice,Geyzing,1997,Kharif,5380,7450.0,1.38,8100,5747,2700,Normal,0,Conventional,1
-Rice,Geyzing,1998,Kharif,5380,7480.0,1.39,8800,6117,2500,Normal,0,Conventional,1
-Rice,Geyzing,1999,Kharif,5380,8000.0,1.49,9500,7286,2780,Normal,0,Conventional,1
-Rice,Geyzing,2000,Kharif,5380,7999.0,1.49,10200,7583,2420,Deficient,0,Conventional,2
-Rice,Geyzing,2001,Kharif,5100,7570.0,1.48,11060,7867,2680,Normal,0,Conventional,1
-Rice,Geyzing,2002,Kharif,5100,7600.0,1.49,11920,8196,2590,Normal,0,Conventional,1
-Rice,Geyzing,2003,Kharif,5100,7600.0,1.49,12780,8196,3250,Excess,1,Transition,0
-Rice,Geyzing,2004,Kharif,5100,7630.0,1.5,13640,8378,2790,Normal,1,Transition,1
-Rice,Geyzing,2005,Kharif,550,8320.0,15.13,14500,86225,2390,Deficient,1,Transition,2
-Rice,Geyzing,2006,Kharif,550,8350.0,15.18,16267,88055,2310,Deficient,1,Transition,2
-Rice,Geyzing,2007,Kharif,2460,4560.0,1.85,18033,11956,2260,Deficient,1,Transition,2
-Rice,Geyzing,2008,Kharif,4190,7450.0,1.78,19800,13246,2680,Normal,1,Transition,1
-Rice,Geyzing,2009,Kharif,4170,7580.0,1.82,21100,17269,2130,Deficient,1,Transition,2
-Rice,Geyzing,2010,Kharif,3970,7213.0,1.82,22400,18169,2650,Normal,1,Transition,1
-Rice,Geyzing,2011,Kharif,3950,7180.0,1.82,25000,19631,2810,Normal,1,Transition,1
-Rice,Geyzing,2012,Kharif,3610,6770.0,1.88,27600,23442,2250,Deficient,1,Transition,2
-Rice,Geyzing,2013,Kharif,3160,6000.0,1.9,30000,24873,2620,Normal,1,Transition,1
-Rice,Geyzing,2014,Kharif,3130,5950.0,1.9,32400,25853,2780,Normal,1,Transition,1
-Rice,Geyzing,2015,Kharif,3016,5851.0,1.94,34800,27354,2530,Normal,1,Transition,1
-Rice,Geyzing,2016,Kharif,2871,5600.0,1.95,37300,28673,2710,Normal,2,Organic,1
-Rice,Geyzing,2017,Kharif,1969,3852.0,1.96,39800,30323,2600,Normal,2,Organic,1
-Rice,Geyzing,2018,Kharif,1974,3866.0,1.96,42300,34273,2450,Normal,2,Organic,1
-Rice,Geyzing,2019,Kharif,1549,3034.0,1.96,44900,35550,2680,Normal,2,Organic,1
-Rice,Geyzing,2020,Kharif,1494,2940.0,1.97,47500,36760,2520,Normal,2,Organic,1
-Rice,Geyzing,2021,Kharif,1486,2925.0,1.97,50850,38186,2770,Normal,2,Organic,1
-Rice,Geyzing,2022,Kharif,869,1716.0,1.97,54200,40284,2480,Normal,2,Organic,1
-Rice,Mangan,1997,Kharif,1191,1627.0,1.37,8100,5669,2280,Normal,0,Conventional,1
-Rice,Mangan,1998,Kharif,1404,1917.0,1.37,8800,6008,2140,Normal,0,Conventional,1
-Rice,Mangan,1999,Kharif,1408,2059.0,1.46,9500,7166,2350,Normal,0,Conventional,1
-Rice,Mangan,2000,Kharif,1408,2059.0,1.46,10200,7458,2060,Deficient,0,Conventional,2
-Rice,Mangan,2001,Kharif,1360,1992.0,1.46,11060,7763,2260,Normal,0,Conventional,1
-Rice,Mangan,2002,Kharif,1000,1350.0,1.35,11920,7425,2190,Normal,0,Conventional,1
-Rice,Mangan,2003,Kharif,1000,1320.0,1.32,12780,7260,2760,Normal,1,Transition,1
-Rice,Mangan,2004,Kharif,1000,1000.0,1.0,13640,5600,2350,Normal,1,Transition,1
-Rice,Mangan,2005,Kharif,600,1850.0,3.08,14500,17575,2020,Deficient,1,Transition,2
-Rice,Mangan,2006,Kharif,850,850.0,1.0,16267,5800,1960,Deficient,1,Transition,2
-Rice,Mangan,2007,Kharif,1000,1030.0,1.03,18033,6644,1920,Deficient,1,Transition,2
-Rice,Mangan,2008,Kharif,1000,1070.0,1.07,19800,7972,2250,Normal,1,Transition,1
-Rice,Mangan,2009,Kharif,1000,1070.0,1.07,21100,10165,1810,Deficient,1,Transition,2
-Rice,Mangan,2010,Kharif,1000,1140.0,1.14,22400,11400,2230,Normal,1,Transition,1
-Rice,Mangan,2011,Kharif,970,1100.0,1.13,25000,12247,2370,Normal,1,Transition,1
-Rice,Mangan,2012,Kharif,980,1320.0,1.35,27600,16837,1900,Deficient,1,Transition,2
-Rice,Mangan,2013,Kharif,988,1410.0,1.43,30000,18695,2210,Normal,1,Transition,1
-Rice,Mangan,2014,Kharif,990,1420.0,1.43,32400,19507,2350,Normal,1,Transition,1
-Rice,Mangan,2015,Kharif,920,1347.0,1.46,34800,20644,2140,Normal,1,Transition,1
-Rice,Mangan,2016,Kharif,920,1371.0,1.49,37300,21906,2290,Normal,2,Organic,1
-Rice,Mangan,2017,Kharif,923,1384.0,1.5,39800,23242,2200,Normal,2,Organic,1
-Rice,Mangan,2018,Kharif,988,1482.0,1.5,42300,26250,2070,Deficient,2,Organic,2
-Rice,Mangan,2019,Kharif,923,1388.0,1.5,44900,27294,2270,Normal,2,Organic,1
-Rice,Mangan,2020,Kharif,923,1393.0,1.51,47500,28192,2130,Normal,2,Organic,1
-Rice,Mangan,2021,Kharif,924,1389.0,1.5,50850,29163,2340,Normal,2,Organic,1
-Rice,Mangan,2022,Kharif,923,1395.0,1.51,54200,30832,2100,Normal,2,Organic,1
-Rice,Namchi,1997,Kharif,2400,3270.0,1.36,8100,5654,2750,Normal,0,Conventional,1
-Rice,Namchi,1998,Kharif,2400,3270.0,1.36,8800,5995,2580,Normal,0,Conventional,1
-Rice,Namchi,1999,Kharif,2400,3430.0,1.43,9500,7003,2850,Normal,0,Conventional,1
-Rice,Namchi,2000,Kharif,2400,3430.0,1.43,10200,7289,2480,Normal,0,Conventional,1
-Rice,Namchi,2001,Kharif,2340,3150.0,1.35,11060,7135,2740,Normal,0,Conventional,1
-Rice,Namchi,2002,Kharif,2340,3550.0,1.52,11920,8344,2650,Normal,0,Conventional,1
-Rice,Namchi,2003,Kharif,2340,3550.0,1.52,12780,8344,3320,Excess,1,Transition,0
-Rice,Namchi,2004,Kharif,2340,3410.0,1.46,13640,8161,2850,Normal,1,Transition,1
-Rice,Namchi,2005,Kharif,2340,3770.0,1.61,14500,9183,2440,Normal,1,Transition,1
-Rice,Namchi,2006,Kharif,2300,3750.0,1.63,16267,9457,2380,Deficient,1,Transition,2
-Rice,Namchi,2007,Kharif,2800,4650.0,1.66,18033,10712,2320,Deficient,1,Transition,2
-Rice,Namchi,2008,Kharif,2460,4350.0,1.77,19800,13174,2740,Normal,1,Transition,1
-Rice,Namchi,2009,Kharif,2100,3730.0,1.78,21100,16874,2190,Deficient,1,Transition,2
-Rice,Namchi,2010,Kharif,2220,3948.0,1.78,22400,17784,2710,Normal,1,Transition,1
-Rice,Namchi,2011,Kharif,2210,3930.0,1.78,25000,19205,2870,Normal,1,Transition,1
-Rice,Namchi,2012,Kharif,2420,4480.0,1.85,27600,23140,2300,Deficient,1,Transition,2
-Rice,Namchi,2013,Kharif,2100,4010.0,1.91,30000,25015,2680,Normal,1,Transition,1
-Rice,Namchi,2014,Kharif,2050,3910.0,1.91,32400,25940,2840,Normal,1,Transition,1
-Rice,Namchi,2015,Kharif,1920,3738.0,1.95,34800,27451,2590,Normal,1,Transition,1
-Rice,Namchi,2016,Kharif,1880,3685.0,1.96,37300,28814,2770,Normal,2,Organic,1
-Rice,Namchi,2017,Kharif,1800,3534.0,1.96,39800,30432,2660,Normal,2,Organic,1
-Rice,Namchi,2018,Kharif,1740,3421.0,1.97,42300,34407,2510,Normal,2,Organic,1
-Rice,Namchi,2019,Kharif,1660,3265.0,1.97,44900,35699,2740,Normal,2,Organic,1
-Rice,Namchi,2020,Kharif,1745,3432.0,1.97,47500,36739,2580,Normal,2,Organic,1
-Rice,Namchi,2021,Kharif,1649,3245.0,1.97,50850,38176,2840,Normal,2,Organic,1
-Rice,Namchi,2022,Kharif,1544,3078.0,1.99,54200,40668,2540,Normal,2,Organic,1
-Rice,Pakyong,2022,Kharif,2120,3969.0,1.87,54200,38192,2860,Normal,2,Organic,1
-Rice,Soreng,2022,Kharif,630,1242.0,1.97,54200,40217,2480,Normal,2,Organic,1
-Small Millets,Gangtok,1997,Kharif,1600,1520.0,0.95,5000,2755,3100,Normal,0,Conventional,1
-Small Millets,Gangtok,1998,Kharif,1600,1520.0,0.95,5400,2898,2890,Normal,0,Conventional,1
-Small Millets,Gangtok,2000,Kharif,1260,1120.0,0.89,6200,2844,2780,Deficient,0,Conventional,2
-Small Millets,Gangtok,2001,Kharif,1550,1470.0,0.95,6660,3319,3080,Normal,0,Conventional,1
-Small Millets,Gangtok,2002,Kharif,1300,1150.0,0.88,7120,3096,2970,Normal,0,Conventional,1
-Small Millets,Gangtok,2003,Kharif,1000,810.0,0.81,7580,2916,3740,Excess,1,Transition,0
-Small Millets,Gangtok,2004,Kharif,1000,860.0,0.86,8040,3096,3200,Normal,1,Transition,1
-Small Millets,Gangtok,2005,Kharif,1000,8800.0,8.8,8500,33880,2750,Deficient,1,Transition,2
-Small Millets,Gangtok,2006,Kharif,1000,860.0,0.86,9500,3311,2680,Deficient,1,Transition,2
-Small Millets,Gangtok,2007,Kharif,1590,146.0,0.09,10500,551,2610,Deficient,1,Transition,2
-Small Millets,Gangtok,2008,Kharif,1430,1340.0,0.94,11500,6559,3080,Normal,1,Transition,1
-Small Millets,Gangtok,2009,Kharif,1170,1110.0,0.95,13000,8538,2460,Deficient,1,Transition,2
-Small Millets,Gangtok,2010,Kharif,840,832.0,0.99,14500,8716,3050,Normal,1,Transition,1
-Small Millets,Gangtok,2011,Kharif,840,830.0,0.99,16750,9683,3230,Normal,1,Transition,1
-Small Millets,Gangtok,2012,Kharif,870,900.0,1.03,19000,15517,2590,Deficient,1,Transition,2
-Small Millets,Gangtok,2013,Kharif,840,870.0,1.04,20667,15536,3010,Normal,1,Transition,1
-Small Millets,Gangtok,2014,Kharif,840,870.0,1.04,22333,15846,3200,Normal,1,Transition,1
-Small Millets,Gangtok,2015,Kharif,833,873.0,1.05,24000,16454,2910,Normal,1,Transition,1
-Small Millets,Gangtok,2016,Kharif,830,881.0,1.06,26000,17248,3120,Normal,2,Organic,1
-Small Millets,Gangtok,2017,Kharif,828,879.0,1.06,28000,18047,3000,Normal,2,Organic,1
-Small Millets,Gangtok,2018,Kharif,754,804.0,1.07,30000,25911,2820,Normal,2,Organic,1
-Small Millets,Gangtok,2019,Kharif,754,808.0,1.07,32000,27326,3090,Normal,2,Organic,1
-Small Millets,Gangtok,2020,Kharif,754,812.0,1.08,34000,28215,2900,Normal,2,Organic,1
-Small Millets,Gangtok,2021,Kharif,754,814.0,1.08,36500,29559,3190,Normal,2,Organic,1
-Small Millets,Gangtok,2022,Kharif,246,263.0,1.07,39000,31752,2860,Normal,2,Organic,1
-Small Millets,Geyzing,1997,Kharif,1700,1610.0,0.95,5000,2746,2700,Normal,0,Conventional,1
-Small Millets,Geyzing,1998,Kharif,1700,1600.0,0.94,5400,2871,2500,Normal,0,Conventional,1
-Small Millets,Geyzing,2000,Kharif,1615,1529.0,0.95,6200,3030,2420,Deficient,0,Conventional,2
-Small Millets,Geyzing,2001,Kharif,1680,1580.0,0.94,6660,3292,2680,Normal,0,Conventional,1
-Small Millets,Geyzing,2002,Kharif,1450,1300.0,0.9,7120,3138,2590,Normal,0,Conventional,1
-Small Millets,Geyzing,2003,Kharif,1450,1250.0,0.86,7580,3103,3250,Excess,1,Transition,0
-Small Millets,Geyzing,2004,Kharif,1450,1250.0,0.86,8040,3103,2790,Normal,1,Transition,1
-Small Millets,Geyzing,2005,Kharif,1450,1350.0,0.93,8500,3584,2390,Deficient,1,Transition,2
-Small Millets,Geyzing,2006,Kharif,1500,1450.0,0.97,9500,3722,2310,Deficient,1,Transition,2
-Small Millets,Geyzing,2007,Kharif,770,780.0,1.01,10500,6078,2260,Deficient,1,Transition,2
-Small Millets,Geyzing,2008,Kharif,780,760.0,0.97,11500,6821,2680,Normal,1,Transition,1
-Small Millets,Geyzing,2009,Kharif,1000,980.0,0.98,13000,8820,2130,Deficient,1,Transition,2
-Small Millets,Geyzing,2010,Kharif,810,795.0,0.98,14500,8637,2650,Normal,1,Transition,1
-Small Millets,Geyzing,2011,Kharif,780,770.0,0.99,16750,9674,2810,Normal,1,Transition,1
-Small Millets,Geyzing,2012,Kharif,760,780.0,1.03,19000,15395,2250,Deficient,1,Transition,2
-Small Millets,Geyzing,2013,Kharif,760,786.0,1.03,20667,15513,2620,Normal,1,Transition,1
-Small Millets,Geyzing,2014,Kharif,760,790.0,1.04,22333,15904,2780,Normal,1,Transition,1
-Small Millets,Geyzing,2015,Kharif,711,744.0,1.05,24000,16429,2530,Normal,1,Transition,1
-Small Millets,Geyzing,2016,Kharif,510,544.0,1.07,26000,17333,2710,Normal,2,Organic,1
-Small Millets,Geyzing,2017,Kharif,432,462.0,1.07,28000,18181,2600,Normal,2,Organic,1
-Small Millets,Geyzing,2018,Kharif,234,250.0,1.07,30000,25962,2450,Normal,2,Organic,1
-Small Millets,Geyzing,2019,Kharif,443,474.0,1.07,32000,27284,2680,Normal,2,Organic,1
-Small Millets,Geyzing,2020,Kharif,185,199.0,1.08,34000,28183,2520,Normal,2,Organic,1
-Small Millets,Geyzing,2021,Kharif,203,219.0,1.08,36500,29538,2770,Normal,2,Organic,1
-Small Millets,Geyzing,2022,Kharif,154,166.0,1.08,39000,32014,2480,Normal,2,Organic,1
-Small Millets,Mangan,1997,Kharif,700,650.0,0.93,5000,2693,2280,Normal,0,Conventional,1
-Small Millets,Mangan,1998,Kharif,700,643.0,0.92,5400,2802,2140,Normal,0,Conventional,1
-Small Millets,Mangan,2000,Kharif,688,633.0,0.92,6200,2944,2060,Deficient,0,Conventional,2
-Small Millets,Mangan,2001,Kharif,688,450.0,0.65,6660,2289,2260,Normal,0,Conventional,1
-Small Millets,Mangan,2002,Kharif,580,330.0,0.57,7120,1991,2190,Normal,0,Conventional,1
-Small Millets,Mangan,2003,Kharif,690,550.0,0.8,7580,2870,2760,Normal,1,Transition,1
-Small Millets,Mangan,2004,Kharif,690,530.0,0.77,8040,2765,2350,Normal,1,Transition,1
-Small Millets,Mangan,2005,Kharif,690,540.0,0.78,8500,3013,2020,Deficient,1,Transition,2
-Small Millets,Mangan,2006,Kharif,690,640.0,0.93,9500,3571,1960,Deficient,1,Transition,2
-Small Millets,Mangan,2007,Kharif,520,370.0,0.71,10500,4269,1920,Deficient,1,Transition,2
-Small Millets,Mangan,2008,Kharif,600,570.0,0.95,11500,6650,2250,Normal,1,Transition,1
-Small Millets,Mangan,2009,Kharif,920,1010.0,1.1,13000,9880,1810,Deficient,1,Transition,2
-Small Millets,Mangan,2010,Kharif,600,567.0,0.95,14500,8316,2230,Normal,1,Transition,1
-Small Millets,Mangan,2011,Kharif,610,570.0,0.93,16750,9157,2370,Normal,1,Transition,1
-Small Millets,Mangan,2012,Kharif,600,550.0,0.92,19000,13750,1900,Deficient,1,Transition,2
-Small Millets,Mangan,2013,Kharif,610,570.0,0.93,20667,14016,2210,Normal,1,Transition,1
-Small Millets,Mangan,2014,Kharif,610,570.0,0.93,22333,14297,2350,Normal,1,Transition,1
-Small Millets,Mangan,2015,Kharif,609,584.0,0.96,24000,15056,2140,Normal,1,Transition,1
-Small Millets,Mangan,2016,Kharif,610,591.0,0.97,26000,15744,2290,Normal,2,Organic,1
-Small Millets,Mangan,2017,Kharif,609,591.0,0.97,28000,16498,2200,Normal,2,Organic,1
-Small Millets,Mangan,2018,Kharif,610,595.0,0.98,30000,23702,2070,Deficient,2,Organic,2
-Small Millets,Mangan,2019,Kharif,610,595.0,0.98,32000,24873,2270,Normal,2,Organic,1
-Small Millets,Mangan,2020,Kharif,611,599.0,0.98,34000,25685,2130,Normal,2,Organic,1
-Small Millets,Mangan,2021,Kharif,621,611.0,0.98,36500,26939,2340,Normal,2,Organic,1
-Small Millets,Mangan,2022,Kharif,610,601.0,0.99,39000,29262,2100,Normal,2,Organic,1
-Small Millets,Namchi,1997,Kharif,1000,950.0,0.95,5000,2755,2750,Normal,0,Conventional,1
-Small Millets,Namchi,1998,Kharif,1000,950.0,0.95,5400,2898,2580,Normal,0,Conventional,1
-Small Millets,Namchi,2000,Kharif,1000,950.0,0.95,6200,3040,2480,Normal,0,Conventional,1
-Small Millets,Namchi,2001,Kharif,1010,960.0,0.95,6660,3327,2740,Normal,0,Conventional,1
-Small Millets,Namchi,2002,Kharif,1010,960.0,0.95,7120,3327,2650,Normal,0,Conventional,1
-Small Millets,Namchi,2003,Kharif,1010,960.0,0.95,7580,3422,3320,Excess,1,Transition,0
-Small Millets,Namchi,2004,Kharif,1010,960.0,0.95,8040,3422,2850,Normal,1,Transition,1
-Small Millets,Namchi,2005,Kharif,1010,1010.0,1.0,8500,3850,2440,Normal,1,Transition,1
-Small Millets,Namchi,2006,Kharif,950,950.0,1.0,9500,3850,2380,Deficient,1,Transition,2
-Small Millets,Namchi,2007,Kharif,850,680.0,0.8,10500,4800,2320,Deficient,1,Transition,2
-Small Millets,Namchi,2008,Kharif,950,860.0,0.91,11500,6337,2740,Normal,1,Transition,1
-Small Millets,Namchi,2009,Kharif,1160,1080.0,0.93,13000,8379,2190,Deficient,1,Transition,2
-Small Millets,Namchi,2010,Kharif,750,699.0,0.93,14500,8202,2710,Normal,1,Transition,1
-Small Millets,Namchi,2011,Kharif,720,670.0,0.93,16750,9119,2870,Normal,1,Transition,1
-Small Millets,Namchi,2012,Kharif,750,730.0,0.97,19000,14600,2300,Deficient,1,Transition,2
-Small Millets,Namchi,2013,Kharif,750,740.0,0.99,20667,14800,2680,Normal,1,Transition,1
-Small Millets,Namchi,2014,Kharif,750,740.0,0.99,22333,15096,2840,Normal,1,Transition,1
-Small Millets,Namchi,2015,Kharif,700,710.0,1.01,24000,15924,2590,Normal,1,Transition,1
-Small Millets,Namchi,2016,Kharif,660,676.0,1.02,26000,16644,2770,Normal,2,Organic,1
-Small Millets,Namchi,2017,Kharif,600,615.0,1.03,28000,17425,2660,Normal,2,Organic,1
-Small Millets,Namchi,2018,Kharif,516,532.0,1.03,30000,25053,2510,Normal,2,Organic,1
-Small Millets,Namchi,2019,Kharif,475,490.0,1.03,32000,26305,2740,Normal,2,Organic,1
-Small Millets,Namchi,2020,Kharif,504,522.0,1.04,34000,27136,2580,Normal,2,Organic,1
-Small Millets,Namchi,2021,Kharif,465,483.0,1.04,36500,28440,2840,Normal,2,Organic,1
-Small Millets,Namchi,2022,Kharif,395,411.0,1.04,39000,30903,2540,Normal,2,Organic,1
-Small Millets,Pakyong,2022,Kharif,500,543.0,1.09,39000,32254,2860,Normal,2,Organic,1
-Small Millets,Soreng,2022,Kharif,88,95.0,1.08,39000,32062,2480,Normal,2,Organic,1
-Soyabean,Gangtok,1997,Kharif,1000,810.0,0.81,5200,4860,3100,Normal,0,Conventional,1
-Soyabean,Gangtok,1998,Kharif,1000,810.0,0.81,5633,4698,2890,Normal,0,Conventional,1
-Soyabean,Gangtok,1999,Kharif,1000,830.0,0.83,6067,5229,3210,Normal,0,Conventional,1
-Soyabean,Gangtok,2000,Kharif,1000,830.0,0.83,6500,5395,2780,Deficient,0,Conventional,2
-Soyabean,Gangtok,2001,Kharif,1000,790.0,0.79,7040,5372,3080,Normal,0,Conventional,1
-Soyabean,Gangtok,2002,Kharif,740,520.0,0.7,7580,5059,2970,Normal,0,Conventional,1
-Soyabean,Gangtok,2003,Kharif,740,620.0,0.84,8120,7457,3740,Excess,1,Transition,0
-Soyabean,Gangtok,2004,Kharif,750,650.0,0.87,8660,7887,3200,Normal,1,Transition,1
-Soyabean,Gangtok,2005,Kharif,750,700.0,0.93,9200,8820,2750,Deficient,1,Transition,2
-Soyabean,Gangtok,2006,Kharif,740,740.0,1.0,10633,9750,2680,Deficient,1,Transition,2
-Soyabean,Gangtok,2007,Kharif,600,530.0,0.88,12067,9275,2610,Deficient,1,Transition,2
-Soyabean,Gangtok,2008,Kharif,710,630.0,0.89,13500,12334,3080,Normal,1,Transition,1
-Soyabean,Gangtok,2009,Kharif,1040,910.0,0.88,15250,12600,2460,Deficient,1,Transition,2
-Soyabean,Gangtok,2010,Kharif,1000,965.0,0.97,17000,13896,3050,Normal,1,Transition,1
-Soyabean,Gangtok,2011,Kharif,930,890.0,0.96,19750,15790,3230,Normal,1,Transition,1
-Soyabean,Gangtok,2012,Kharif,920,900.0,0.98,22500,21522,2590,Deficient,1,Transition,2
-Soyabean,Gangtok,2013,Kharif,920,906.0,0.98,24500,24620,3010,Normal,1,Transition,1
-Soyabean,Gangtok,2014,Kharif,1100,1084.0,0.99,26500,25228,3200,Normal,1,Transition,1
-Soyabean,Gangtok,2015,Kharif,1120,1120.0,1.0,28500,26000,2910,Normal,1,Transition,1
-Soyabean,Gangtok,2016,Kharif,1125,1126.0,1.0,30667,27775,3120,Normal,2,Organic,1
-Soyabean,Gangtok,2017,Kharif,1120,1121.0,1.0,32833,30527,3000,Normal,2,Organic,1
-Soyabean,Gangtok,2018,Kharif,1027,1028.0,1.0,35000,34023,2820,Normal,2,Organic,1
-Soyabean,Gangtok,2019,Kharif,1030,1032.0,1.0,37500,37172,3090,Normal,2,Organic,1
-Soyabean,Gangtok,2020,Kharif,1030,1032.0,1.0,40000,38875,2900,Normal,2,Organic,1
-Soyabean,Gangtok,2022,Kharif,299,300.0,1.0,46500,43144,2860,Normal,2,Organic,1
-Soyabean,Geyzing,1997,Kharif,1300,1070.0,0.82,5200,4938,2700,Normal,0,Conventional,1
-Soyabean,Geyzing,1998,Kharif,1320,1000.0,0.76,5633,4394,2500,Normal,0,Conventional,1
-Soyabean,Geyzing,1999,Kharif,1350,1130.0,0.84,6067,5273,2780,Normal,0,Conventional,1
-Soyabean,Geyzing,2000,Kharif,1350,1131.0,0.84,6500,5446,2420,Deficient,0,Conventional,2
-Soyabean,Geyzing,2001,Kharif,1350,1100.0,0.81,7040,5541,2680,Normal,0,Conventional,1
-Soyabean,Geyzing,2002,Kharif,1350,1000.0,0.74,7580,5333,2590,Normal,0,Conventional,1
-Soyabean,Geyzing,2003,Kharif,1350,1100.0,0.81,8120,7252,3250,Excess,1,Transition,0
-Soyabean,Geyzing,2004,Kharif,1340,1090.0,0.81,8660,7402,2790,Normal,1,Transition,1
-Soyabean,Geyzing,2005,Kharif,1340,1080.0,0.81,9200,7616,2390,Deficient,1,Transition,2
-Soyabean,Geyzing,2006,Kharif,1160,1160.0,1.0,10633,9750,2310,Deficient,1,Transition,2
-Soyabean,Geyzing,2007,Kharif,450,400.0,0.89,12067,9333,2260,Deficient,1,Transition,2
-Soyabean,Geyzing,2008,Kharif,1290,1140.0,0.88,13500,12284,2680,Normal,1,Transition,1
-Soyabean,Geyzing,2009,Kharif,800,700.0,0.88,15250,12600,2130,Deficient,1,Transition,2
-Soyabean,Geyzing,2010,Kharif,1200,1051.0,0.88,17000,12612,2650,Normal,1,Transition,1
-Soyabean,Geyzing,2011,Kharif,1190,1040.0,0.87,19750,14420,2810,Normal,1,Transition,1
-Soyabean,Geyzing,2012,Kharif,1190,1090.0,0.92,22500,20151,2250,Deficient,1,Transition,2
-Soyabean,Geyzing,2013,Kharif,1210,1110.0,0.92,24500,22934,2620,Normal,1,Transition,1
-Soyabean,Geyzing,2014,Kharif,1200,1102.0,0.92,26500,23509,2780,Normal,1,Transition,1
-Soyabean,Geyzing,2015,Kharif,546,520.0,0.95,28500,24762,2530,Normal,1,Transition,1
-Soyabean,Geyzing,2016,Kharif,480,457.0,0.95,30667,26420,2710,Normal,2,Organic,1
-Soyabean,Geyzing,2017,Kharif,381,363.0,0.95,32833,29059,2600,Normal,2,Organic,1
-Soyabean,Geyzing,2018,Kharif,367,350.0,0.95,35000,32416,2450,Normal,2,Organic,1
-Soyabean,Geyzing,2019,Kharif,343,328.0,0.96,37500,35478,2680,Normal,2,Organic,1
-Soyabean,Geyzing,2020,Kharif,338,323.0,0.96,40000,37078,2520,Normal,2,Organic,1
-Soyabean,Geyzing,2021,Kharif,340,325.0,0.96,43250,37757,2770,Normal,2,Organic,1
-Soyabean,Geyzing,2022,Kharif,295,284.0,0.96,46500,41397,2480,Normal,2,Organic,1
-Soyabean,Mangan,1997,Kharif,400,315.0,0.79,5200,4725,2280,Normal,0,Conventional,1
-Soyabean,Mangan,1998,Kharif,400,155.0,0.39,5633,2248,2140,Normal,0,Conventional,1
-Soyabean,Mangan,1999,Kharif,400,266.0,0.67,6067,4190,2350,Normal,0,Conventional,1
-Soyabean,Mangan,2000,Kharif,400,269.0,0.67,6500,4371,2060,Deficient,0,Conventional,2
-Soyabean,Mangan,2001,Kharif,400,274.0,0.69,7040,4658,2260,Normal,0,Conventional,1
-Soyabean,Mangan,2002,Kharif,400,240.0,0.6,7580,4320,2190,Normal,0,Conventional,1
-Soyabean,Mangan,2003,Kharif,400,300.0,0.75,8120,6675,2760,Normal,1,Transition,1
-Soyabean,Mangan,2004,Kharif,400,310.0,0.78,8660,7052,2350,Normal,1,Transition,1
-Soyabean,Mangan,2005,Kharif,400,310.0,0.78,9200,7324,2020,Deficient,1,Transition,2
-Soyabean,Mangan,2006,Kharif,310,310.0,1.0,10633,9750,1960,Deficient,1,Transition,2
-Soyabean,Mangan,2007,Kharif,40,310.0,7.75,12067,81375,1920,Deficient,1,Transition,2
-Soyabean,Mangan,2008,Kharif,300,250.0,0.83,13500,11583,2250,Normal,1,Transition,1
-Soyabean,Mangan,2009,Kharif,630,520.0,0.83,15250,11886,1810,Deficient,1,Transition,2
-Soyabean,Mangan,2010,Kharif,500,413.0,0.83,17000,11894,2230,Normal,1,Transition,1
-Soyabean,Mangan,2011,Kharif,300,250.0,0.83,19750,13750,2370,Normal,1,Transition,1
-Soyabean,Mangan,2012,Kharif,300,250.0,0.83,22500,18333,1900,Deficient,1,Transition,2
-Soyabean,Mangan,2013,Kharif,300,257.0,0.86,24500,21417,2210,Normal,1,Transition,1
-Soyabean,Mangan,2014,Kharif,300,257.0,0.86,26500,21931,2350,Normal,1,Transition,1
-Soyabean,Mangan,2015,Kharif,302,260.0,0.86,28500,22384,2140,Normal,1,Transition,1
-Soyabean,Mangan,2016,Kharif,300,260.0,0.87,30667,24050,2290,Normal,2,Organic,1
-Soyabean,Mangan,2017,Kharif,302,263.0,0.87,32833,26561,2200,Normal,2,Organic,1
-Soyabean,Mangan,2018,Kharif,300,261.0,0.87,35000,29571,2070,Deficient,2,Organic,2
-Soyabean,Mangan,2019,Kharif,306,266.0,0.87,37500,32250,2270,Normal,2,Organic,1
-Soyabean,Mangan,2020,Kharif,321,280.0,0.87,40000,33844,2130,Normal,2,Organic,1
-Soyabean,Mangan,2021,Kharif,328,286.0,0.87,43250,34442,2340,Normal,2,Organic,1
-Soyabean,Mangan,2022,Kharif,306,267.0,0.87,46500,37520,2100,Normal,2,Organic,1
-Soyabean,Namchi,1997,Kharif,1300,1100.0,0.85,5200,5077,2750,Normal,0,Conventional,1
-Soyabean,Namchi,1998,Kharif,1300,780.0,0.6,5633,3480,2580,Normal,0,Conventional,1
-Soyabean,Namchi,1999,Kharif,1400,1180.0,0.84,6067,5310,2850,Normal,0,Conventional,1
-Soyabean,Namchi,2000,Kharif,1400,1180.0,0.84,6500,5479,2480,Normal,0,Conventional,1
-Soyabean,Namchi,2001,Kharif,1400,1150.0,0.82,7040,5586,2740,Normal,0,Conventional,1
-Soyabean,Namchi,2002,Kharif,1400,1150.0,0.82,7580,5914,2650,Normal,0,Conventional,1
-Soyabean,Namchi,2003,Kharif,1400,1190.0,0.85,8120,7565,3320,Excess,1,Transition,0
-Soyabean,Namchi,2004,Kharif,1400,120.0,0.09,8660,780,2850,Normal,1,Transition,1
-Soyabean,Namchi,2005,Kharif,140,1240.0,8.86,9200,83700,2440,Normal,1,Transition,1
-Soyabean,Namchi,2006,Kharif,1020,1020.0,1.0,10633,9750,2380,Deficient,1,Transition,2
-Soyabean,Namchi,2007,Kharif,1270,1110.0,0.87,12067,9177,2320,Deficient,1,Transition,2
-Soyabean,Namchi,2008,Kharif,1300,1140.0,0.88,13500,12189,2740,Normal,1,Transition,1
-Soyabean,Namchi,2009,Kharif,1730,1520.0,0.88,15250,12652,2190,Deficient,1,Transition,2
-Soyabean,Namchi,2010,Kharif,1500,1320.0,0.88,17000,12672,2710,Normal,1,Transition,1
-Soyabean,Namchi,2011,Kharif,1450,1290.0,0.89,19750,14679,2870,Normal,1,Transition,1
-Soyabean,Namchi,2012,Kharif,1450,1370.0,0.94,22500,20786,2300,Deficient,1,Transition,2
-Soyabean,Namchi,2013,Kharif,1450,1400.0,0.97,24500,24138,2680,Normal,1,Transition,1
-Soyabean,Namchi,2014,Kharif,1460,1410.0,0.97,26500,24723,2840,Normal,1,Transition,1
-Soyabean,Namchi,2015,Kharif,1310,1290.0,0.98,28500,25603,2590,Normal,1,Transition,1
-Soyabean,Namchi,2016,Kharif,1270,1251.0,0.99,30667,27335,2770,Normal,2,Organic,1
-Soyabean,Namchi,2017,Kharif,1268,1249.0,0.99,32833,30043,2660,Normal,2,Organic,1
-Soyabean,Namchi,2018,Kharif,1268,1251.0,0.99,35000,33534,2510,Normal,2,Organic,1
-Soyabean,Namchi,2019,Kharif,1250,1233.0,0.99,37500,36595,2740,Normal,2,Organic,1
-Soyabean,Namchi,2020,Kharif,1268,1251.0,0.99,40000,38280,2580,Normal,2,Organic,1
-Soyabean,Namchi,2021,Kharif,1244,1229.0,0.99,43250,39024,2840,Normal,2,Organic,1
-Soyabean,Namchi,2022,Kharif,1168,1154.0,0.99,46500,42485,2540,Normal,2,Organic,1
-Soyabean,Pakyong,2021,Kharif,1030,1032.0,1.0,43250,39577,3190,Normal,2,Organic,1
-Soyabean,Pakyong,2022,Kharif,702,703.0,1.0,46500,43061,2860,Normal,2,Organic,1
-Soyabean,Soreng,2022,Kharif,92,86.0,0.93,46500,40196,2480,Normal,2,Organic,1
-Urad,Gangtok,1997,Kharif,980,740.0,0.76,7500,6041,3100,Normal,0,Conventional,1
-Urad,Gangtok,1998,Kharif,980,740.0,0.76,8000,6343,2890,Normal,0,Conventional,1
-Urad,Gangtok,1999,Kharif,980,740.0,0.76,8500,6796,3210,Normal,0,Conventional,1
-Urad,Gangtok,2000,Kharif,360,180.0,0.5,9000,4700,2780,Deficient,0,Conventional,2
-Urad,Gangtok,2001,Kharif,360,180.0,0.5,9700,5000,3080,Normal,0,Conventional,1
-Urad,Gangtok,2002,Kharif,360,200.0,0.56,10400,6667,2970,Normal,0,Conventional,1
-Urad,Gangtok,2003,Kharif,360,200.0,0.56,11100,6667,3740,Excess,1,Transition,0
-Urad,Gangtok,2004,Kharif,360,230.0,0.64,11800,7667,3200,Normal,1,Transition,1
-Urad,Gangtok,2005,Kharif,410,300.0,0.73,12500,9512,2750,Deficient,1,Transition,2
-Urad,Gangtok,2006,Kharif,390,280.0,0.72,14167,10051,2680,Deficient,1,Transition,2
-Urad,Gangtok,2007,Kharif,390,280.0,0.72,15833,12205,2610,Deficient,1,Transition,2
-Urad,Gangtok,2008,Kharif,500,410.0,0.82,17500,15580,3080,Normal,1,Transition,1
-Urad,Gangtok,2009,Kharif,830,710.0,0.86,20000,21557,2460,Deficient,1,Transition,2
-Urad,Gangtok,2010,Kharif,900,810.0,0.9,22500,26100,3050,Normal,1,Transition,1
-Urad,Gangtok,2011,Kharif,870,780.0,0.9,25750,29586,3230,Normal,1,Transition,1
-Urad,Gangtok,2012,Kharif,290,280.0,0.97,29000,41517,2590,Deficient,1,Transition,2
-Urad,Gangtok,2013,Kharif,290,284.0,0.98,31500,42110,3010,Normal,1,Transition,1
-Urad,Gangtok,2014,Kharif,290,284.0,0.98,34000,42600,3200,Normal,1,Transition,1
-Urad,Gangtok,2015,Kharif,290,290.0,1.0,36500,46250,2910,Normal,1,Transition,1
-Urad,Gangtok,2016,Kharif,291,292.0,1.0,39333,50172,3120,Normal,2,Organic,1
-Urad,Gangtok,2017,Kharif,287,288.0,1.0,42167,54188,3000,Normal,2,Organic,1
-Urad,Gangtok,2018,Kharif,500,501.0,1.0,45000,56112,2820,Normal,2,Organic,1
-Urad,Gangtok,2019,Kharif,455,459.0,1.01,48000,57501,3090,Normal,2,Organic,1
-Urad,Gangtok,2020,Kharif,454,458.0,1.01,51000,60529,2900,Normal,2,Organic,1
-Urad,Gangtok,2021,Kharif,456,1462.0,3.21,54500,201987,3190,Normal,2,Organic,1
-Urad,Gangtok,2022,Kharif,241,244.0,1.01,58000,66822,2860,Normal,2,Organic,1
-Urad,Geyzing,1997,Kharif,1700,1300.0,0.76,7500,6118,2700,Normal,0,Conventional,1
-Urad,Geyzing,1998,Kharif,1700,1280.0,0.75,8000,6325,2500,Normal,0,Conventional,1
-Urad,Geyzing,1999,Kharif,1700,1280.0,0.75,8500,6776,2780,Normal,0,Conventional,1
-Urad,Geyzing,2000,Kharif,1700,1279.0,0.75,9000,7072,2420,Deficient,0,Conventional,2
-Urad,Geyzing,2001,Kharif,1700,1240.0,0.73,9700,7294,2680,Normal,0,Conventional,1
-Urad,Geyzing,2002,Kharif,1700,1280.0,0.75,10400,9035,2590,Normal,0,Conventional,1
-Urad,Geyzing,2003,Kharif,1700,1290.0,0.76,11100,9106,3250,Excess,1,Transition,0
-Urad,Geyzing,2004,Kharif,1700,1290.0,0.76,11800,9106,2790,Normal,1,Transition,1
-Urad,Geyzing,2005,Kharif,174,1340.0,7.7,12500,100115,2390,Deficient,1,Transition,2
-Urad,Geyzing,2006,Kharif,1800,1410.0,0.78,14167,10967,2310,Deficient,1,Transition,2
-Urad,Geyzing,2007,Kharif,190,130.0,0.68,15833,11632,2260,Deficient,1,Transition,2
-Urad,Geyzing,2008,Kharif,1400,1300.0,0.93,17500,17643,2680,Normal,1,Transition,1
-Urad,Geyzing,2009,Kharif,850,700.0,0.82,20000,20753,2130,Deficient,1,Transition,2
-Urad,Geyzing,2010,Kharif,940,780.0,0.83,22500,24064,2650,Normal,1,Transition,1
-Urad,Geyzing,2011,Kharif,830,700.0,0.84,25750,27831,2810,Normal,1,Transition,1
-Urad,Geyzing,2012,Kharif,1220,1060.0,0.87,29000,37361,2250,Deficient,1,Transition,2
-Urad,Geyzing,2013,Kharif,1230,1070.0,0.87,31500,37407,2620,Normal,1,Transition,1
-Urad,Geyzing,2014,Kharif,1210,1053.0,0.87,34000,37856,2780,Normal,1,Transition,1
-Urad,Geyzing,2015,Kharif,914,811.0,0.89,36500,41038,2530,Normal,1,Transition,1
-Urad,Geyzing,2016,Kharif,711,632.0,0.89,39333,44444,2710,Normal,2,Organic,1
-Urad,Geyzing,2017,Kharif,703,626.0,0.89,42167,48085,2600,Normal,2,Organic,1
-Urad,Geyzing,2018,Kharif,518,461.0,0.89,45000,49838,2450,Normal,2,Organic,1
-Urad,Geyzing,2019,Kharif,634,565.0,0.89,48000,50797,2680,Normal,2,Organic,1
-Urad,Geyzing,2020,Kharif,634,570.0,0.9,51000,53943,2520,Normal,2,Organic,1
-Urad,Geyzing,2021,Kharif,638,574.0,0.9,54500,56680,2770,Normal,2,Organic,1
-Urad,Geyzing,2022,Kharif,342,315.0,0.92,58000,60789,2480,Normal,2,Organic,1
-Urad,Mangan,1997,Kharif,20,10.0,0.5,7500,4000,2280,Normal,0,Conventional,1
-Urad,Mangan,1998,Kharif,20,9.0,0.45,8000,3780,2140,Normal,0,Conventional,1
-Urad,Mangan,1999,Kharif,20,9.0,0.45,8500,4050,2350,Normal,0,Conventional,1
-Urad,Mangan,2000,Kharif,20,9.0,0.45,9000,4230,2060,Deficient,0,Conventional,2
-Urad,Mangan,2001,Kharif,20,9.0,0.45,9700,4500,2260,Normal,0,Conventional,1
-Urad,Mangan,2002,Kharif,20,10.0,0.5,10400,6000,2190,Normal,0,Conventional,1
-Urad,Mangan,2003,Kharif,20,10.0,0.5,11100,6000,2760,Normal,1,Transition,1
-Urad,Mangan,2004,Kharif,20,10.0,0.5,11800,6000,2350,Normal,1,Transition,1
-Urad,Mangan,2005,Kharif,20,10.0,0.5,12500,6500,2020,Deficient,1,Transition,2
-Urad,Mangan,2006,Kharif,20,40.0,2.0,14167,28000,1960,Deficient,1,Transition,2
-Urad,Mangan,2007,Kharif,20,110.0,5.5,15833,93500,1920,Deficient,1,Transition,2
-Urad,Mangan,2008,Kharif,20,16.0,0.8,17500,15200,2250,Normal,1,Transition,1
-Urad,Mangan,2009,Kharif,330,270.0,0.82,20000,20618,1810,Deficient,1,Transition,2
-Urad,Mangan,2010,Kharif,260,212.0,0.82,22500,23646,2230,Normal,1,Transition,1
-Urad,Mangan,2011,Kharif,190,160.0,0.84,25750,27789,2370,Normal,1,Transition,1
-Urad,Mangan,2020,Kharif,67,63.0,0.94,51000,56418,2130,Normal,2,Organic,1
-Urad,Mangan,2021,Kharif,72,68.0,0.94,54500,59500,2340,Normal,2,Organic,1
-Urad,Namchi,1997,Kharif,1700,1250.0,0.74,7500,5882,2750,Normal,0,Conventional,1
-Urad,Namchi,1998,Kharif,1700,1020.0,0.6,8000,5040,2580,Normal,0,Conventional,1
-Urad,Namchi,1999,Kharif,1700,1280.0,0.75,8500,6776,2850,Normal,0,Conventional,1
-Urad,Namchi,2000,Kharif,1700,1280.0,0.75,9000,7078,2480,Normal,0,Conventional,1
-Urad,Namchi,2001,Kharif,1700,1280.0,0.75,9700,7529,2740,Normal,0,Conventional,1
-Urad,Namchi,2002,Kharif,1700,1300.0,0.76,10400,9176,2650,Normal,0,Conventional,1
-Urad,Namchi,2003,Kharif,1700,1310.0,0.77,11100,9247,3320,Excess,1,Transition,0
-Urad,Namchi,2004,Kharif,1700,1310.0,0.77,11800,9247,2850,Normal,1,Transition,1
-Urad,Namchi,2005,Kharif,170,1330.0,7.82,12500,101706,2440,Normal,1,Transition,1
-Urad,Namchi,2006,Kharif,1340,1050.0,0.78,14167,10970,2380,Deficient,1,Transition,2
-Urad,Namchi,2007,Kharif,1500,1320.0,0.88,15833,14960,2320,Deficient,1,Transition,2
-Urad,Namchi,2008,Kharif,1300,1100.0,0.85,17500,16077,2740,Normal,1,Transition,1
-Urad,Namchi,2009,Kharif,1590,1350.0,0.85,20000,21396,2190,Deficient,1,Transition,2
-Urad,Namchi,2010,Kharif,1600,141.0,0.09,22500,2556,2710,Normal,1,Transition,1
-Urad,Namchi,2011,Kharif,1530,1360.0,0.89,25750,29333,2870,Normal,1,Transition,1
-Urad,Namchi,2012,Kharif,1760,1570.0,0.89,29000,38358,2300,Deficient,1,Transition,2
-Urad,Namchi,2013,Kharif,1760,1600.0,0.91,31500,39091,2680,Normal,1,Transition,1
-Urad,Namchi,2014,Kharif,1730,1577.0,0.91,34000,39653,2840,Normal,1,Transition,1
-Urad,Namchi,2015,Kharif,1700,1581.0,0.93,36500,43012,2590,Normal,1,Transition,1
-Urad,Namchi,2016,Kharif,1720,1602.0,0.93,39333,46570,2770,Normal,2,Organic,1
-Urad,Namchi,2017,Kharif,1700,1583.0,0.93,42167,50284,2660,Normal,2,Organic,1
-Urad,Namchi,2018,Kharif,1700,1583.0,0.93,45000,52146,2510,Normal,2,Organic,1
-Urad,Namchi,2019,Kharif,1700,1588.0,0.93,48000,53245,2740,Normal,2,Organic,1
-Urad,Namchi,2020,Kharif,1700,1593.0,0.94,51000,56224,2580,Normal,2,Organic,1
-Urad,Namchi,2021,Kharif,1685,1584.0,0.94,54500,59224,2840,Normal,2,Organic,1
-Urad,Namchi,2022,Kharif,1628,1530.0,0.94,58000,62027,2540,Normal,2,Organic,1
-Urad,Pakyong,2022,Kharif,210,214.0,1.02,58000,67257,2860,Normal,2,Organic,1
-Urad,Soreng,2022,Kharif,322,287.0,0.89,58000,58826,2480,Normal,2,Organic,1
-Wheat,Gangtok,1997,Rabi,2800,5100.0,1.82,7800,8652,3100,Normal,0,Conventional,1
-Wheat,Gangtok,1998,Rabi,2720,2370.0,0.87,8467,4269,2890,Normal,0,Conventional,1
-Wheat,Gangtok,1999,Rabi,2550,4310.0,1.69,9133,8451,3210,Normal,0,Conventional,1
-Wheat,Gangtok,2000,Rabi,1490,2150.0,1.44,9800,7359,2780,Deficient,0,Conventional,2
-Wheat,Gangtok,2001,Rabi,2700,3640.0,1.35,10640,8224,3080,Normal,0,Conventional,1
-Wheat,Gangtok,2002,Rabi,2530,3310.0,1.31,11480,8111,2970,Normal,0,Conventional,1
-Wheat,Gangtok,2003,Rabi,1950,2470.0,1.27,12320,7980,3740,Excess,1,Transition,0
-Wheat,Gangtok,2004,Rabi,1430,2280.0,1.59,13160,10204,3200,Normal,1,Transition,1
-Wheat,Gangtok,2005,Rabi,1430,2800.0,1.96,14000,13706,2750,Deficient,1,Transition,2
-Wheat,Gangtok,2006,Rabi,1430,2810.0,1.97,15500,14738,2680,Deficient,1,Transition,2
-Wheat,Gangtok,2007,Rabi,1640,1640.0,1.0,17000,10000,2610,Deficient,1,Transition,2
-Wheat,Gangtok,2008,Rabi,1250,1210.0,0.97,18500,10454,3080,Normal,1,Transition,1
-Wheat,Gangtok,2009,Rabi,1730,1630.0,0.94,20250,10364,2460,Deficient,1,Transition,2
-Wheat,Gangtok,2010,Rabi,1000,1180.0,1.18,22000,13216,3050,Normal,1,Transition,1
-Wheat,Gangtok,2011,Rabi,900,1060.0,1.18,25000,15134,3230,Normal,1,Transition,1
-Wheat,Gangtok,2012,Rabi,160,180.0,1.13,28000,15188,2590,Deficient,1,Transition,2
-Wheat,Gangtok,2013,Rabi,150,170.0,1.13,30500,15867,3010,Normal,1,Transition,1
-Wheat,Gangtok,2014,Rabi,150,170.0,1.13,33000,16433,3200,Normal,1,Transition,1
-Wheat,Gangtok,2015,Rabi,143,162.0,1.13,35500,17276,2910,Normal,1,Transition,1
-Wheat,Gangtok,2016,Rabi,120,137.0,1.14,38333,18552,3120,Normal,2,Organic,1
-Wheat,Gangtok,2017,Rabi,120,137.0,1.14,41167,19808,3000,Normal,2,Organic,1
-Wheat,Gangtok,2018,Rabi,113,129.0,1.14,44000,21005,2820,Normal,2,Organic,1
-Wheat,Gangtok,2019,Rabi,113,130.0,1.15,46500,22146,3090,Normal,2,Organic,1
-Wheat,Gangtok,2020,Rabi,104,120.0,1.15,49000,22788,2900,Normal,2,Organic,1
-Wheat,Gangtok,2021,Rabi,103,119.0,1.16,52300,23280,3190,Normal,2,Organic,1
-Wheat,Gangtok,2022,Rabi,370,420.0,1.14,55600,24405,2860,Normal,2,Organic,1
-Wheat,Geyzing,1997,Rabi,2600,4694.0,1.81,7800,8576,2700,Normal,0,Conventional,1
-Wheat,Geyzing,1998,Rabi,2600,2200.0,0.85,8467,4146,2500,Normal,0,Conventional,1
-Wheat,Geyzing,1999,Rabi,2550,4300.0,1.69,9133,8431,2780,Normal,0,Conventional,1
-Wheat,Geyzing,2000,Rabi,2720,4063.0,1.49,9800,7618,2420,Deficient,0,Conventional,2
-Wheat,Geyzing,2001,Rabi,2880,4010.0,1.39,10640,8493,2680,Normal,0,Conventional,1
-Wheat,Geyzing,2002,Rabi,2670,3620.0,1.36,11480,8406,2590,Normal,0,Conventional,1
-Wheat,Geyzing,2003,Rabi,2670,3620.0,1.36,12320,8542,3250,Excess,1,Transition,0
-Wheat,Geyzing,2004,Rabi,1960,3000.0,1.53,13160,9796,2790,Normal,1,Transition,1
-Wheat,Geyzing,2005,Rabi,1960,3250.0,1.66,14000,11607,2390,Deficient,1,Transition,2
-Wheat,Geyzing,2006,Rabi,2100,3500.0,1.67,15500,12500,2310,Deficient,1,Transition,2
-Wheat,Geyzing,2007,Rabi,910,910.0,1.0,17000,10000,2260,Deficient,1,Transition,2
-Wheat,Geyzing,2008,Rabi,1020,820.0,0.8,18500,8682,2680,Normal,1,Transition,1
-Wheat,Geyzing,2009,Rabi,1100,800.0,0.73,20250,8000,2130,Deficient,1,Transition,2
-Wheat,Geyzing,2010,Rabi,810,621.0,0.77,22000,8587,2650,Normal,1,Transition,1
-Wheat,Geyzing,2011,Rabi,790,710.0,0.9,25000,11549,2810,Normal,1,Transition,1
-Wheat,Geyzing,2012,Rabi,150,150.0,1.0,28000,13500,2250,Deficient,1,Transition,2
-Wheat,Geyzing,2014,Rabi,40,40.0,1.0,33000,14500,2780,Normal,1,Transition,1
-Wheat,Geyzing,2015,Rabi,20,21.0,1.05,35500,16012,2530,Normal,1,Transition,1
-Wheat,Mangan,1997,Rabi,740,1346.0,1.82,7800,8640,2280,Normal,0,Conventional,1
-Wheat,Mangan,1998,Rabi,1041,826.0,0.79,8467,3888,2140,Normal,0,Conventional,1
-Wheat,Mangan,1999,Rabi,1040,1649.0,1.59,9133,7928,2350,Normal,0,Conventional,1
-Wheat,Mangan,2000,Rabi,1045,1300.0,1.24,9800,6344,2060,Deficient,0,Conventional,2
-Wheat,Mangan,2001,Rabi,1050,785.0,0.75,10640,4560,2260,Normal,0,Conventional,1
-Wheat,Mangan,2002,Rabi,1050,1050.0,1.0,11480,6200,2190,Normal,0,Conventional,1
-Wheat,Mangan,2003,Rabi,105,106.0,1.01,12320,6360,2760,Normal,1,Transition,1
-Wheat,Mangan,2004,Rabi,850,900.0,1.06,13160,6776,2350,Normal,1,Transition,1
-Wheat,Mangan,2005,Rabi,850,900.0,1.06,14000,7412,2020,Deficient,1,Transition,2
-Wheat,Mangan,2006,Rabi,850,900.0,1.06,15500,7941,1960,Deficient,1,Transition,2
-Wheat,Mangan,2007,Rabi,40,40.0,1.0,17000,10000,1920,Deficient,1,Transition,2
-Wheat,Mangan,2008,Rabi,380,320.0,0.84,18500,9095,2250,Normal,1,Transition,1
-Wheat,Mangan,2009,Rabi,810,980.0,1.21,20250,13309,1810,Deficient,1,Transition,2
-Wheat,Mangan,2010,Rabi,470,498.0,1.06,22000,11867,2230,Normal,1,Transition,1
-Wheat,Mangan,2011,Rabi,440,470.0,1.07,25000,13726,2370,Normal,1,Transition,1
-Wheat,Mangan,2012,Rabi,50,50.0,1.0,28000,13500,1900,Deficient,1,Transition,2
-Wheat,Mangan,2013,Rabi,50,45.0,0.9,30500,12600,2210,Normal,1,Transition,1
-Wheat,Mangan,2014,Rabi,50,50.0,1.0,33000,14500,2350,Normal,1,Transition,1
-Wheat,Mangan,2015,Rabi,50,45.0,0.9,35500,13725,2140,Normal,1,Transition,1
-Wheat,Mangan,2016,Rabi,50,46.0,0.92,38333,14950,2290,Normal,2,Organic,1
-Wheat,Mangan,2017,Rabi,52,48.0,0.92,41167,16015,2200,Normal,2,Organic,1
-Wheat,Mangan,2018,Rabi,50,47.0,0.94,44000,17296,2070,Deficient,2,Organic,2
-Wheat,Mangan,2019,Rabi,52,48.0,0.92,46500,17769,2270,Normal,2,Organic,1
-Wheat,Namchi,1997,Rabi,1950,3060.0,1.57,7800,7454,2750,Normal,0,Conventional,1
-Wheat,Namchi,1998,Rabi,1580,1020.0,0.65,8467,3163,2580,Normal,0,Conventional,1
-Wheat,Namchi,1999,Rabi,1960,2590.0,1.32,9133,6607,2850,Normal,0,Conventional,1
-Wheat,Namchi,2000,Rabi,1960,2590.0,1.32,9800,6739,2480,Normal,0,Conventional,1
-Wheat,Namchi,2001,Rabi,2080,2050.0,0.99,10640,6012,2740,Normal,0,Conventional,1
-Wheat,Namchi,2002,Rabi,2080,2420.0,1.16,11480,7213,2650,Normal,0,Conventional,1
-Wheat,Namchi,2003,Rabi,2080,2490.0,1.2,12320,7542,3320,Excess,1,Transition,0
-Wheat,Namchi,2004,Rabi,1500,2070.0,1.38,13160,8832,2850,Normal,1,Transition,1
-Wheat,Namchi,2005,Rabi,1500,2300.0,1.53,14000,10733,2440,Normal,1,Transition,1
-Wheat,Namchi,2006,Rabi,2000,3150.0,1.58,15500,11812,2380,Deficient,1,Transition,2
-Wheat,Namchi,2007,Rabi,1870,1870.0,1.0,17000,10000,2320,Deficient,1,Transition,2
-Wheat,Namchi,2008,Rabi,1250,1150.0,0.92,18500,9936,2740,Normal,1,Transition,1
-Wheat,Namchi,2009,Rabi,1560,1310.0,0.84,20250,9237,2190,Deficient,1,Transition,2
-Wheat,Namchi,2010,Rabi,370,411.0,1.11,22000,12441,2710,Normal,1,Transition,1
-Wheat,Namchi,2011,Rabi,370,410.0,1.11,25000,14239,2870,Normal,1,Transition,1
-Wheat,Namchi,2012,Rabi,160,170.0,1.06,28000,14344,2300,Deficient,1,Transition,2
-Wheat,Namchi,2013,Rabi,160,170.0,1.06,30500,14875,2680,Normal,1,Transition,1
-Wheat,Namchi,2014,Rabi,150,160.0,1.07,33000,15467,2840,Normal,1,Transition,1
-Wheat,Namchi,2015,Rabi,110,118.0,1.07,35500,16359,2590,Normal,1,Transition,1
-Wheat,Namchi,2016,Rabi,95,103.0,1.08,38333,17618,2770,Normal,2,Organic,1
-Wheat,Pakyong,2022,Rabi,56,66.0,1.18,55600,25339,2860,Normal,2,Organic,1
+Crop Name,District Name,Crop Year,Crop Season,Cultivation Area (Hectare),Production (Tonne),Yield (Tonne per Hectare)
+Barley,Gangtok,1997-1998,Rabi,500,500,1
+Barley,Gangtok,1998-1999,Rabi,340,270,0.79
+Barley,Gangtok,1999-2000,Rabi,340,500,1.47
+Barley,Gangtok,2000-2001,Rabi,340,390,1.15
+Barley,Gangtok,2001-2002,Rabi,340,440,1.29
+Barley,Gangtok,2002-2003,Rabi,440,530,1.2
+Barley,Gangtok,2003-2004,Rabi,440,500,1.14
+Barley,Gangtok,2004-2005,Rabi,440,500,1.14
+Barley,Gangtok,2005-2006,Rabi,440,520,1.18
+Barley,Gangtok,2006-2007,Rabi,420,450,1.07
+Barley,Gangtok,2007-2008,Rabi,310,330,1.06
+Barley,Gangtok,2008-2009,Rabi,210,190,0.9
+Barley,Gangtok,2009-2010,Rabi,410,370,0.9
+Barley,Gangtok,2010-2011,Rabi,320,288,0.9
+Barley,Gangtok,2011-2012,Rabi,300,280,0.93
+Barley,Gangtok,2012-2013,Rabi,240,250,1.04
+Barley,Gangtok,2013-2014,Rabi,230,250,1.09
+Barley,Gangtok,2014-2015,Rabi,225,241,1.07
+Barley,Gangtok,2015-2016,Rabi,225,243,1.08
+Barley,Gangtok,2016-2017,Rabi,230,250,1.09
+Barley,Gangtok,2017-2018,Rabi,225,245,1.09
+Barley,Gangtok,2018-2019,Rabi,216,248,1.15
+Barley,Gangtok,2019-2020,Rabi,214,246,1.15
+Barley,Gangtok,2020-2021,Rabi,200,230,1.15
+Barley,Gangtok,2021-2022,Rabi,1199,1209,1.01
+Barley,Gangtok,2022-2023,Rabi,52,59,1.13
+Barley,Geyzing,1997-1998,Rabi,450,623,1.38
+Barley,Geyzing,1998-1999,Rabi,450,600,1.33
+Barley,Geyzing,1999-2000,Rabi,450,670,1.49
+Barley,Geyzing,2000-2001,Rabi,450,470,1.04
+Barley,Geyzing,2001-2002,Rabi,450,610,1.36
+Barley,Geyzing,2002-2003,Rabi,450,670,1.49
+Barley,Geyzing,2003-2004,Rabi,450,600,1.33
+Barley,Geyzing,2004-2005,Rabi,450,600,1.33
+Barley,Geyzing,2005-2006,Rabi,450,610,1.36
+Barley,Geyzing,2006-2007,Rabi,390,500,1.28
+Barley,Geyzing,2007-2008,Rabi,120,110,0.92
+Barley,Geyzing,2008-2009,Rabi,90,100,1.11
+Barley,Geyzing,2009-2010,Rabi,110,108,0.98
+Barley,Geyzing,2010-2011,Rabi,40,39,0.98
+Barley,Geyzing,2011-2012,Rabi,40,40,1.0
+Barley,Geyzing,2012-2013,Rabi,100,90,0.9
+Barley,Geyzing,2013-2014,Rabi,100,90,0.9
+Barley,Geyzing,2014-2015,Rabi,20,18,0.9
+Barley,Geyzing,2015-2016,Rabi,12,11,0.92
+Barley,Geyzing,2016-2017,Rabi,13,12,0.92
+Barley,Geyzing,2021-2022,Rabi,395,372,0.94
+Barley,Mangan,1997-1998,Rabi,150,207,1.38
+Barley,Mangan,1998-1999,Rabi,150,207,1.38
+Barley,Mangan,1999-2000,Rabi,150,207,1.38
+Barley,Mangan,2000-2001,Rabi,150,150,1.0
+Barley,Mangan,2001-2002,Rabi,140,92,0.66
+Barley,Mangan,2002-2003,Rabi,140,100,0.71
+Barley,Mangan,2003-2004,Rabi,140,110,0.79
+Barley,Mangan,2004-2005,Rabi,140,120,0.86
+Barley,Mangan,2005-2006,Rabi,140,140,1.0
+Barley,Mangan,2006-2007,Rabi,140,120,0.86
+Barley,Mangan,2007-2008,Rabi,80,80,1.0
+Barley,Mangan,2008-2009,Rabi,50,40,0.8
+Barley,Mangan,2009-2010,Rabi,240,242,1.01
+Barley,Mangan,2010-2011,Rabi,140,165,1.18
+Barley,Mangan,2011-2012,Rabi,140,160,1.14
+Barley,Mangan,2012-2013,Rabi,140,150,1.07
+Barley,Mangan,2013-2014,Rabi,140,151,1.08
+Barley,Mangan,2014-2015,Rabi,140,150,1.07
+Barley,Mangan,2015-2016,Rabi,140,153,1.09
+Barley,Mangan,2016-2017,Rabi,140,154,1.1
+Barley,Mangan,2017-2018,Rabi,145,160,1.1
+Barley,Mangan,2018-2019,Rabi,140,167,1.19
+Barley,Mangan,2019-2020,Rabi,147,175,1.19
+Barley,Mangan,2020-2021,Rabi,146,174,1.19
+Barley,Mangan,2021-2022,Rabi,236,232,0.98
+Barley,Mangan,2022-2023,Rabi,147,176,1.2
+Barley,Namchi,1997-1998,Rabi,210,180,0.86
+Barley,Namchi,1998-1999,Rabi,190,140,0.74
+Barley,Namchi,1999-2000,Rabi,200,300,1.5
+Barley,Namchi,2000-2001,Rabi,200,200,1.0
+Barley,Namchi,2001-2002,Rabi,250,190,0.76
+Barley,Namchi,2002-2003,Rabi,200,200,1.0
+Barley,Namchi,2003-2004,Rabi,200,300,1.5
+Barley,Namchi,2004-2005,Rabi,200,300,1.5
+Barley,Namchi,2005-2006,Rabi,200,320,1.6
+Barley,Namchi,2006-2007,Rabi,200,200,1.0
+Barley,Namchi,2007-2008,Rabi,200,140,0.7
+Barley,Namchi,2008-2009,Rabi,150,140,0.93
+Barley,Namchi,2009-2010,Rabi,240,200,0.83
+Barley,Namchi,2010-2011,Rabi,140,117,0.84
+Barley,Namchi,2011-2012,Rabi,100,80,0.8
+Barley,Namchi,2012-2013,Rabi,110,100,0.91
+Barley,Namchi,2013-2014,Rabi,110,101,0.92
+Barley,Namchi,2014-2015,Rabi,100,90,0.9
+Barley,Namchi,2015-2016,Rabi,70,65,0.93
+Barley,Namchi,2016-2017,Rabi,70,65,0.93
+Barley,Namchi,2017-2018,Rabi,50,46,0.92
+Barley,Namchi,2018-2019,Rabi,430,429,1.0
+Barley,Namchi,2019-2020,Rabi,40,40,1.0
+Barley,Namchi,2021-2022,Rabi,1310,1291,0.99
+Barley,Namchi,2022-2023,Rabi,2,2,1.0
+Barley,Pakyong,2022-2023,Rabi,89,64,0.72
+Maize,Gangtok,1997-1998,Kharif,9700,14120,1.46
+Maize,Gangtok,1998-1999,Kharif,9690,16450,1.7
+Maize,Gangtok,1999-2000,Kharif,9700,13473,1.39
+Maize,Gangtok,2000-2001,Kharif,10210,15700,1.54
+Maize,Gangtok,2001-2002,Kharif,10210,15700,1.54
+Maize,Gangtok,2002-2003,Kharif,8600,12040,1.4
+Maize,Gangtok,2003-2004,Kharif,8580,12440,1.45
+Maize,Gangtok,2004-2005,Kharif,9270,13240,1.43
+Maize,Gangtok,2005-2006,Kharif,9270,14240,1.54
+Maize,Gangtok,2006-2007,Kharif,8760,13730,1.57
+Maize,Gangtok,2007-2008,Kharif,8650,9240,1.07
+Maize,Gangtok,2008-2009,Kharif,8550,25300,2.96
+Maize,Gangtok,2009-2010,Kharif,8910,14920,1.67
+Maize,Gangtok,2010-2011,Kharif,9070,15664,1.73
+Maize,Gangtok,2011-2012,Kharif,9040,15710,1.74
+Maize,Gangtok,2012-2013,Kharif,9030,15350,1.7
+Maize,Gangtok,2013-2014,Kharif,9000,15400,1.71
+Maize,Gangtok,2014-2015,Kharif,8990,15400,1.71
+Maize,Gangtok,2015-2016,Kharif,8991,15640,1.74
+Maize,Gangtok,2016-2017,Kharif,8990,15721,1.75
+Maize,Gangtok,2017-2018,Kharif,8989,15731,1.75
+Maize,Gangtok,2018-2019,Kharif,8444,14777,1.75
+Maize,Gangtok,2019-2020,Kharif,8442,14831,1.76
+Maize,Gangtok,2020-2021,Kharif,8436,14821,1.76
+Maize,Gangtok,2021-2022,Kharif,8434,14843,1.76
+Maize,Gangtok,2022-2023,Kharif,3349,5873,1.75
+Maize,Geyzing,1997-1998,Kharif,13300,19100,1.44
+Maize,Geyzing,1998-1999,Kharif,13300,18500,1.39
+Maize,Geyzing,1999-2000,Kharif,13000,18200,1.4
+Maize,Geyzing,2000-2001,Kharif,13300,19750,1.48
+Maize,Geyzing,2001-2002,Kharif,13470,18590,1.38
+Maize,Geyzing,2002-2003,Kharif,13120,19170,1.46
+Maize,Geyzing,2003-2004,Kharif,13320,22370,1.68
+Maize,Geyzing,2004-2005,Kharif,13320,23300,1.75
+Maize,Geyzing,2005-2006,Kharif,13320,24300,1.82
+Maize,Geyzing,2006-2007,Kharif,13000,21300,1.64
+Maize,Geyzing,2007-2008,Kharif,13000,18190,1.4
+Maize,Geyzing,2008-2009,Kharif,12880,21710,1.69
+Maize,Geyzing,2009-2010,Kharif,13020,21990,1.69
+Maize,Geyzing,2010-2011,Kharif,13870,23163,1.67
+Maize,Geyzing,2011-2012,Kharif,13860,23280,1.68
+Maize,Geyzing,2012-2013,Kharif,13880,23710,1.71
+Maize,Geyzing,2013-2014,Kharif,13870,24000,1.73
+Maize,Geyzing,2014-2015,Kharif,13840,24000,1.73
+Maize,Geyzing,2015-2016,Kharif,13210,23110,1.75
+Maize,Geyzing,2016-2017,Kharif,12950,22689,1.75
+Maize,Geyzing,2017-2018,Kharif,13142,23090,1.76
+Maize,Geyzing,2018-2019,Kharif,13104,23024,1.76
+Maize,Geyzing,2019-2020,Kharif,13796,24240,1.76
+Maize,Geyzing,2020-2021,Kharif,13801,24262,1.76
+Maize,Geyzing,2021-2022,Kharif,13700,24098,1.76
+Maize,Geyzing,2022-2023,Kharif,6752,11695,1.73
+Maize,Mangan,1997-1998,Kharif,3093,4440,1.44
+Maize,Mangan,1998-1999,Kharif,3093,2230,0.72
+Maize,Mangan,1999-2000,Kharif,3093,4161,1.35
+Maize,Mangan,2000-2001,Kharif,3093,4561,1.47
+Maize,Mangan,2001-2002,Kharif,3030,3924,1.3
+Maize,Mangan,2002-2003,Kharif,2500,3250,1.3
+Maize,Mangan,2003-2004,Kharif,2300,3490,1.52
+Maize,Mangan,2004-2005,Kharif,1610,2990,1.86
+Maize,Mangan,2005-2006,Kharif,1610,3200,1.99
+Maize,Mangan,2006-2007,Kharif,1810,3000,1.66
+Maize,Mangan,2007-2008,Kharif,2750,3760,1.37
+Maize,Mangan,2008-2009,Kharif,2770,4430,1.6
+Maize,Mangan,2009-2010,Kharif,2920,3970,1.36
+Maize,Mangan,2010-2011,Kharif,2900,4051,1.4
+Maize,Mangan,2011-2012,Kharif,2760,3850,1.39
+Maize,Mangan,2012-2013,Kharif,2750,4120,1.5
+Maize,Mangan,2013-2014,Kharif,2750,4225,1.54
+Maize,Mangan,2014-2015,Kharif,2750,4290,1.56
+Maize,Mangan,2015-2016,Kharif,2754,4380,1.59
+Maize,Mangan,2016-2017,Kharif,2668,4265,1.6
+Maize,Mangan,2017-2018,Kharif,2827,4523,1.6
+Maize,Mangan,2018-2019,Kharif,2750,4400,1.6
+Maize,Mangan,2019-2020,Kharif,2829,4529,1.6
+Maize,Mangan,2020-2021,Kharif,2828,4538,1.6
+Maize,Mangan,2021-2022,Kharif,2844,4573,1.61
+Maize,Mangan,2022-2023,Kharif,2829,4549,1.61
+Maize,Namchi,1997-1998,Kharif,13300,18050,1.36
+Maize,Namchi,1998-1999,Kharif,13300,16620,1.25
+Maize,Namchi,1999-2000,Kharif,13300,17000,1.28
+Maize,Namchi,2000-2001,Kharif,13300,19600,1.47
+Maize,Namchi,2001-2002,Kharif,13400,18800,1.4
+Maize,Namchi,2002-2003,Kharif,12500,18750,1.5
+Maize,Namchi,2003-2004,Kharif,12500,18750,1.5
+Maize,Namchi,2004-2005,Kharif,12500,18750,1.5
+Maize,Namchi,2005-2006,Kharif,1250,19360,15.49
+Maize,Namchi,2006-2007,Kharif,17280,26860,1.55
+Maize,Namchi,2007-2008,Kharif,15370,27930,1.82
+Maize,Namchi,2008-2009,Kharif,15000,14300,0.95
+Maize,Namchi,2009-2010,Kharif,14650,23810,1.63
+Maize,Namchi,2010-2011,Kharif,14330,233145,16.27
+Maize,Namchi,2011-2012,Kharif,14290,23370,1.64
+Maize,Namchi,2012-2013,Kharif,14310,24770,1.73
+Maize,Namchi,2013-2014,Kharif,14310,25200,1.76
+Maize,Namchi,2014-2015,Kharif,14300,25200,1.76
+Maize,Namchi,2015-2016,Kharif,14000,25180,1.8
+Maize,Namchi,2016-2017,Kharif,13890,25317,1.82
+Maize,Namchi,2017-2018,Kharif,13500,24624,1.82
+Maize,Namchi,2018-2019,Kharif,13480,24588,1.82
+Maize,Namchi,2019-2020,Kharif,13320,24308,1.82
+Maize,Namchi,2020-2021,Kharif,13325,24317,1.82
+Maize,Namchi,2021-2022,Kharif,13300,24350,1.83
+Maize,Namchi,2022-2023,Kharif,13237,24235,1.83
+Maize,Pakyong,2022-2023,Kharif,5076,9012,1.78
+Maize,Soreng,2022-2023,Kharif,6280,11682,1.86
+Other Rabi pulses,Gangtok,1997-1998,Rabi,750,810,1.08
+Other Rabi pulses,Gangtok,1998-1999,Rabi,750,840,1.12
+Other Rabi pulses,Geyzing,1997-1998,Rabi,850,1010,1.19
+Other Rabi pulses,Geyzing,1998-1999,Rabi,840,1000,1.19
+Other Rabi pulses,Mangan,1997-1998,Rabi,60,60,1.0
+Other Rabi pulses,Mangan,1998-1999,Rabi,60,56,0.93
+Other Rabi pulses,Namchi,1997-1998,Rabi,650,770,1.18
+Other Rabi pulses,Namchi,1998-1999,Rabi,650,650,1.0
+Other Cereals,Gangtok,2000-2001,Rabi,540,400,0.74
+Other Cereals,Gangtok,2004-2005,Rabi,560,470,0.84
+Other Cereals,Gangtok,2005-2006,Rabi,560,500,0.89
+Other Cereals,Gangtok,2006-2007,Rabi,650,580,0.89
+Other Cereals,Gangtok,2007-2008,Rabi,370,260,0.7
+Other Cereals,Gangtok,2008-2009,Rabi,1700,1600,0.94
+Other Cereals,Gangtok,2009-2010,Rabi,1720,1610,0.94
+Other Cereals,Gangtok,2010-2011,Rabi,1660,1554,0.94
+Other Cereals,Gangtok,2016-2017,Kharif,1190,1188,1.0
+Other Cereals,Gangtok,2017-2018,Kharif,1234,1232,1.0
+Other Cereals,Gangtok,2018-2019,Kharif,1220,1218,1.0
+Other Cereals,Gangtok,2019-2020,Kharif,1219,1227,1.01
+Other Cereals,Gangtok,2020-2021,Kharif,1196,1204,1.01
+Other Cereals,Gangtok,2021-2022,Kharif,1199,120.9,0.1
+Other Cereals,Gangtok,2022-2023,Kharif,381,387,1.02
+Other Cereals,Geyzing,2000-2001,Rabi,680,530,0.78
+Other Cereals,Geyzing,2004-2005,Rabi,670,550,0.82
+Other Cereals,Geyzing,2005-2006,Rabi,670,560,0.84
+Other Cereals,Geyzing,2006-2007,Rabi,770,750,0.97
+Other Cereals,Geyzing,2007-2008,Rabi,380,380,1.0
+Other Cereals,Geyzing,2008-2009,Rabi,2160,2130,0.99
+Other Cereals,Geyzing,2009-2010,Rabi,1030,900,0.87
+Other Cereals,Geyzing,2010-2011,Rabi,1150,1005,0.87
+Other Cereals,Geyzing,2016-2017,Kharif,765,711,0.93
+Other Cereals,Geyzing,2017-2018,Kharif,670,623,0.93
+Other Cereals,Geyzing,2018-2019,Kharif,266,247,0.93
+Other Cereals,Geyzing,2019-2020,Kharif,393,365,0.93
+Other Cereals,Geyzing,2020-2021,Kharif,393,370,0.94
+Other Cereals,Geyzing,2021-2022,Kharif,395,37.2,0.09
+Other Cereals,Geyzing,2022-2023,Kharif,210,199,0.95
+Other Cereals,Mangan,2000-2001,Rabi,190,140,0.74
+Other Cereals,Mangan,2004-2005,Rabi,200,120,0.6
+Other Cereals,Mangan,2005-2006,Rabi,200,140,0.7
+Other Cereals,Mangan,2006-2007,Rabi,200,140,0.7
+Other Cereals,Mangan,2007-2008,Rabi,60,50,0.83
+Other Cereals,Mangan,2008-2009,Rabi,300,280,0.93
+Other Cereals,Mangan,2009-2010,Rabi,820,680,0.83
+Other Cereals,Mangan,2010-2011,Rabi,200,166,0.83
+Other Cereals,Mangan,2016-2017,Kharif,211,205,0.97
+Other Cereals,Mangan,2017-2018,Kharif,211,205,0.97
+Other Cereals,Mangan,2018-2019,Kharif,190,185,0.97
+Other Cereals,Mangan,2019-2020,Kharif,214,208,0.97
+Other Cereals,Mangan,2020-2021,Kharif,213,209,0.98
+Other Cereals,Mangan,2021-2022,Kharif,236,232,0.98
+Other Cereals,Mangan,2022-2023,Kharif,214,209,0.98
+Other Cereals,Namchi,2000-2001,Rabi,580,460,0.79
+Other Cereals,Namchi,2004-2005,Rabi,580,420,0.72
+Other Cereals,Namchi,2005-2006,Rabi,580,440,0.76
+Other Cereals,Namchi,2006-2007,Rabi,420,320,0.76
+Other Cereals,Namchi,2007-2008,Rabi,450,270,0.6
+Other Cereals,Namchi,2008-2009,Rabi,1380,1340,0.97
+Other Cereals,Namchi,2009-2010,Rabi,1970,1880,0.95
+Other Cereals,Namchi,2010-2011,Rabi,1380,1332,0.97
+Other Cereals,Namchi,2016-2017,Kharif,1400,1372,0.98
+Other Cereals,Namchi,2017-2018,Kharif,1320,1294,0.98
+Other Cereals,Namchi,2018-2019,Kharif,1320,1294,0.98
+Other Cereals,Namchi,2019-2020,Kharif,1310,1288,0.98
+Other Cereals,Namchi,2020-2021,Kharif,1312,1290,0.98
+Other Cereals,Namchi,2021-2022,Kharif,1310,129.1,0.1
+Other Cereals,Namchi,2022-2023,Kharif,762,751,0.99
+Other Cereals,Pakyong,2022-2023,Kharif,857,866,1.01
+Other Cereals,Soreng,2022-2023,Kharif,207,195,0.94
+Other Kharif pulses,Gangtok,2000-2001,Kharif,700,590,0.84
+Other Kharif pulses,Gangtok,2001-2002,Kharif,1340,1310,0.98
+Other Kharif pulses,Gangtok,2002-2003,Kharif,1240,1300,1.05
+Other Kharif pulses,Gangtok,2004-2005,Kharif,1400,160,0.11
+Other Kharif pulses,Gangtok,2005-2006,Kharif,1400,1700,1.21
+Other Kharif pulses,Gangtok,2006-2007,Kharif,1450,148,0.1
+Other Kharif pulses,Gangtok,2007-2008,Kharif,1840,1760,0.96
+Other Kharif pulses,Gangtok,2008-2009,Kharif,1450,1640,1.13
+Other Kharif pulses,Gangtok,2009-2010,Kharif,1130,1260,1.12
+Other Kharif pulses,Gangtok,2010-2011,Kharif,740,673,0.91
+Other Kharif pulses,Gangtok,2011-2012,Kharif,750,680,0.91
+Other Kharif pulses,Gangtok,2012-2013,Kharif,570,530,0.93
+Other Kharif pulses,Gangtok,2013-2014,Kharif,470,450,0.96
+Other Kharif pulses,Gangtok,2014-2015,Kharif,470,450,0.96
+Other Kharif pulses,Gangtok,2015-2016,Kharif,470,454,0.97
+Other Kharif pulses,Gangtok,2016-2017,Kharif,480,468,0.98
+Other Kharif pulses,Gangtok,2017-2018,Kharif,472,460,0.97
+Other Kharif pulses,Gangtok,2018-2019,Kharif,459,448,0.98
+Other Kharif pulses,Gangtok,2019-2020,Kharif,457,450,0.98
+Other Kharif pulses,Gangtok,2020-2021,Kharif,457,451,0.99
+Other Kharif pulses,Gangtok,2021-2022,Kharif,455,450,0.99
+Other Kharif pulses,Gangtok,2022-2023,Kharif,126,131,1.04
+Other Kharif pulses,Geyzing,2000-2001,Kharif,840,1000,1.19
+Other Kharif pulses,Geyzing,2001-2002,Kharif,820,1000,1.22
+Other Kharif pulses,Geyzing,2002-2003,Kharif,880,1170,1.33
+Other Kharif pulses,Geyzing,2004-2005,Kharif,750,1010,1.35
+Other Kharif pulses,Geyzing,2005-2006,Kharif,750,1020,1.36
+Other Kharif pulses,Geyzing,2006-2007,Kharif,810,1000,1.23
+Other Kharif pulses,Geyzing,2007-2008,Kharif,280,20,0.07
+Other Kharif pulses,Geyzing,2008-2009,Kharif,310,310,1.0
+Other Kharif pulses,Geyzing,2009-2010,Kharif,460,370,0.8
+Other Kharif pulses,Geyzing,2010-2011,Kharif,810,6510,8.04
+Other Kharif pulses,Geyzing,2011-2012,Kharif,900,770,0.86
+Other Kharif pulses,Geyzing,2012-2013,Kharif,980,870,0.89
+Other Kharif pulses,Geyzing,2013-2014,Kharif,990,880,0.89
+Other Kharif pulses,Geyzing,2014-2015,Kharif,970,860,0.89
+Other Kharif pulses,Geyzing,2015-2016,Kharif,719,650,0.9
+Other Kharif pulses,Geyzing,2016-2017,Kharif,680,618,0.91
+Other Kharif pulses,Geyzing,2017-2018,Kharif,628,572,0.91
+Other Kharif pulses,Geyzing,2018-2019,Kharif,309,281,0.91
+Other Kharif pulses,Geyzing,2019-2020,Kharif,485,443,0.91
+Other Kharif pulses,Geyzing,2020-2021,Kharif,485,447,0.92
+Other Kharif pulses,Geyzing,2021-2022,Kharif,491,453,0.92
+Other Kharif pulses,Geyzing,2022-2023,Kharif,242,255,1.05
+Other Kharif pulses,Mangan,2000-2001,Kharif,60,56,0.93
+Other Kharif pulses,Mangan,2001-2002,Kharif,60,55,0.92
+Other Kharif pulses,Mangan,2002-2003,Kharif,80,80,1.0
+Other Kharif pulses,Mangan,2004-2005,Kharif,60,40,0.67
+Other Kharif pulses,Mangan,2005-2006,Kharif,60,60,1.0
+Other Kharif pulses,Mangan,2006-2007,Kharif,60,100,1.67
+Other Kharif pulses,Mangan,2007-2008,Kharif,190,140,0.74
+Other Kharif pulses,Mangan,2008-2009,Kharif,100,90,0.9
+Other Kharif pulses,Mangan,2009-2010,Kharif,330,300,0.91
+Other Kharif pulses,Mangan,2010-2011,Kharif,170,155,0.91
+Other Kharif pulses,Mangan,2011-2012,Kharif,160,150,0.94
+Other Kharif pulses,Mangan,2012-2013,Kharif,240,220,0.92
+Other Kharif pulses,Mangan,2013-2014,Kharif,250,230,0.92
+Other Kharif pulses,Mangan,2014-2015,Kharif,270,250,0.93
+Other Kharif pulses,Mangan,2015-2016,Kharif,267,252,0.94
+Other Kharif pulses,Mangan,2016-2017,Kharif,270,255,0.94
+Other Kharif pulses,Mangan,2017-2018,Kharif,276,261,0.95
+Other Kharif pulses,Mangan,2018-2019,Kharif,250,236,0.94
+Other Kharif pulses,Mangan,2019-2020,Kharif,278,264,0.95
+Other Kharif pulses,Mangan,2020-2021,Kharif,277,266,0.96
+Other Kharif pulses,Mangan,2021-2022,Kharif,282,272,0.96
+Other Kharif pulses,Mangan,2022-2023,Kharif,278,272,0.98
+Other Kharif pulses,Namchi,2000-2001,Kharif,650,770,1.18
+Other Kharif pulses,Namchi,2001-2002,Kharif,640,840,1.31
+Other Kharif pulses,Namchi,2002-2003,Kharif,700,920,1.31
+Other Kharif pulses,Namchi,2004-2005,Kharif,720,950,1.32
+Other Kharif pulses,Namchi,2005-2006,Kharif,720,1000,1.39
+Other Kharif pulses,Namchi,2006-2007,Kharif,90,130,1.44
+Other Kharif pulses,Namchi,2007-2008,Kharif,2300,1890,0.82
+Other Kharif pulses,Namchi,2008-2009,Kharif,820,930,1.13
+Other Kharif pulses,Namchi,2009-2010,Kharif,980,1100,1.12
+Other Kharif pulses,Namchi,2010-2011,Kharif,1280,1280,1.0
+Other Kharif pulses,Namchi,2011-2012,Kharif,1270,1270,1.0
+Other Kharif pulses,Namchi,2012-2013,Kharif,1310,1300,0.99
+Other Kharif pulses,Namchi,2013-2014,Kharif,1310,1320,1.01
+Other Kharif pulses,Namchi,2014-2015,Kharif,1320,1330,1.01
+Other Kharif pulses,Namchi,2015-2016,Kharif,1310,1342,1.02
+Other Kharif pulses,Namchi,2016-2017,Kharif,1280,1312,1.03
+Other Kharif pulses,Namchi,2017-2018,Kharif,1280,1312,1.03
+Other Kharif pulses,Namchi,2018-2019,Kharif,1265,1296,1.02
+Other Kharif pulses,Namchi,2019-2020,Kharif,1230,1270,1.03
+Other Kharif pulses,Namchi,2020-2021,Kharif,1065,1105,1.04
+Other Kharif pulses,Namchi,2021-2022,Kharif,1202,1250,1.04
+Other Kharif pulses,Namchi,2022-2023,Kharif,1152,1250,1.09
+Other Kharif pulses,Pakyong,2022-2023,Kharif,340,319,0.94
+Other Kharif pulses,Soreng,2022-2023,Kharif,277,193,0.7
+Other oilseeds,Gangtok,2000-2001,Kharif,20,10,0.5
+Other oilseeds,Geyzing,2000-2001,Kharif,20,10,0.5
+Other oilseeds,Geyzing,2002-2003,Whole Year,20,10,0.5
+Other oilseeds,Geyzing,2003-2004,Whole Year,20,10,0.5
+Other oilseeds,Geyzing,2004-2005,Kharif,20,10,0.5
+Other oilseeds,Geyzing,2005-2006,Kharif,20,20,1.0
+Other oilseeds,Namchi,2000-2001,Kharif,40,14,0.35
+Other oilseeds,Namchi,2002-2003,Whole Year,40,20,0.5
+Other oilseeds,Namchi,2003-2004,Whole Year,40,20,0.5
+Other oilseeds,Namchi,2004-2005,Kharif,40,20,0.5
+Other oilseeds,Namchi,2005-2006,Kharif,40,30,0.75
+Potato,Gangtok,2002-2003,Whole Year,1680,8980,5.35
+Potato,Gangtok,2003-2004,Whole Year,2060,9630,4.67
+Potato,Geyzing,2002-2003,Whole Year,2970,10180,3.43
+Potato,Geyzing,2003-2004,Whole Year,3270,14120,4.32
+Potato,Mangan,2002-2003,Whole Year,330,880,2.67
+Potato,Mangan,2003-2004,Whole Year,310,1320,4.26
+Potato,Namchi,2002-2003,Whole Year,780,6980,8.95
+Potato,Namchi,2003-2004,Whole Year,1830,8370,4.57
+Rapeseed & Mustard,Gangtok,1997-1998,Rabi,2240,1700,0.76
+Rapeseed & Mustard,Gangtok,1998-1999,Rabi,2240,910,0.41
+Rapeseed & Mustard,Gangtok,1999-2000,Rabi,2280,1770,0.78
+Rapeseed & Mustard,Gangtok,2000-2001,Rabi,2280,1770,0.78
+Rapeseed & Mustard,Gangtok,2001-2002,Rabi,2300,1600,0.7
+Rapeseed & Mustard,Gangtok,2002-2003,Rabi,1300,1050,0.81
+Rapeseed & Mustard,Gangtok,2003-2004,Rabi,1900,1030,0.54
+Rapeseed & Mustard,Gangtok,2004-2005,Rabi,190,1330,7.0
+Rapeseed & Mustard,Gangtok,2005-2006,Rabi,1900,1350,0.71
+Rapeseed & Mustard,Gangtok,2006-2007,Rabi,1920,1390,0.72
+Rapeseed & Mustard,Gangtok,2007-2008,Rabi,1270,900,0.71
+Rapeseed & Mustard,Gangtok,2008-2009,Rabi,1600,1420,0.89
+Rapeseed & Mustard,Gangtok,2009-2010,Rabi,1770,1550,0.88
+Rapeseed & Mustard,Gangtok,2010-2011,Rabi,1750,1534,0.88
+Rapeseed & Mustard,Gangtok,2011-2012,Rabi,1850,1520,0.82
+Rapeseed & Mustard,Gangtok,2012-2013,Rabi,1640,1290,0.79
+Rapeseed & Mustard,Gangtok,2013-2014,Rabi,1650,1310,0.79
+Rapeseed & Mustard,Gangtok,2014-2015,Rabi,1450,1151,0.79
+Rapeseed & Mustard,Gangtok,2015-2016,Rabi,1490,1210,0.81
+Rapeseed & Mustard,Gangtok,2016-2017,Rabi,1510,1301,0.86
+Rapeseed & Mustard,Gangtok,2017-2018,Rabi,1510,1303,0.86
+Rapeseed & Mustard,Gangtok,2018-2019,Rabi,1489,1287,0.86
+Rapeseed & Mustard,Gangtok,2019-2020,Rabi,1487,1289,0.87
+Rapeseed & Mustard,Gangtok,2020-2021,Rabi,1473,1277,0.87
+Rapeseed & Mustard,Gangtok,2021-2022,Rabi,1475,1281,0.87
+Rapeseed & Mustard,Gangtok,2022-2023,Rabi,601,524,0.87
+Rapeseed & Mustard,Geyzing,1997-1998,Rabi,1300,1070,0.82
+Rapeseed & Mustard,Geyzing,1998-1999,Rabi,1450,670,0.46
+Rapeseed & Mustard,Geyzing,1999-2000,Rabi,1450,1120,0.77
+Rapeseed & Mustard,Geyzing,2000-2001,Rabi,1450,1008,0.7
+Rapeseed & Mustard,Geyzing,2001-2002,Rabi,1460,1000,0.68
+Rapeseed & Mustard,Geyzing,2002-2003,Rabi,1460,1040,0.71
+Rapeseed & Mustard,Geyzing,2003-2004,Rabi,1580,1120,0.71
+Rapeseed & Mustard,Geyzing,2004-2005,Rabi,1580,1130,0.72
+Rapeseed & Mustard,Geyzing,2005-2006,Rabi,1580,1200,0.76
+Rapeseed & Mustard,Geyzing,2006-2007,Rabi,1500,1140,0.76
+Rapeseed & Mustard,Geyzing,2007-2008,Rabi,530,300,0.57
+Rapeseed & Mustard,Geyzing,2008-2009,Rabi,1610,1310,0.81
+Rapeseed & Mustard,Geyzing,2009-2010,Rabi,1800,1270,0.71
+Rapeseed & Mustard,Geyzing,2010-2011,Rabi,1550,1135,0.73
+Rapeseed & Mustard,Geyzing,2011-2012,Rabi,1600,1280,0.8
+Rapeseed & Mustard,Geyzing,2012-2013,Rabi,1070,870,0.81
+Rapeseed & Mustard,Geyzing,2013-2014,Rabi,750,620,0.83
+Rapeseed & Mustard,Geyzing,2014-2015,Rabi,740,610,0.82
+Rapeseed & Mustard,Geyzing,2015-2016,Rabi,625,540,0.86
+Rapeseed & Mustard,Geyzing,2016-2017,Rabi,500,435,0.87
+Rapeseed & Mustard,Geyzing,2017-2018,Rabi,229,199,0.87
+Rapeseed & Mustard,Geyzing,2018-2019,Rabi,171,148,0.87
+Rapeseed & Mustard,Geyzing,2019-2020,Rabi,249,217,0.87
+Rapeseed & Mustard,Geyzing,2020-2021,Rabi,245,214,0.87
+Rapeseed & Mustard,Geyzing,2021-2022,Rabi,248,1004,4.05
+Rapeseed & Mustard,Geyzing,2022-2023,Rabi,76,67,0.88
+Rapeseed & Mustard,Mangan,1997-1998,Rabi,570,400,0.7
+Rapeseed & Mustard,Mangan,1998-1999,Rabi,570,232,0.41
+Rapeseed & Mustard,Mangan,1999-2000,Rabi,560,344,0.61
+Rapeseed & Mustard,Mangan,2000-2001,Rabi,560,300,0.54
+Rapeseed & Mustard,Mangan,2001-2002,Rabi,560,221,0.39
+Rapeseed & Mustard,Mangan,2002-2003,Rabi,560,230,0.41
+Rapeseed & Mustard,Mangan,2003-2004,Rabi,860,840,0.98
+Rapeseed & Mustard,Mangan,2004-2005,Rabi,860,610,0.71
+Rapeseed & Mustard,Mangan,2005-2006,Rabi,860,600,0.7
+Rapeseed & Mustard,Mangan,2006-2007,Rabi,560,390,0.7
+Rapeseed & Mustard,Mangan,2007-2008,Rabi,220,120,0.55
+Rapeseed & Mustard,Mangan,2008-2009,Rabi,440,390,0.89
+Rapeseed & Mustard,Mangan,2009-2010,Rabi,40,250,6.25
+Rapeseed & Mustard,Mangan,2010-2011,Rabi,510,319,0.63
+Rapeseed & Mustard,Mangan,2011-2012,Rabi,510,350,0.69
+Rapeseed & Mustard,Mangan,2012-2013,Rabi,310,210,0.68
+Rapeseed & Mustard,Mangan,2013-2014,Rabi,310,214,0.69
+Rapeseed & Mustard,Mangan,2014-2015,Rabi,310,213,0.69
+Rapeseed & Mustard,Mangan,2015-2016,Rabi,310,220,0.71
+Rapeseed & Mustard,Mangan,2016-2017,Rabi,311,223,0.72
+Rapeseed & Mustard,Mangan,2017-2018,Rabi,310,223,0.72
+Rapeseed & Mustard,Mangan,2018-2019,Rabi,310,225,0.73
+Rapeseed & Mustard,Mangan,2019-2020,Rabi,313,227,0.73
+Rapeseed & Mustard,Mangan,2020-2021,Rabi,312,226,0.72
+Rapeseed & Mustard,Mangan,2021-2022,Rabi,320,232,0.73
+Rapeseed & Mustard,Mangan,2022-2023,Rabi,313,229,0.73
+Rapeseed & Mustard,Namchi,1997-1998,Rabi,1450,1100,0.76
+Rapeseed & Mustard,Namchi,1998-1999,Rabi,1420,600,0.42
+Rapeseed & Mustard,Namchi,1999-2000,Rabi,1470,930,0.63
+Rapeseed & Mustard,Namchi,2000-2001,Rabi,1470,860,0.59
+Rapeseed & Mustard,Namchi,2001-2002,Rabi,1480,970,0.66
+Rapeseed & Mustard,Namchi,2002-2003,Rabi,1480,1040,0.7
+Rapeseed & Mustard,Namchi,2003-2004,Rabi,1660,1210,0.73
+Rapeseed & Mustard,Namchi,2004-2005,Rabi,1660,1210,0.73
+Rapeseed & Mustard,Namchi,2005-2006,Rabi,1660,1350,0.81
+Rapeseed & Mustard,Namchi,2006-2007,Rabi,1300,1140,0.88
+Rapeseed & Mustard,Namchi,2007-2008,Rabi,1250,960,0.77
+Rapeseed & Mustard,Namchi,2008-2009,Rabi,1650,1330,0.81
+Rapeseed & Mustard,Namchi,2009-2010,Rabi,1830,1480,0.81
+Rapeseed & Mustard,Namchi,2010-2011,Rabi,1450,1176,0.81
+Rapeseed & Mustard,Namchi,2011-2012,Rabi,1460,1190,0.82
+Rapeseed & Mustard,Namchi,2012-2013,Rabi,1360,1130,0.83
+Rapeseed & Mustard,Namchi,2013-2014,Rabi,1360,1240,0.91
+Rapeseed & Mustard,Namchi,2014-2015,Rabi,1360,1238,0.91
+Rapeseed & Mustard,Namchi,2015-2016,Rabi,1233,1150,0.93
+Rapeseed & Mustard,Namchi,2016-2017,Rabi,1232,1152,0.94
+Rapeseed & Mustard,Namchi,2017-2018,Rabi,1162,1086,0.93
+Rapeseed & Mustard,Namchi,2018-2019,Rabi,1135,1059,0.93
+Rapeseed & Mustard,Namchi,2019-2020,Rabi,1084,1012,0.93
+Rapeseed & Mustard,Namchi,2020-2021,Rabi,1140,1065,0.93
+Rapeseed & Mustard,Namchi,2021-2022,Rabi,1072,1004,0.94
+Rapeseed & Mustard,Namchi,2022-2023,Rabi,735,693,0.94
+Rapeseed & Mustard,Pakyong,2022-2023,Rabi,874,768,0.88
+Rapeseed & Mustard,Soreng,2022-2023,Rabi,135,118,0.87
+Rice,Gangtok,1997-1998,Kharif,6720,9100,1.35
+Rice,Gangtok,1998-1999,Kharif,6690,9290,1.39
+Rice,Gangtok,1999-2000,Kharif,6720,9950,1.48
+Rice,Gangtok,2000-2001,Kharif,6030,7870,1.31
+Rice,Gangtok,2001-2002,Kharif,6100,8660,1.42
+Rice,Gangtok,2002-2003,Kharif,6350,8720,1.37
+Rice,Gangtok,2003-2004,Kharif,6300,8720,1.38
+Rice,Gangtok,2004-2005,Kharif,630,9570,15.19
+Rice,Gangtok,2005-2006,Kharif,6300,9750,1.55
+Rice,Gangtok,2006-2007,Kharif,5500,8500,1.55
+Rice,Gangtok,2007-2008,Kharif,5600,9240,1.65
+Rice,Gangtok,2008-2009,Kharif,5350,9360,1.75
+Rice,Gangtok,2009-2010,Kharif,5000,8550,1.71
+Rice,Gangtok,2010-2011,Kharif,4950,8672,1.75
+Rice,Gangtok,2011-2012,Kharif,4940,8670,1.76
+Rice,Gangtok,2012-2013,Kharif,4910,8770,1.79
+Rice,Gangtok,2013-2014,Kharif,4910,8840,1.8
+Rice,Gangtok,2014-2015,Kharif,4870,8790,1.8
+Rice,Gangtok,2015-2016,Kharif,4813,8751,1.82
+Rice,Gangtok,2016-2017,Kharif,4810,8797,1.83
+Rice,Gangtok,2017-2018,Kharif,4809,8866,1.84
+Rice,Gangtok,2018-2019,Kharif,4554,8413,1.85
+Rice,Gangtok,2019-2020,Kharif,4553,8450,1.86
+Rice,Gangtok,2020-2021,Kharif,4540,8426,1.86
+Rice,Gangtok,2021-2022,Kharif,4448,8262,1.86
+Rice,Gangtok,2022-2023,Kharif,2104,3890,1.85
+Rice,Geyzing,1997-1998,Kharif,5380,7450,1.38
+Rice,Geyzing,1998-1999,Kharif,5380,7480,1.39
+Rice,Geyzing,1999-2000,Kharif,5380,8000,1.49
+Rice,Geyzing,2000-2001,Kharif,5380,7999,1.49
+Rice,Geyzing,2001-2002,Kharif,5100,7570,1.48
+Rice,Geyzing,2002-2003,Kharif,5100,7600,1.49
+Rice,Geyzing,2003-2004,Kharif,5100,7600,1.49
+Rice,Geyzing,2004-2005,Kharif,5100,7630,1.5
+Rice,Geyzing,2005-2006,Kharif,550,8320,15.13
+Rice,Geyzing,2006-2007,Kharif,550,8350,15.18
+Rice,Geyzing,2007-2008,Kharif,2460,4560,1.85
+Rice,Geyzing,2008-2009,Kharif,4190,7450,1.78
+Rice,Geyzing,2009-2010,Kharif,4170,7580,1.82
+Rice,Geyzing,2010-2011,Kharif,3970,7213,1.82
+Rice,Geyzing,2011-2012,Kharif,3950,7180,1.82
+Rice,Geyzing,2012-2013,Kharif,3610,6770,1.88
+Rice,Geyzing,2013-2014,Kharif,3160,6000,1.9
+Rice,Geyzing,2014-2015,Kharif,3130,5950,1.9
+Rice,Geyzing,2015-2016,Kharif,3016,5851,1.94
+Rice,Geyzing,2016-2017,Kharif,2871,5600,1.95
+Rice,Geyzing,2017-2018,Kharif,1969,3852,1.96
+Rice,Geyzing,2018-2019,Kharif,1974,3866,1.96
+Rice,Geyzing,2019-2020,Kharif,1549,3034,1.96
+Rice,Geyzing,2020-2021,Kharif,1494,2940,1.97
+Rice,Geyzing,2021-2022,Kharif,1486,2925,1.97
+Rice,Geyzing,2022-2023,Kharif,869,1716,1.97
+Rice,Mangan,1997-1998,Kharif,1191,1627,1.37
+Rice,Mangan,1998-1999,Kharif,1404,1917,1.37
+Rice,Mangan,1999-2000,Kharif,1408,2059,1.46
+Rice,Mangan,2000-2001,Kharif,1408,2059,1.46
+Rice,Mangan,2001-2002,Kharif,1360,1992,1.46
+Rice,Mangan,2002-2003,Kharif,1000,1350,1.35
+Rice,Mangan,2003-2004,Kharif,1000,1320,1.32
+Rice,Mangan,2004-2005,Kharif,1000,1000,1.0
+Rice,Mangan,2005-2006,Kharif,600,1850,3.08
+Rice,Mangan,2006-2007,Kharif,850,850,1.0
+Rice,Mangan,2007-2008,Kharif,1000,1030,1.03
+Rice,Mangan,2008-2009,Kharif,1000,1070,1.07
+Rice,Mangan,2009-2010,Kharif,1000,1070,1.07
+Rice,Mangan,2010-2011,Kharif,1000,1140,1.14
+Rice,Mangan,2011-2012,Kharif,970,1100,1.13
+Rice,Mangan,2012-2013,Kharif,980,1320,1.35
+Rice,Mangan,2013-2014,Kharif,988,1410,1.43
+Rice,Mangan,2014-2015,Kharif,990,1420,1.43
+Rice,Mangan,2015-2016,Kharif,920,1347,1.46
+Rice,Mangan,2016-2017,Kharif,920,1371,1.49
+Rice,Mangan,2017-2018,Kharif,923,1384,1.5
+Rice,Mangan,2018-2019,Kharif,988,1482,1.5
+Rice,Mangan,2019-2020,Kharif,923,1388,1.5
+Rice,Mangan,2020-2021,Kharif,923,1393,1.51
+Rice,Mangan,2021-2022,Kharif,924,1389,1.5
+Rice,Mangan,2022-2023,Kharif,923,1395,1.51
+Rice,Namchi,1997-1998,Kharif,2400,3270,1.36
+Rice,Namchi,1998-1999,Kharif,2400,3270,1.36
+Rice,Namchi,1999-2000,Kharif,2400,3430,1.43
+Rice,Namchi,2000-2001,Kharif,2400,3430,1.43
+Rice,Namchi,2001-2002,Kharif,2340,3150,1.35
+Rice,Namchi,2002-2003,Kharif,2340,3550,1.52
+Rice,Namchi,2003-2004,Kharif,2340,3550,1.52
+Rice,Namchi,2004-2005,Kharif,2340,3410,1.46
+Rice,Namchi,2005-2006,Kharif,2340,3770,1.61
+Rice,Namchi,2006-2007,Kharif,2300,3750,1.63
+Rice,Namchi,2007-2008,Kharif,2800,4650,1.66
+Rice,Namchi,2008-2009,Kharif,2460,4350,1.77
+Rice,Namchi,2009-2010,Kharif,2100,3730,1.78
+Rice,Namchi,2010-2011,Kharif,2220,3948,1.78
+Rice,Namchi,2011-2012,Kharif,2210,3930,1.78
+Rice,Namchi,2012-2013,Kharif,2420,4480,1.85
+Rice,Namchi,2013-2014,Kharif,2100,4010,1.91
+Rice,Namchi,2014-2015,Kharif,2050,3910,1.91
+Rice,Namchi,2015-2016,Kharif,1920,3738,1.95
+Rice,Namchi,2016-2017,Kharif,1880,3685,1.96
+Rice,Namchi,2017-2018,Kharif,1800,3534,1.96
+Rice,Namchi,2018-2019,Kharif,1740,3421,1.97
+Rice,Namchi,2019-2020,Kharif,1660,3265,1.97
+Rice,Namchi,2020-2021,Kharif,1745,3432,1.97
+Rice,Namchi,2021-2022,Kharif,1649,3245,1.97
+Rice,Namchi,2022-2023,Kharif,1544,3078,1.99
+Rice,Pakyong,2022-2023,Kharif,2120,3969,1.87
+Rice,Soreng,2022-2023,Kharif,630,1242,1.97
+Small millets,Gangtok,1997-1998,Kharif,1600,1520,0.95
+Small millets,Gangtok,1998-1999,Kharif,1600,1520,0.95
+Small millets,Gangtok,2000-2001,Kharif,1260,1120,0.89
+Small millets,Gangtok,2001-2002,Kharif,1550,1470,0.95
+Small millets,Gangtok,2002-2003,Kharif,1300,1150,0.88
+Small millets,Gangtok,2003-2004,Kharif,1000,810,0.81
+Small millets,Gangtok,2004-2005,Kharif,1000,860,0.86
+Small millets,Gangtok,2005-2006,Kharif,1000,8800,8.8
+Small millets,Gangtok,2006-2007,Kharif,1000,860,0.86
+Small millets,Gangtok,2007-2008,Kharif,1590,146,0.09
+Small millets,Gangtok,2008-2009,Kharif,1430,1340,0.94
+Small millets,Gangtok,2009-2010,Kharif,1170,1110,0.95
+Small millets,Gangtok,2010-2011,Kharif,840,832,0.99
+Small millets,Gangtok,2011-2012,Kharif,840,830,0.99
+Small millets,Gangtok,2012-2013,Kharif,870,900,1.03
+Small millets,Gangtok,2013-2014,Kharif,840,870,1.04
+Small millets,Gangtok,2014-2015,Kharif,840,870,1.04
+Small millets,Gangtok,2015-2016,Kharif,833,873,1.05
+Small millets,Gangtok,2016-2017,Kharif,830,881,1.06
+Small millets,Gangtok,2017-2018,Kharif,828,879,1.06
+Small millets,Gangtok,2018-2019,Kharif,754,804,1.07
+Small millets,Gangtok,2019-2020,Kharif,754,808,1.07
+Small millets,Gangtok,2020-2021,Kharif,754,812,1.08
+Small millets,Gangtok,2021-2022,Kharif,754,814,1.08
+Small millets,Gangtok,2022-2023,Kharif,246,263,1.07
+Small millets,Geyzing,1997-1998,Kharif,1700,1610,0.95
+Small millets,Geyzing,1998-1999,Kharif,1700,1600,0.94
+Small millets,Geyzing,2000-2001,Kharif,1615,1529,0.95
+Small millets,Geyzing,2001-2002,Kharif,1680,1580,0.94
+Small millets,Geyzing,2002-2003,Kharif,1450,1300,0.9
+Small millets,Geyzing,2003-2004,Kharif,1450,1250,0.86
+Small millets,Geyzing,2004-2005,Kharif,1450,1250,0.86
+Small millets,Geyzing,2005-2006,Kharif,1450,1350,0.93
+Small millets,Geyzing,2006-2007,Kharif,1500,1450,0.97
+Small millets,Geyzing,2007-2008,Kharif,770,780,1.01
+Small millets,Geyzing,2008-2009,Kharif,780,760,0.97
+Small millets,Geyzing,2009-2010,Kharif,1000,980,0.98
+Small millets,Geyzing,2010-2011,Kharif,810,795,0.98
+Small millets,Geyzing,2011-2012,Kharif,780,770,0.99
+Small millets,Geyzing,2012-2013,Kharif,760,780,1.03
+Small millets,Geyzing,2013-2014,Kharif,760,786,1.03
+Small millets,Geyzing,2014-2015,Kharif,760,790,1.04
+Small millets,Geyzing,2015-2016,Kharif,711,744,1.05
+Small millets,Geyzing,2016-2017,Kharif,510,544,1.07
+Small millets,Geyzing,2017-2018,Kharif,432,462,1.07
+Small millets,Geyzing,2018-2019,Kharif,234,250,1.07
+Small millets,Geyzing,2019-2020,Kharif,443,474,1.07
+Small millets,Geyzing,2020-2021,Kharif,185,199,1.08
+Small millets,Geyzing,2021-2022,Kharif,203,219,1.08
+Small millets,Geyzing,2022-2023,Kharif,154,166,1.08
+Small millets,Mangan,1997-1998,Kharif,700,650,0.93
+Small millets,Mangan,1998-1999,Kharif,700,643,0.92
+Small millets,Mangan,2000-2001,Kharif,688,633,0.92
+Small millets,Mangan,2001-2002,Kharif,688,450,0.65
+Small millets,Mangan,2002-2003,Kharif,580,330,0.57
+Small millets,Mangan,2003-2004,Kharif,690,550,0.8
+Small millets,Mangan,2004-2005,Kharif,690,530,0.77
+Small millets,Mangan,2005-2006,Kharif,690,540,0.78
+Small millets,Mangan,2006-2007,Kharif,690,640,0.93
+Small millets,Mangan,2007-2008,Kharif,520,370,0.71
+Small millets,Mangan,2008-2009,Kharif,600,570,0.95
+Small millets,Mangan,2009-2010,Kharif,920,1010,1.1
+Small millets,Mangan,2010-2011,Kharif,600,567,0.95
+Small millets,Mangan,2011-2012,Kharif,610,570,0.93
+Small millets,Mangan,2012-2013,Kharif,600,550,0.92
+Small millets,Mangan,2013-2014,Kharif,610,570,0.93
+Small millets,Mangan,2014-2015,Kharif,610,570,0.93
+Small millets,Mangan,2015-2016,Kharif,609,584,0.96
+Small millets,Mangan,2016-2017,Kharif,610,591,0.97
+Small millets,Mangan,2017-2018,Kharif,609,591,0.97
+Small millets,Mangan,2018-2019,Kharif,610,595,0.98
+Small millets,Mangan,2019-2020,Kharif,610,595,0.98
+Small millets,Mangan,2020-2021,Kharif,611,599,0.98
+Small millets,Mangan,2021-2022,Kharif,621,611,0.98
+Small millets,Mangan,2022-2023,Kharif,610,601,0.99
+Small millets,Namchi,1997-1998,Kharif,1000,950,0.95
+Small millets,Namchi,1998-1999,Kharif,1000,950,0.95
+Small millets,Namchi,2000-2001,Kharif,1000,950,0.95
+Small millets,Namchi,2001-2002,Kharif,1010,960,0.95
+Small millets,Namchi,2002-2003,Kharif,1010,960,0.95
+Small millets,Namchi,2003-2004,Kharif,1010,960,0.95
+Small millets,Namchi,2004-2005,Kharif,1010,960,0.95
+Small millets,Namchi,2005-2006,Kharif,1010,1010,1.0
+Small millets,Namchi,2006-2007,Kharif,950,950,1.0
+Small millets,Namchi,2007-2008,Kharif,850,680,0.8
+Small millets,Namchi,2008-2009,Kharif,950,860,0.91
+Small millets,Namchi,2009-2010,Kharif,1160,1080,0.93
+Small millets,Namchi,2010-2011,Kharif,750,699,0.93
+Small millets,Namchi,2011-2012,Kharif,720,670,0.93
+Small millets,Namchi,2012-2013,Kharif,750,730,0.97
+Small millets,Namchi,2013-2014,Kharif,750,740,0.99
+Small millets,Namchi,2014-2015,Kharif,750,740,0.99
+Small millets,Namchi,2015-2016,Kharif,700,710,1.01
+Small millets,Namchi,2016-2017,Kharif,660,676,1.02
+Small millets,Namchi,2017-2018,Kharif,600,615,1.03
+Small millets,Namchi,2018-2019,Kharif,516,532,1.03
+Small millets,Namchi,2019-2020,Kharif,475,490,1.03
+Small millets,Namchi,2020-2021,Kharif,504,522,1.04
+Small millets,Namchi,2021-2022,Kharif,465,483,1.04
+Small millets,Namchi,2022-2023,Kharif,395,411,1.04
+Small millets,Pakyong,2022-2023,Kharif,500,543,1.09
+Small millets,Soreng,2022-2023,Kharif,88,95,1.08
+Soyabean,Gangtok,1997-1998,Kharif,1000,810,0.81
+Soyabean,Gangtok,1998-1999,Kharif,1000,810,0.81
+Soyabean,Gangtok,1999-2000,Kharif,1000,830,0.83
+Soyabean,Gangtok,2000-2001,Kharif,1000,830,0.83
+Soyabean,Gangtok,2001-2002,Kharif,1000,790,0.79
+Soyabean,Gangtok,2002-2003,Kharif,740,520,0.7
+Soyabean,Gangtok,2003-2004,Kharif,740,620,0.84
+Soyabean,Gangtok,2004-2005,Kharif,750,650,0.87
+Soyabean,Gangtok,2005-2006,Kharif,750,700,0.93
+Soyabean,Gangtok,2006-2007,Kharif,740,740,1.0
+Soyabean,Gangtok,2007-2008,Kharif,600,530,0.88
+Soyabean,Gangtok,2008-2009,Kharif,710,630,0.89
+Soyabean,Gangtok,2009-2010,Kharif,1040,910,0.88
+Soyabean,Gangtok,2010-2011,Kharif,1000,965,0.97
+Soyabean,Gangtok,2011-2012,Kharif,930,890,0.96
+Soyabean,Gangtok,2012-2013,Kharif,920,900,0.98
+Soyabean,Gangtok,2013-2014,Kharif,920,906,0.98
+Soyabean,Gangtok,2014-2015,Kharif,1100,1084,0.99
+Soyabean,Gangtok,2015-2016,Kharif,1120,1120,1.0
+Soyabean,Gangtok,2016-2017,Kharif,1125,1126,1.0
+Soyabean,Gangtok,2017-2018,Kharif,1120,1121,1.0
+Soyabean,Gangtok,2018-2019,Kharif,1027,1028,1.0
+Soyabean,Gangtok,2019-2020,Kharif,1030,1032,1.0
+Soyabean,Gangtok,2020-2021,Kharif,1030,1032,1.0
+Soyabean,Gangtok,2022-2023,Kharif,299,300,1.0
+Soyabean,Geyzing,1997-1998,Kharif,1300,1070,0.82
+Soyabean,Geyzing,1998-1999,Kharif,1320,1000,0.76
+Soyabean,Geyzing,1999-2000,Kharif,1350,1130,0.84
+Soyabean,Geyzing,2000-2001,Kharif,1350,1131,0.84
+Soyabean,Geyzing,2001-2002,Kharif,1350,1100,0.81
+Soyabean,Geyzing,2002-2003,Kharif,1350,1000,0.74
+Soyabean,Geyzing,2003-2004,Kharif,1350,1100,0.81
+Soyabean,Geyzing,2004-2005,Kharif,1340,1090,0.81
+Soyabean,Geyzing,2005-2006,Kharif,1340,1080,0.81
+Soyabean,Geyzing,2006-2007,Kharif,1160,1160,1.0
+Soyabean,Geyzing,2007-2008,Kharif,450,400,0.89
+Soyabean,Geyzing,2008-2009,Kharif,1290,1140,0.88
+Soyabean,Geyzing,2009-2010,Kharif,800,700,0.88
+Soyabean,Geyzing,2010-2011,Kharif,1200,1051,0.88
+Soyabean,Geyzing,2011-2012,Kharif,1190,1040,0.87
+Soyabean,Geyzing,2012-2013,Kharif,1190,1090,0.92
+Soyabean,Geyzing,2013-2014,Kharif,1210,1110,0.92
+Soyabean,Geyzing,2014-2015,Kharif,1200,1102,0.92
+Soyabean,Geyzing,2015-2016,Kharif,546,520,0.95
+Soyabean,Geyzing,2016-2017,Kharif,480,457,0.95
+Soyabean,Geyzing,2017-2018,Kharif,381,363,0.95
+Soyabean,Geyzing,2018-2019,Kharif,367,350,0.95
+Soyabean,Geyzing,2019-2020,Kharif,343,328,0.96
+Soyabean,Geyzing,2020-2021,Kharif,338,323,0.96
+Soyabean,Geyzing,2021-2022,Kharif,340,325,0.96
+Soyabean,Geyzing,2022-2023,Kharif,295,284,0.96
+Soyabean,Mangan,1997-1998,Kharif,400,315,0.79
+Soyabean,Mangan,1998-1999,Kharif,400,155,0.39
+Soyabean,Mangan,1999-2000,Kharif,400,266,0.67
+Soyabean,Mangan,2000-2001,Kharif,400,269,0.67
+Soyabean,Mangan,2001-2002,Kharif,400,274,0.69
+Soyabean,Mangan,2002-2003,Kharif,400,240,0.6
+Soyabean,Mangan,2003-2004,Kharif,400,300,0.75
+Soyabean,Mangan,2004-2005,Kharif,400,310,0.78
+Soyabean,Mangan,2005-2006,Kharif,400,310,0.78
+Soyabean,Mangan,2006-2007,Kharif,310,310,1.0
+Soyabean,Mangan,2007-2008,Kharif,40,310,7.75
+Soyabean,Mangan,2008-2009,Kharif,300,250,0.83
+Soyabean,Mangan,2009-2010,Kharif,630,520,0.83
+Soyabean,Mangan,2010-2011,Kharif,500,413,0.83
+Soyabean,Mangan,2011-2012,Kharif,300,250,0.83
+Soyabean,Mangan,2012-2013,Kharif,300,250,0.83
+Soyabean,Mangan,2013-2014,Kharif,300,257,0.86
+Soyabean,Mangan,2014-2015,Kharif,300,257,0.86
+Soyabean,Mangan,2015-2016,Kharif,302,260,0.86
+Soyabean,Mangan,2016-2017,Kharif,300,260,0.87
+Soyabean,Mangan,2017-2018,Kharif,302,263,0.87
+Soyabean,Mangan,2018-2019,Kharif,300,261,0.87
+Soyabean,Mangan,2019-2020,Kharif,306,266,0.87
+Soyabean,Mangan,2020-2021,Kharif,321,280,0.87
+Soyabean,Mangan,2021-2022,Kharif,328,286,0.87
+Soyabean,Mangan,2022-2023,Kharif,306,267,0.87
+Soyabean,Namchi,1997-1998,Kharif,1300,1100,0.85
+Soyabean,Namchi,1998-1999,Kharif,1300,780,0.6
+Soyabean,Namchi,1999-2000,Kharif,1400,1180,0.84
+Soyabean,Namchi,2000-2001,Kharif,1400,1180,0.84
+Soyabean,Namchi,2001-2002,Kharif,1400,1150,0.82
+Soyabean,Namchi,2002-2003,Kharif,1400,1150,0.82
+Soyabean,Namchi,2003-2004,Kharif,1400,1190,0.85
+Soyabean,Namchi,2004-2005,Kharif,1400,120,0.09
+Soyabean,Namchi,2005-2006,Kharif,140,1240,8.86
+Soyabean,Namchi,2006-2007,Kharif,1020,1020,1.0
+Soyabean,Namchi,2007-2008,Kharif,1270,1110,0.87
+Soyabean,Namchi,2008-2009,Kharif,1300,1140,0.88
+Soyabean,Namchi,2009-2010,Kharif,1730,1520,0.88
+Soyabean,Namchi,2010-2011,Kharif,1500,1320,0.88
+Soyabean,Namchi,2011-2012,Kharif,1450,1290,0.89
+Soyabean,Namchi,2012-2013,Kharif,1450,1370,0.94
+Soyabean,Namchi,2013-2014,Kharif,1450,1400,0.97
+Soyabean,Namchi,2014-2015,Kharif,1460,1410,0.97
+Soyabean,Namchi,2015-2016,Kharif,1310,1290,0.98
+Soyabean,Namchi,2016-2017,Kharif,1270,1251,0.99
+Soyabean,Namchi,2017-2018,Kharif,1268,1249,0.99
+Soyabean,Namchi,2018-2019,Kharif,1268,1251,0.99
+Soyabean,Namchi,2019-2020,Kharif,1250,1233,0.99
+Soyabean,Namchi,2020-2021,Kharif,1268,1251,0.99
+Soyabean,Namchi,2021-2022,Kharif,1244,1229,0.99
+Soyabean,Namchi,2022-2023,Kharif,1168,1154,0.99
+Soyabean,Pakyong,2021-2022,Kharif,1030,1032,1.0
+Soyabean,Pakyong,2022-2023,Kharif,702,703,1.0
+Soyabean,Soreng,2022-2023,Kharif,92,86,0.93
+Urad,Gangtok,1997-1998,Kharif,980,740,0.76
+Urad,Gangtok,1998-1999,Kharif,980,740,0.76
+Urad,Gangtok,1999-2000,Kharif,980,740,0.76
+Urad,Gangtok,2000-2001,Kharif,360,180,0.5
+Urad,Gangtok,2001-2002,Kharif,360,180,0.5
+Urad,Gangtok,2002-2003,Kharif,360,200,0.56
+Urad,Gangtok,2003-2004,Kharif,360,200,0.56
+Urad,Gangtok,2004-2005,Kharif,360,230,0.64
+Urad,Gangtok,2005-2006,Kharif,410,300,0.73
+Urad,Gangtok,2006-2007,Kharif,390,280,0.72
+Urad,Gangtok,2007-2008,Kharif,390,280,0.72
+Urad,Gangtok,2008-2009,Kharif,500,410,0.82
+Urad,Gangtok,2009-2010,Kharif,830,710,0.86
+Urad,Gangtok,2010-2011,Kharif,900,810,0.9
+Urad,Gangtok,2011-2012,Kharif,870,780,0.9
+Urad,Gangtok,2012-2013,Kharif,290,280,0.97
+Urad,Gangtok,2013-2014,Kharif,290,284,0.98
+Urad,Gangtok,2014-2015,Kharif,290,284,0.98
+Urad,Gangtok,2015-2016,Kharif,290,290,1.0
+Urad,Gangtok,2016-2017,Kharif,291,292,1.0
+Urad,Gangtok,2017-2018,Kharif,287,288,1.0
+Urad,Gangtok,2018-2019,Kharif,500,501,1.0
+Urad,Gangtok,2019-2020,Kharif,455,459,1.01
+Urad,Gangtok,2020-2021,Kharif,454,458,1.01
+Urad,Gangtok,2021-2022,Kharif,456,1462,3.21
+Urad,Gangtok,2022-2023,Kharif,241,244,1.01
+Urad,Geyzing,1997-1998,Kharif,1700,1300,0.76
+Urad,Geyzing,1998-1999,Kharif,1700,1280,0.75
+Urad,Geyzing,1999-2000,Kharif,1700,1280,0.75
+Urad,Geyzing,2000-2001,Kharif,1700,1279,0.75
+Urad,Geyzing,2001-2002,Kharif,1700,1240,0.73
+Urad,Geyzing,2002-2003,Kharif,1700,1280,0.75
+Urad,Geyzing,2003-2004,Kharif,1700,1290,0.76
+Urad,Geyzing,2004-2005,Kharif,1700,1290,0.76
+Urad,Geyzing,2005-2006,Kharif,174,1340,7.7
+Urad,Geyzing,2006-2007,Kharif,1800,1410,0.78
+Urad,Geyzing,2007-2008,Kharif,190,130,0.68
+Urad,Geyzing,2008-2009,Kharif,1400,1300,0.93
+Urad,Geyzing,2009-2010,Kharif,850,700,0.82
+Urad,Geyzing,2010-2011,Kharif,940,780,0.83
+Urad,Geyzing,2011-2012,Kharif,830,700,0.84
+Urad,Geyzing,2012-2013,Kharif,1220,1060,0.87
+Urad,Geyzing,2013-2014,Kharif,1230,1070,0.87
+Urad,Geyzing,2014-2015,Kharif,1210,1053,0.87
+Urad,Geyzing,2015-2016,Kharif,914,811,0.89
+Urad,Geyzing,2016-2017,Kharif,711,632,0.89
+Urad,Geyzing,2017-2018,Kharif,703,626,0.89
+Urad,Geyzing,2018-2019,Kharif,518,461,0.89
+Urad,Geyzing,2019-2020,Kharif,634,565,0.89
+Urad,Geyzing,2020-2021,Kharif,634,570,0.9
+Urad,Geyzing,2021-2022,Kharif,638,574,0.9
+Urad,Geyzing,2022-2023,Kharif,342,315,0.92
+Urad,Mangan,1997-1998,Kharif,20,10,0.5
+Urad,Mangan,1998-1999,Kharif,20,9,0.45
+Urad,Mangan,1999-2000,Kharif,20,9,0.45
+Urad,Mangan,2000-2001,Kharif,20,9,0.45
+Urad,Mangan,2001-2002,Kharif,20,9,0.45
+Urad,Mangan,2002-2003,Kharif,20,10,0.5
+Urad,Mangan,2003-2004,Kharif,20,10,0.5
+Urad,Mangan,2004-2005,Kharif,20,10,0.5
+Urad,Mangan,2005-2006,Kharif,20,10,0.5
+Urad,Mangan,2006-2007,Kharif,20,40,2.0
+Urad,Mangan,2007-2008,Kharif,20,110,5.5
+Urad,Mangan,2008-2009,Kharif,20,16,0.8
+Urad,Mangan,2009-2010,Kharif,330,270,0.82
+Urad,Mangan,2010-2011,Kharif,260,212,0.82
+Urad,Mangan,2011-2012,Kharif,190,160,0.84
+Urad,Mangan,2020-2021,Kharif,67,63,0.94
+Urad,Mangan,2021-2022,Kharif,72,68,0.94
+Urad,Namchi,1997-1998,Kharif,1700,1250,0.74
+Urad,Namchi,1998-1999,Kharif,1700,1020,0.6
+Urad,Namchi,1999-2000,Kharif,1700,1280,0.75
+Urad,Namchi,2000-2001,Kharif,1700,1280,0.75
+Urad,Namchi,2001-2002,Kharif,1700,1280,0.75
+Urad,Namchi,2002-2003,Kharif,1700,1300,0.76
+Urad,Namchi,2003-2004,Kharif,1700,1310,0.77
+Urad,Namchi,2004-2005,Kharif,1700,1310,0.77
+Urad,Namchi,2005-2006,Kharif,170,1330,7.82
+Urad,Namchi,2006-2007,Kharif,1340,1050,0.78
+Urad,Namchi,2007-2008,Kharif,1500,1320,0.88
+Urad,Namchi,2008-2009,Kharif,1300,1100,0.85
+Urad,Namchi,2009-2010,Kharif,1590,1350,0.85
+Urad,Namchi,2010-2011,Kharif,1600,141,0.09
+Urad,Namchi,2011-2012,Kharif,1530,1360,0.89
+Urad,Namchi,2012-2013,Kharif,1760,1570,0.89
+Urad,Namchi,2013-2014,Kharif,1760,1600,0.91
+Urad,Namchi,2014-2015,Kharif,1730,1577,0.91
+Urad,Namchi,2015-2016,Kharif,1700,1581,0.93
+Urad,Namchi,2016-2017,Kharif,1720,1602,0.93
+Urad,Namchi,2017-2018,Kharif,1700,1583,0.93
+Urad,Namchi,2018-2019,Kharif,1700,1583,0.93
+Urad,Namchi,2019-2020,Kharif,1700,1588,0.93
+Urad,Namchi,2020-2021,Kharif,1700,1593,0.94
+Urad,Namchi,2021-2022,Kharif,1685,1584,0.94
+Urad,Namchi,2022-2023,Kharif,1628,1530,0.94
+Urad,Pakyong,2022-2023,Kharif,210,214,1.02
+Urad,Soreng,2022-2023,Kharif,322,287,0.89
+Wheat,Gangtok,1997-1998,Rabi,2800,5100,1.82
+Wheat,Gangtok,1998-1999,Rabi,2720,2370,0.87
+Wheat,Gangtok,1999-2000,Rabi,2550,4310,1.69
+Wheat,Gangtok,2000-2001,Rabi,1490,2150,1.44
+Wheat,Gangtok,2001-2002,Rabi,2700,3640,1.35
+Wheat,Gangtok,2002-2003,Rabi,2530,3310,1.31
+Wheat,Gangtok,2003-2004,Rabi,1950,2470,1.27
+Wheat,Gangtok,2004-2005,Rabi,1430,2280,1.59
+Wheat,Gangtok,2005-2006,Rabi,1430,2800,1.96
+Wheat,Gangtok,2006-2007,Rabi,1430,2810,1.97
+Wheat,Gangtok,2007-2008,Rabi,1640,1640,1.0
+Wheat,Gangtok,2008-2009,Rabi,1250,1210,0.97
+Wheat,Gangtok,2009-2010,Rabi,1730,1630,0.94
+Wheat,Gangtok,2010-2011,Rabi,1000,1180,1.18
+Wheat,Gangtok,2011-2012,Rabi,900,1060,1.18
+Wheat,Gangtok,2012-2013,Rabi,160,180,1.13
+Wheat,Gangtok,2013-2014,Rabi,150,170,1.13
+Wheat,Gangtok,2014-2015,Rabi,150,170,1.13
+Wheat,Gangtok,2015-2016,Rabi,143,162,1.13
+Wheat,Gangtok,2016-2017,Rabi,120,137,1.14
+Wheat,Gangtok,2017-2018,Rabi,120,137,1.14
+Wheat,Gangtok,2018-2019,Rabi,113,129,1.14
+Wheat,Gangtok,2019-2020,Rabi,113,130,1.15
+Wheat,Gangtok,2020-2021,Rabi,104,120,1.15
+Wheat,Gangtok,2021-2022,Rabi,103,119,1.16
+Wheat,Gangtok,2022-2023,Rabi,370,420,1.14
+Wheat,Geyzing,1997-1998,Rabi,2600,4694,1.81
+Wheat,Geyzing,1998-1999,Rabi,2600,2200,0.85
+Wheat,Geyzing,1999-2000,Rabi,2550,4300,1.69
+Wheat,Geyzing,2000-2001,Rabi,2720,4063,1.49
+Wheat,Geyzing,2001-2002,Rabi,2880,4010,1.39
+Wheat,Geyzing,2002-2003,Rabi,2670,3620,1.36
+Wheat,Geyzing,2003-2004,Rabi,2670,3620,1.36
+Wheat,Geyzing,2004-2005,Rabi,1960,3000,1.53
+Wheat,Geyzing,2005-2006,Rabi,1960,3250,1.66
+Wheat,Geyzing,2006-2007,Rabi,2100,3500,1.67
+Wheat,Geyzing,2007-2008,Rabi,910,910,1.0
+Wheat,Geyzing,2008-2009,Rabi,1020,820,0.8
+Wheat,Geyzing,2009-2010,Rabi,1100,800,0.73
+Wheat,Geyzing,2010-2011,Rabi,810,621,0.77
+Wheat,Geyzing,2011-2012,Rabi,790,710,0.9
+Wheat,Geyzing,2012-2013,Rabi,150,150,1.0
+Wheat,Geyzing,2014-2015,Rabi,40,40,1.0
+Wheat,Geyzing,2015-2016,Rabi,20,21,1.05
+Wheat,Mangan,1997-1998,Rabi,740,1346,1.82
+Wheat,Mangan,1998-1999,Rabi,1041,826,0.79
+Wheat,Mangan,1999-2000,Rabi,1040,1649,1.59
+Wheat,Mangan,2000-2001,Rabi,1045,1300,1.24
+Wheat,Mangan,2001-2002,Rabi,1050,785,0.75
+Wheat,Mangan,2002-2003,Rabi,1050,1050,1.0
+Wheat,Mangan,2003-2004,Rabi,105,106,1.01
+Wheat,Mangan,2004-2005,Rabi,850,900,1.06
+Wheat,Mangan,2005-2006,Rabi,850,900,1.06
+Wheat,Mangan,2006-2007,Rabi,850,900,1.06
+Wheat,Mangan,2007-2008,Rabi,40,40,1.0
+Wheat,Mangan,2008-2009,Rabi,380,320,0.84
+Wheat,Mangan,2009-2010,Rabi,810,980,1.21
+Wheat,Mangan,2010-2011,Rabi,470,498,1.06
+Wheat,Mangan,2011-2012,Rabi,440,470,1.07
+Wheat,Mangan,2012-2013,Rabi,50,50,1.0
+Wheat,Mangan,2013-2014,Rabi,50,45,0.9
+Wheat,Mangan,2014-2015,Rabi,50,50,1.0
+Wheat,Mangan,2015-2016,Rabi,50,45,0.9
+Wheat,Mangan,2016-2017,Rabi,50,46,0.92
+Wheat,Mangan,2017-2018,Rabi,52,48,0.92
+Wheat,Mangan,2018-2019,Rabi,50,47,0.94
+Wheat,Mangan,2019-2020,Rabi,52,48,0.92
+Wheat,Namchi,1997-1998,Rabi,1950,3060,1.57
+Wheat,Namchi,1998-1999,Rabi,1580,1020,0.65
+Wheat,Namchi,1999-2000,Rabi,1960,2590,1.32
+Wheat,Namchi,2000-2001,Rabi,1960,2590,1.32
+Wheat,Namchi,2001-2002,Rabi,2080,2050,0.99
+Wheat,Namchi,2002-2003,Rabi,2080,2420,1.16
+Wheat,Namchi,2003-2004,Rabi,2080,2490,1.2
+Wheat,Namchi,2004-2005,Rabi,1500,2070,1.38
+Wheat,Namchi,2005-2006,Rabi,1500,2300,1.53
+Wheat,Namchi,2006-2007,Rabi,2000,3150,1.58
+Wheat,Namchi,2007-2008,Rabi,1870,1870,1.0
+Wheat,Namchi,2008-2009,Rabi,1250,1150,0.92
+Wheat,Namchi,2009-2010,Rabi,1560,1310,0.84
+Wheat,Namchi,2010-2011,Rabi,370,411,1.11
+Wheat,Namchi,2011-2012,Rabi,370,410,1.11
+Wheat,Namchi,2012-2013,Rabi,160,170,1.06
+Wheat,Namchi,2013-2014,Rabi,160,170,1.06
+Wheat,Namchi,2014-2015,Rabi,150,160,1.07
+Wheat,Namchi,2015-2016,Rabi,110,118,1.07
+Wheat,Namchi,2016-2017,Rabi,95,103,1.08
+Wheat,Pakyong,2022-2023,Rabi,56,66,1.18
